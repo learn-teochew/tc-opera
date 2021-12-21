@@ -1,10 +1,33 @@
 ---
 layout: home
+title: Learn Teochew with Teochew Opera
 ---
 
-Teochew Language and Teochew Opera
-==================================
-{: .no_toc}
+Teochew Opera has a rich tradition and is one of the most famous art forms
+associated with Teochew language and culture. As a heritage speaker of Teochew,
+I found it fascinating but also very intimidating, because the language used in
+Teochew opera is different from everyday vernacular language, and it seemed too
+difficult to understand for a beginner. One reason is that opera shows often do
+not have subtitles, and when they do, the subtitles are translations into
+Mandarin and do not fit the Teochew words exactly.
+
+These pages will focus on producing resources helpful for learning Teochew
+language from Teochew opera. This means:
+ * Transcriptions into Pêng’im (romanized phonetic spelling) and Chinese
+   characters
+ * Translations into English
+ * Explanatory notes on vocabulary and spelling conventions (e.g. non-standard
+   characters, unique Teochew vocabulary or grammar)
+
+In addition I would like to showcase the centuries-old history of Teochew
+vernacular writing in Teochew opera scripts. These historical scripts are among
+the rare examples of Chinese regional languages (“dialects”) in printed form
+that have survived to the present day. Some of these rare editions have been
+digitized and can be read online. I have linked those that I know about from
+this page.
+
+Finally, many modern Teochew opera performances can be viewed online. Some
+YouTube channels with Teochew opera content are also linked here.
 
 
 Contents
@@ -13,6 +36,23 @@ Contents
 
 * TOC
 {:toc}
+
+
+Pêng’im transcriptions and English translations by Learn Teochew
+----------------------------------------------------------------
+
+To help Teochew learners who are curious about the language used in Teochew
+opera, we will be transcribing selected operas and excerpts into Pêng’im and
+translating them to English. These translations are for educational purposes
+only. Transcriptions are in the three most popular romanization systems:
+Guangdong Education Department Pêng’im (1960), Gaginang.org Peng’im, and the
+[Tie-tsiann-hue Tie-lo system](http://teochew.pw). PDFs are also provided for
+offline reading.
+
+ * 《陳三五娘》Dang-san Ngou-niê (1961 film production)
+   * [Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.pdf %})
+   * [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.pdf %})
+   * [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.pdf %})
 
 
 Historical Teochew opera scripts
@@ -91,20 +131,3 @@ YouTube channels with Teochew opera content:
  * [潮州才順 Teochew Chai Soon](https://www.youtube.com/c/teochewsoon)
  * [HYLAM](https://www.youtube.com/user/MrAlexHY)
  * [LingGoh](https://www.youtube.com/c/LingGoh)
-
-
-Pêng’im transcriptions and English translations by Learn Teochew
-----------------------------------------------------------------
-
-To help Teochew learners who are curious about the language used in Teochew
-opera, we will be transcribing selected operas and excerpts into Pêng’im and
-translating them to English. These translations are for educational purposes
-only. Transcriptions are in the three most popular romanization systems:
-Guangdong Education Department Pêng’im (1960), Gaginang.org Peng’im, and the
-[Tie-tsiann-hue Tie-lo system](http://teochew.pw). PDFs are also provided for
-offline reading.
-
- * 《陳三五娘》Dang-san Ngou-niê (1961)
-   * [Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.pdf %})
-   * [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.pdf %})
-   * [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.pdf %})
