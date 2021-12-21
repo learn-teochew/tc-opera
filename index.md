@@ -99,6 +99,12 @@ Pêng’im transcriptions and English translations by Learn Teochew
 To help Teochew learners who are curious about the language used in Teochew
 opera, we will be transcribing selected operas and excerpts into Pêng’im and
 translating them to English. These translations are for educational purposes
-only.
+only. Transcriptions are in the three most popular romanization systems:
+Guangdong Education Department Pêng’im (1960), Gaginang.org Peng’im, and the
+[Tie-tsiann-hue Tie-lo system](http://teochew.pw). PDFs are also provided for
+offline reading.
 
- * 《陳三五娘》Dang-san Ngou-niê (1961) ([Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %}), [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %}), [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %}))
+ * 《陳三五娘》Dang-san Ngou-niê (1961)
+   * [Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.pdf %})
+   * [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.pdf %})
+   * [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.pdf %})
