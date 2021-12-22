@@ -45,26 +45,31 @@ To help Teochew learners who are curious about the language used in Teochew
 opera, we will be transcribing selected operas and excerpts into Pêng’im and
 translating them to English. These translations are for educational purposes
 only. Transcriptions are in the three most popular romanization systems:
-Guangdong Education Department Pêng’im (1960), Gaginang.org Peng’im, and the
-[Tie-tsiann-hue Tie-lo system](http://teochew.pw). PDFs are also provided for
-offline reading.
+[Guangdong Education Department
+Pêng’im](https://zh.wikipedia.org/wiki/潮州話拼音方案) (1960), Gaginang.org
+Peng’im, and the [Tie-tsiann-hue Tie-lo system](http://teochew.pw). PDFs are
+also provided for offline reading.
 
  * 《陳三五娘》Dang-san Ngou-niê (1961 film production)
    * [Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.pdf %})
    * [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.pdf %})
    * [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %}), [PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.pdf %})
+ * 《蘇六娘》Sou lag-niê (1957 film production) - excerpts
+   * [Guangdong Pêng’im]({{ site.baseurl }}{% link sou-lak-nie.gdpi.md %}), [PDF]({{ site.baseurl }}{% link sou-lak-nie.gdpi.pdf %})
+   * [Gaginang Peng’im]({{ site.baseurl }}{% link sou-lak-nie.ggnn.md %}), [PDF]({{ site.baseurl }}{% link sou-lak-nie.ggnn.pdf %})
+   * [Tie-lo]({{ site.baseurl }}{% link sou-lak-nie.tlo.md %}), [PDF]({{ site.baseurl }}{% link sou-lak-nie.tlo.pdf %})
 
 
 Historical Teochew opera scripts
 --------------------------------
 
-Five of the editions below are reprinted in a facsimile edition,
+Five of the editions below have been reprinted in a facsimile edition,
 《明本潮州戲文五種》（廣東人民出版社，1985）. Because two of these editions
-each contain two different plays printed together, a total of seven plays are
-included in this facsimile reprint. Fortunately for those of us who are unable
-to find a copy of this valuable edition, several of them are now available as
-digitized versions online. In some cases, the digital scans are in color and of
-high quality, capturing more detail than the printed facsimile edition.
+each contain two different plays printed together, a total of seven plays were
+included in this edition. Fortunately for those of us who are unable to find a
+copy of this valuable book, several of them are now available as digitized
+versions online. In some cases, the digital scans are in color and of high
+quality, capturing more detail than the printed facsimile.
 
 
 ### 《劉希必金釵記》 • Lau-hi-bik Gim-toi-gi • Tale of the Golden Hairpin

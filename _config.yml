@@ -34,6 +34,7 @@ theme: minima
 # to override the default setting.
 exclude:
   - dang-san-ngou-nie.markup.md
+  - sou-lak-nie.markup.md
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
