@@ -25,7 +25,11 @@ github_username:  learn-teochew
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "sunrise"
+
 # plugins:
 #   - jekyll-feed
 
@@ -33,12 +37,5 @@ theme: minima
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - dang-san-ngou-nie.markup.md
-  - sou-lak-nie.markup.md
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - dang-san-ngou-nie.*.md
+  - sou-lak-nie.*.md

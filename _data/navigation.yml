@@ -1,0 +1,5 @@
+main:
+  - title: "Transcriptions"
+    url: /transcriptions/
+  - title: "Historical scripts"
+    url: /historical-scripts/
