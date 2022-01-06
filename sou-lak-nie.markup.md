@@ -4,9 +4,13 @@ The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigen
 
 ## 桃花佮渡公鬥歌 • %To-hue% and the Boatman compete in song
 
-
+[2:44](https://youtu.be/oI7fTLB5lB0?t=144)
 
 （渡公）• %Dou-gong% • Boatman
+
+%ziou-sek bai-dou do gang-bieng%
+朝夕 擺渡 在 江邊
+TK
 
 %cen-suan lek-zui puan ua lieng%
 青山 綠水 伴 我 臉
@@ -393,3 +397,359 @@ Alright, you stand fast, and wait for me to row. Stand fast!
 > This version of the opera cuts off this scene at the seventh month. In other versions, %To-hue% and the boatman continue taking turns until the boatman begins with the “thirteenth month” and loses the competition because there is no thirteenth month (see Helga Werle, [“Notes on Chiuchow Opera”](https://hkjo.lib.hku.hk/archive/files/64866eb4532f430fb6285a712a08d768.pdf), *J. Royal Asiatic Soc. Hong Kong Branch* (1975) vol. 15, pp. 71-87). 
 >
 > Werle writes of this scene: “This is a most delightful scene, a fully choreographed dance with the music based on Chiuchow [Teochew] folk tunes. The music and the dance are fresh and cheerful. This opening shows characteristic features of Chiuchow opera; it is beautiful, lighthearted and full of songs and dances.”
+
+
+
+## Scene 2
+
+[12:06](https://youtu.be/oI7fTLB5lB0?t=726)
+
+（六娘）
+
+•cung-huang zieng-ieh gau hng-lim
+春風 踐約 到 園林
+
+•ciou lip hue-zoin dok dim-leng
+稍 立 花前 獨 沉 呤
+
+•bie-hian hiou ua ui ho-gu
+表兄 邀 我 爲 何故
+
+•zueng-gue-liou dang-li hue-pou lai-gau sui liu-im
+轉過了 東籬花圃 來到 垂柳蔭
+
+•dang gin na deng sia sok-sok
+但 見 那 亭 榭 寂寂
+
+•sim ueng-iu
+甚 緣由
+
+•sim ueng-iu u-ieh buk lai-lim?
+甚 緣由 有約 不 來臨
+
+（繼春）
+
+siang-ek dang-sim-bak, gi-dou kai-kau lang
+常億 同心腹，幾度 開口 難
+
+cung-huang u-ieh au-hng dang
+春風 有約 後園 中
+
+ze-zek-cv zai-mo co-gue liang-ueng
+這一次 再莫 錯過 良緣
+
+mue-mue hueng bhue-lai
+妹妹 還 未來
+
+siu-giu-hue! siu-giu pau-gip Lv Mong-zeng
+繡球花！繡球 拋給 呂蒙正
+
+zing-si gia-diou, gia-diou!
+真是 佳兆，佳兆！
+
+o, ngueng-lai si bie-mue soin-ua rv-lai
+哦，原來 是 表妹 先我 而來
+
+mue-mue, cv-hue gak-dik ho, ko-sieh buk-do cai-lau zoin
+妹妹，此花 捔得 好，可惜 不在 彩樓 前
+
+（六娘）
+
+bie-hian, hie mai lueng-gang
+表兄，～勿 亂講
+
+（繼春）
+
+seng-ga liou
+承教 了
+
+（六娘）
+
+bie-hian ieh-hiou, bhue-sek u ho-ga-ngang?
+表兄 約邀，未識 有 何教言？
+
+（繼春）
+
+mue-mue, ui-hian v lv dang-hak gui-ni
+妹妹，爲兄 與 汝 同學 幾年
+
+ru-gim kue-ki ziang-zi, bik-su v lv ziem-biek
+如今 科期 將至，必須 與 汝 暫別
+
+（六娘）
+
+ziem-biek?
+暫別？
+
+（繼春）
+
+zian-si, mue ia ni in gip-gi
+正是，妹 也 年 已 及笄
+
+kiong-pa buk-leng gu-zu Sai-lou
+恐怕 不能 久住 西蘆
+
+zek-biek zv-au, ziu buk-zai zai-hue ho-ki liou
+一別 之後，就 不知 再會 何期 了
+
+（六娘）
+
+bie-hian, ngueng zok-lv zek-gv seng-mia
+表兄，願 祝你 一舉 成名
+
+（繼春）
+
+sia-sia mue-mue, dang-si...
+謝謝 妹妹，但是……
+
+mue-mue, ze beh ghek-dui si lv diou-hia di moh?
+妹妹，這 白玉墜 是 汝 掉下 的 麼？
+
+（六娘）
+
+zian-si
+正是
+
+（繼春）
+
+mue-mue, ze ghek-dui ho-cien si ua ri-si sang-gip lv di
+妹妹，這 玉墜 好像 是 我 兒時 送給 汝 的
+
+ui-ho sik-loh v-cv?
+爲何 失落 與此？
+
+（六娘）
+
+ze beh ghek-dui zian-si bie-hian so-zang
+這 白玉墜 正是 表兄 所 贈
+
+mue si-kek dua do sing-bin
+妹 時刻 帶 在 身邊
+
+sek-cai buk-gak, diou-hia do-cv
+適才不覺，掉下 在此
+
+（繼春）
+
+hue-ek tong-ni, cen-bhue dek-bhe
+回憶 童年，青梅 竹馬
+
+zeng-gi ho-si, lv-ua ziu ziang-dai seng-ring liou
+曾 幾 何時，你我 就 長大 成人 了
+
+mue-mue, lv ka gi-dik: ri-si lv ain meng-siem
+妹妹，汝 豈 記得，兒時 汝 愛 鳴蟬
+
+ua ziu pang-zien ze-ciu kv-cok, hiem-se diek-hia-lai
+我 就 攀上 這樹 去捉，險些 跌下來
+
+（六娘）
+
+ai-ia, gi-dik, gi-dik! bie-hian a!
+哎呀，記得，記得！表兄 啊！
+
+•zai siem-sian gi-dou mueh-hueng cen-i
+知 蟬聲 幾度 物換星移
+
+•rim cen-i mueh-hueng, nang-liang sim-siang-ain bho kiong-ki
+任 星移物換，俺倆 心相愛 無 窮期
+
+bie-hian, lv toin
+表兄，汝 睇
+
+•zeng gi na
+曾 記 那
+
+•zeng gi na si-gang liu-im e dang sui-[ieh]
+曾 記 那 時間 柳蔭 下 同垂（約？）
+
+（繼春）
+
+•dang sien iu-hv sang bi-mak
+同 賞 游魚 雙 比目
+
+（六娘）
+
+•oin-si zeng do ze tang-bieng, hi sia zv-ue di zak-zieng
+閒時 曾 在 這 溏邊，戲 寫 書畫 地 作 箋
+
+•gueng-lai gueng-sien di-dang ho
+倦來 觀賞 池中 荷
+
+•deng-deng ghek lip ko-nang-lieng
+亭亭 玉立 可儂憐
+
+（繼春）
+
+•na si-gang lv ain noi-hue ua diah-zang
+那 時間 汝 愛 蓮花 我 摘贈
+
+•zang lv zek-gi beng-di lieng
+贈 汝 一枝 並蒂 蓮
+
+mue-mue, nang liang-nang ko-u zek-bi
+妹妹，俺 兩人 可有 一比
+
+（六娘）
+
+bi-zoh sim-moh?
+比作 什麼？
+
+（繼春）
+
+•hue-kai beng-di ko-nang-lieng
+花開 並蒂 可人憐
+
+•ho-bi nang hian-mue cie-ghv beng-giang
+好比 俺 兄妹 笑語 並肩
+
+（六娘）
+
+•iu ho-bi ceng-hue hu-diep sang-sang bhu
+又 好比 穿花 蝴蝶 雙雙 舞
+
+（繼春）
+
+•nang ze-li buk-diep nang-ri bhu sang-sang
+俺 這裏 抔蝶 人兒 舞 雙雙
+
+（六娘）
+
+•hu-diep ni-ni hue-gang bhu
+蝴蝶 年年 花間 舞
+
+（繼春）
+
+•ngueng buk-diep nang-ri iong seng-sang
+願 抔蝶 人兒 永 成雙
+
+（桃花）
+
+•buk-co, dui-ia, hu-diep zv-eng sang-sang bhu
+不錯，對呀，蝴蝶 自應 雙雙 舞
+
+•buk-diep nang-ri iong seng-sang
+抔蝶 人兒 永 成雙
+
+（六娘）
+
+zuan-bi lv, gui-tau gui-nau, heh-dik nang-sim gian-meh tiou
+賤婢 汝，鬼頭 鬼腦，吓得 人心 經脈 跳
+
+lv m-do-ge, hong-si ang-ring, kiak lai-cv ho-sv?
+汝 唔在家，奉侍 安人，卻 來此 何事？
+
+（桃花）
+
+zi ing ueng-ghua lai-sing sueh-dau, buk-rik hue-ge
+只因 員外 來信 說道，不日 回家
+
+ing-cv ang-ring meng bi zih lv hue-kv
+因此 安人 命 婢 接 汝 回去
+
+ang-ring sueh-dau: meng-tin gik-rik ziu su ki-teng
+安人 說道：明天 吉日 就 須 啓程
+
+（繼春）
+
+mue-mue, lv meng-rik hue-ge, ua iu ziang hu-ci
+妹妹，汝 明日 回家，我 又 將 赴試
+
+zek-biek zai-biek, au-hue ho-ki?
+一別 再別，後會 何期？
+
+（六娘）
+
+•gang-lam gang-bak
+江南 江北
+
+•gang-lam gang-bak zek-koi zui
+江南 江北 一溪 水
+
+•biek-si iong-i, gin-si lang
+別時 容易，見時 難
+
+（繼春）
+
+•mue gui Lv-pou, hian hu-ci
+妹 歸 呂浦，兄 赴試
+
+•zek-biek zai-biek cou geng-ziang
+一別 再別 愁 更長
+
+（桃花）
+
+•ain-sien bhueng-kuang sien-sv ze
+愛償 萬頃 相思 債
+
+•huan-su gip-za gip-za deng liang-ueng
+還須 及早 及早 訂 良緣
+
+bie-siou-ia,
+表少爺，
+
+•ua kvng-lv, hue-kai kam-zih hueng-su zih
+我 勸你，花開 堪折 還須 折
+
+•mo-tai bho-hue kong zih gi
+莫待 無花 空 折 枝
+
+•nang-sv cong-cong do bieng-hue
+人事 匆匆 多 變化
+
+•za toh liang-bhue ba cing ti
+早 託 良媒 把 親 提
+
+（六娘）
+
+To-hue, gue-lai
+桃花，過來
+
+（桃花）
+
+bie-siou-ia, ho-liou a, nie-gian u dian-ceng zv-mueh sang lv!
+表少爺，好了 啊，娘囝 有 定情 之物 送 汝！
+
+（繼春）
+
+do na-li? kuai na-lai!
+在 哪裏？快 拿來！
+
+（桃花）
+
+ai! siu-cai ho bho-li, nie-gian ceng-cim ngi-dong
+唉！秀才 好 無理，娘囝 情深 義重
+
+To-hue cong-dvng bhue-ciep, ia bho zek-ngang dau-sia
+桃花 充當 媒妾，也 無 一言 道謝
+
+（繼春）
+
+o... sia-sia To-hue-ze seng-cueng
+哦，謝謝 桃花姐 成全
+
+sie-seng ze-li u li
+小生 這裏 有 禮
+
+（桃花）
+
+•u dau si, liang-kim doh gia-bhak
+有 道 是，良禽 擇 佳木
+
+•gim-zieh ru ceng-gieng, cv-dang u cim-i
+金石 喻 情堅，此中 有 深意
+
+•iong-ieng mo siang-bhuang
+永遠 莫 相忘
+
+（繼春）
+
+sia-sia mue-mue liou!
+謝謝 妹妹 了！
+
+o, To-hue, To-hue a!
+哦，桃花，桃花 啊！
+
+## Scene 3
+
+[27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
