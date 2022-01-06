@@ -1,9 +1,3 @@
----
-layout: page
-title: Sou-lak-nie (Tie-lo)
-permalink: /sou-lak-nie-TLO
----
-
 # 蘇六娘（選） • sou-lak-nie (Selection)
 
 The story of sou-lak-nie (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 uploaded to [YouTube](https://youtu.be/oI7fTLB5lB0), with some characters changed to fit the usage in the rest of this website. Lines that are sung are indicated with a • character at the beginning.

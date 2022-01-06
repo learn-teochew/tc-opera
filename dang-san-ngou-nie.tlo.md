@@ -1,9 +1,3 @@
----
-layout: page
-title: Tang-sann-ngou-nie (Tie-lo)
-permalink: /dang-san-ngou-nie-TLO
----
-
 # 陳三 五娘 • tang-sann ngou-nie
 
 The story of 《陳三 五娘》**tang-sann ngou-nie** (“tang Three and Fifth Lady”) is one of the best known love stories in the Minnan region, and has been adapted into operas in both the Teochew and Hokkien languages. The earliest known printed version of this play is known as 《荔鏡記》 **li-kiann ki**  (“Tale of the Lychee and Mirror”), and dates to the Ming era.
