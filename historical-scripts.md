@@ -1,7 +1,7 @@
 ---
 type: page
 title: Historical Teochew Opera Scripts
-permalink: /historical-scripts
+permalink: /historical-scripts/
 ---
 
 There is a centuries-old history of Teochew vernacular writing in Teochew opera

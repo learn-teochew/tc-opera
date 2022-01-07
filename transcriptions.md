@@ -1,7 +1,7 @@
 ---
 type: page
 title: Pêng’im transcripts and translations
-permalink: /transcriptions
+permalink: /transcriptions/
 ---
 
 To help Teochew learners who are curious about the language used in Teochew
