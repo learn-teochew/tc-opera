@@ -40,3 +40,11 @@ plugins:
 exclude:
   - dang-san-ngou-nie.*.md
   - sou-lak-nie.*.md
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
