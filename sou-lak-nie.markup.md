@@ -753,3 +753,107 @@ o, To-hue, To-hue a!
 ## Scene 3
 
 [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
+
+（？）
+
+bing ang-ring, ueng-ghua zok-zien gau-liou
+稟 安人，員外 族掌 到了
+
+（安人）
+
+o gau-liou, lip-ziek tong-zai nie-gian zien-dvng ing-zih dia-dia
+哦 到了，立即 通知 娘囝 上堂 引接 爹爹
+
+（？）
+
+si
+是
+
+（安人）
+
+zek-gong, ueng-ghua hue-lai, zek-lou sing-kou a!
+叔公、員外 回來，一路 辛苦 啊！
+
+（叔公）
+
+ha ha ha ha... si-so, gue-suan u gie, hong-zui seng-zung, svng-dik si-mih sing-kou? ha ha ha ha
+哈哈哈哈…… 四嫂，過山 有 轎，逢水 乘船，算得 是乜 辛苦？哈哈哈哈
+
+（安人）
+
+zek-gong, cian-zo, cian-zo
+叔公，請坐，請坐
+
+（叔公）
+
+o, zo zo zo zo
+哦，坐坐坐坐
+
+ （員外）
+
+ang-ring, nvng-ri ka-zeng hue-ge?
+安人，女兒 豈 曾 回家？
+
+（安人）
+
+nvng-ri za-tin cong Sai-lou hue-lai liou
+女兒 昨天 從 西蘆 回來 了
+
+（員外）
+
+hue-lai ziu ho
+回來 就好
+
+（叔公）
+
+si-so, diek-nvng gai hi-sv lai-liou, in-au buk-ain zai bung ta kv Sai-lou ba
+四嫂，侄女 個 喜事 來了，以後 不愛 再 分 她 去 西蘆 吧
+
+（安人）
+
+zek-gong, ua nvng hi do ho-lai?
+叔公，我 女 喜 在 何來？
+
+（叔公）
+
+ha ha ha ha! ze-cv ua v si-hian zien-sian pah guan-si
+哈哈哈哈！這次 我 與 四兄 上城 拍 官司
+
+m-duan guan-si pah-ian, huan-u gah ning doh gai seng-leng gian-sai
+唔單 官司 拍贏，還有 佮 恁 擇 個 乘龍 囝婿
+
+（安人）
+
+zek-gong, bhue-zai nvng-sai si sui?
+叔公，未知 女婿 是誰？
+
+（叔公）
+
+ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-cai
+就是 府衙 內 書爺 之 子 楊子良 秀才
+
+ta mua-bak bhung-cai, cui-ziem bik-lai, ieng-gvng gai-zai
+他 滿腹 文才，嘴尖 筆利，遠近 皆知
+
+zian-si zek-gai kuai-sai
+正是 一個 快婿
+
+（安人）
+
+sia-sia zek-gong liou
+謝謝 叔公 了
+
+（叔公）
+
+sia ua si buk-co di, riak-bho ua ui bhue cuek-hah, na leng-dik seng guan-cing?
+謝我 是 不錯 的，若無 我 爲 媒 撮合，那 能得 成 官親？
+
+dan ning lau hu-ci cian-zo, ua gau-si liou
+旦 恁 老夫妻 請做，我 告辭 了
+
+（安人）
+
+zek-gong, nang v ueng-ghua ieng-dau hue-lai 
+叔公，人 與 員外 遠道 回來
+
+(STOP: 30:05)
