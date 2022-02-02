@@ -2,7 +2,9 @@
 
 The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 uploaded to [YouTube](https://youtu.be/oI7fTLB5lB0), with some characters changed to fit the usage in the rest of this website. Lines that are sung are indicated with a • character at the beginning.
 
-## 桃花佮渡公鬥歌 • %To-hue% and the Boatman compete in song
+## 第一出 • Scene 1
+
+桃花佮渡公鬥歌 • %To-hue% and the Boatman compete in song
 
 [2:44](https://youtu.be/oI7fTLB5lB0?t=144)
 
@@ -400,7 +402,7 @@ Alright, you stand fast, and wait for me to row. Stand fast!
 
 
 
-## Scene 2
+## 第二出 • Scene 2
 
 [12:06](https://youtu.be/oI7fTLB5lB0?t=726)
 
@@ -750,7 +752,7 @@ sia-sia mue-mue liou!
 o, To-hue, To-hue a!
 哦，桃花，桃花 啊！
 
-## Scene 3
+## 第三出 • Scene 3
 
 [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 
@@ -853,7 +855,93 @@ dan ning lau hu-ci cian-zo, ua gau-si liou
 
 （安人）
 
-zek-gong, nang v ueng-ghua ieng-dau hue-lai 
-叔公，人 與 員外 遠道 回來
+zek-gong, ning v ueng-ghua ieng-dau hue-lai 
+叔公，恁 與 員外 遠道 回來
 
-(STOP: 30:05)
+gim-mung ziu cian-lai im-bue bo-ziu
+今晚 就 請來 飲 杯 薄酒
+
+（叔公）
+
+ha ha ha ha, ho-me ning pah-ian guan-si, iu dik-liou kuai-sai
+哈哈哈哈，XX 恁 打贏 官司，又 得了 快婿
+
+sang-hi ling-mung, zian gai cian ua lai zo dang-ik-ui
+雙喜 臨門，正 該 請我 來坐 東一位
+
+tiang-im gi-bue, ua zek-dian lai, zek-dian gau
+暢飲 幾杯，我 一定 來，一定 到
+
+ho ho, zv-ge-nang mieng sang-liou
+呵呵，自家人 免 送了
+
+（安人）
+
+ueng-ghua, Ien-ge nvng-sai lv ka-zeng gin-gue?
+員外，楊家 女婿 汝 豈曾 見過？
+
+（員外）
+
+cieh-ang zv-zien, cing-ming gin-gue, siang-mau dau ia gue-dik kv
+席宴 之上，親面 見過，相貌 倒也 過得 去
+
+（安人）
+
+ru-cv, ua ziu uan-sim liou
+如此，我 就 安心 了
+
+ta si na-li nang?
+他 是 哪裏 人？
+
+（員外）
+
+ ta zia-gueng Riou-peng
+他 籍貫 饒平
+
+（安人）
+
+han?! Riou-peng?
+X，饒平？
+
+ueng-ghua, lv zing tai-bho da-siou liou a
+員外，你 真 太無 打數 了 啊
+
+（員外）
+
+Ien-ge mung-doin, nvng-sai gong-mia
+楊家 門第，女婿 功名
+
+zian-si zek-mung ti-ming guan-cing, ui-ho sueh ua bho da-svng?
+正是 一門 體面 官親，爲何 說 我 無 打算？
+
+（安人）
+
+nang zi-u cv-nvng, za-rim ba ta hng-ge?
+俺 只有 此女，怎忍 把 她 遠嫁？
+
+（員外）
+
+mung-gueng siang-dui, sui-hng ho huang
+門冠 相對，雖遠 何 妨
+
+（安人）
+
+v!
+噁！
+
+sok-dau bho-lam gu-nvng, hng-ge Riou-peng, ru-ho sai-dik?
+俗道 無男咕女，遠嫁 饒平，如何 使得？
+
+（員外）
+
+ru-gim bhak-in seng-ziu, sai-buk-dik ia-ain sai-dik liou
+如今 木已成舟，使不得 也欲 使得了
+
+（安人）
+
+ze ru-ho si ho?
+這 如何 是 好？
+
+## 第四出 • Scene 4
+
+[31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
