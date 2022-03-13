@@ -945,3 +945,320 @@ X，饒平？
 ## 第四出 • Scene 4
 
 [31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
+
+（六娘）
+
+• %bhung-dau dia-dia gui-lai%
+聞道 爹爹 歸來
+
+• %pau-hia liou zam-suan mang hiang-zoin%
+拋下了針線忙向前
+
+• %me-rieng-gang zi-gin dia-nie cung-suan so%
+猛然間 只見 爹娘 春山鎖
+
+• %sim ceng-iu%
+甚 情由
+
+• %sim ceng-iu sai-nang hui ghi-cai%
+甚 情由 使人 費 疑猜
+
+%dia-nie bhueng-hok%
+爹娘 萬福
+
+（員外）
+
+%ua gian buk-eng, zo-hia%
+我囝 不用，坐下
+
+（六娘）
+
+%si%
+是
+
+（安人）
+
+%ua-gian, lv-be cv-cv zien-sian%
+我囝，你父 此次 上城
+
+%ziang-lv zong-sing hv-pue Riou-peng Ien sv-ia zv zv,%
+將你 終身 許配 饒平 楊師爺 之子，
+
+%Ien zv-liang siu-cai liou.%
+楊子良 秀才 了。
+
+（六娘）
+
+%za-sueh? dia-dia ziang nvng-ri hv-pue nang liou moh?%
+怎說？爹爹 將 女兒 許配 人 了 麽？
+
+（員外）
+
+%zian si%
+正是
+
+（六娘）
+
+%i...%
+哎……
+
+（安人）
+
+%ri a, mih (...)%
+兒 啊，乜 XX
+
+（六娘）
+
+• %sik zi-mo biou-hian za-hia ghek gian-tai%
+實 指望 表兄 早下 玉鏡臺
+
+• %za... za zai-dau dia-dia soin ba ueng-pou co ang-bai?%
+怎…… 怎知道 爹爹 先把 鴛譜 錯 安排？
+
+• %peng-di huang-bo zou-ki, cv-ceng lang ai%
+平地 風波 驟起，此情 難 挨
+
+（安人）
+
+%nvng-ri!%
+女兒！
+
+（六娘）
+
+%bho-cing!%
+母親！
+
+（員外）
+
+%nvng-ri, ui-ho ru-cv?%
+女兒，爲何 如此？
+
+（六娘）
+
+%dia-dia, nvng-ri buk-ge, nvng-ri buk-ngueng ge ia%
+爹爹，女兒 不嫁，女兒 不願 嫁 呀
+
+（員外）
+
+%e! lam-dua dvng-hung, nvng-ziang dvng-ge, za-moh ho-sueh buk-ge han?%
+啞！男大 當婚，女長 當嫁，怎麼 好說 不嫁 X？
+
+（六娘）
+
+• %ui-ri zv-iun hak si-li%
+爲兒 自幼 學 詩禮
+
+• %ia-zai hung-ing su iu dia zu-cai, a%
+也知 婚姻 須 由 爹 主裁，啊
+
+%za-nai ua mua-bak...%
+怎奈 我 滿腹……
+
+（員外）
+
+%lv mua-bak sim-moh?%
+你 滿腹 什麼？
+
+（安人）
+
+%nvng-ri, za-moh iu buk-sueh liou?%
+女兒，怎麼 又 不說 了？
+
+（六娘）
+
+%mua-huai sim-sv...%
+滿懷 心事……
+
+（桃花）
+
+%nie-gian...%
+娘囝……
+
+（六娘）
+
+• %sung-mung To-hue sv bieng-zai%
+詢問 桃花 事 便知
+
+（桃花）
+
+%ha? mung ua?%
+哈？問 我？
+
+（員外）
+
+%zv uek-tak uek-m-sien-ien, zing-zing ka-u-cv-li?!%
+書 越讀 越唔像樣，真真 豈有此理？！
+
+%To-hue, kuai-kuai zien-lai!%
+桃花，快快 上來！
+
+（桃花）
+
+%ziu-lai%
+就來
+
+%bi-zv kau-gin ueng-ghua ang-ring%
+婢子 叩見 員外 安人
+
+（員外）
+
+%zek-pang!%
+一旁！
+
+%To-hue!%
+桃花！
+
+（桃花）
+
+%bi-zv zai%
+婢子 在
+
+（員外）
+
+%nie-gian gv-hung buk-ge, gau-doin so-ui ho-ing?%
+娘囝 拒婚 不嫁，到底 所爲 何因？
+
+（桃花）
+
+%bing ueng-ghua ang-ring, ze-si nie-gian zong-sing dai-sv%
+稟 員外 安人，這是 娘囝 終身大事
+
+%ge v buk-ge, bi-zv ho-cong dik-zai?%
+嫁 與 不嫁，婢子 何從 得知？
+
+（員外）
+
+%hu-sueh! nie-gian cing-kau sueh-dau, sim-sv rui-u lv zai%
+胡說！娘囝 親口 說道，心事 唯有 你知
+
+%lv su ho-ho sik-sueh, huang-mieng siu-zeh, huang-mieng siu-zeh liou a%
+你 須 好好 實說，方免受責，方免受責 了 啊
+
+（桃花）
+
+%i...%
+哎……
+
+（安人）
+
+%huan-buk kuai-kuai sueh-cuk ha?%
+還不 快快 說出 哈？
+
+（桃花）
+
+%ueng-ghua a, ang-ring%
+員外 啊，安人
+
+%nie-gian sim-sv, bi-zv sik-si buk-zai, hueng-kiu kueng-su, hueng-kiu kueng-siu%
+娘囝 心事，婢子 實是 不知，還求 寬恕，還求 寬恕
+
+（員外）
+
+%zuan-bi! huan-gan (gam-nai?), ka-leng siang-iong a%
+賤婢！還敢 感奈，豈能 相容 啊
+
+%Bhue-hien, cu ge-huap zien-lai, cu ge-huap zien-lai!%
+梅香，取 家法 上來，取 家法 上來！
+
+%kuai sueh!%
+快說！
+
+（桃花）
+
+%bing ueng-ghua ang-ring, sv gau ru-gim bi-zv mua ia buk-dik%
+稟 員外 安人，事 到 如今 婢子 瞞 也 不得
+
+%zi-si tian-dvng zv-zien, seng-kiong ngang zv buk-bieng %
+只是 廳堂 之上，誠恐 言 之 不便
+
+（安人）
+
+%Bhue-hien to-hia%
+梅香 退下
+
+（員外）
+
+%kuai-sueh, kuai-sueh!%
+快說，快說！
+
+（桃花）
+
+%iong-bing%
+容稟
+
+• %hung-ing dai-sv sui leng mieng%
+婚姻 大事 誰 能 免
+
+• %be-bho zu-hung, be-bho zu-hung zv-gou so gai-rieng%
+父母 主婚，父母主婚 自古 所 皆然
+
+• %nie-gian u-gim gan kang-meng, zv-u ueng-iu do ki-dang%
+娘囝 于今 敢 抗命，自有 緣由 在 其中
+
+（安人）
+
+%ta zv-iun gia-tak gu-ge, zai-zv dak-li%
+她 自幼 寄讀 舅家，知書 達理
+
+%na u sim-moh ueng-iu?%
+那有 什麼 緣由？
+
+（桃花）
+
+%ang-ring oi, ziu-si ze-gai gia-tak gu-ge, cai-u ze-dien huang-bo li%
+安人 ～，就是 這個 寄讀 舅家，纔有 這場 風波 哩
+
+（安人）
+
+%ua-hian ge-gui ngiem-sok, sui-gan ria-si sen-hui?%
+我兄 家規 嚴肅，誰敢 惹是生非？
+
+（桃花）
+
+%Gueh-hu mung-teng cim sv-hai%
+郭府 門庭 深 似海
+
+%sui-zai huang-liu ung-sv geng-do sie-cien zv-dong%
+誰知 風流 韻事 竟在 小牆 之中？
+
+%gu lau-ia di-ge ngiem lai-ghua%
+舅老爺 治家 嚴 內外
+
+%lau hu-ring sieh-sung, lai-ghua zek-buan tong%
+老夫人 惜孫，內外 一般 同
+
+（安人）
+
+%ho-kuang nang-ge nie-gian v bie-siou-ia%
+何況 俺家 娘囝 與 表少爺
+
+（員外）
+
+%han?! ta liang-nang zo sim-moh?%
+～？！他兩人 做 什麼？
+
+（桃花）
+
+%ta liang-nang zv-iun tong-teng gang-in%
+他兩人 自幼 同窗共硯
+
+%ze siou-ghueh ciou-sek siang i-bang%
+這 數月 朝夕 相 依傍
+
+%iu sai To-hue tueng-zv di-gang%
+又使 桃花 傳書 遞柬
+
+%di-gang tueng-zv coin-beh-pieng%
+遞柬傳書 千百遍
+
+（安人）
+
+%ai-ia, ze, ze hueng liou-dik%
+哎呀，這 還 了得？
+
+（員外）
+
+%ai-ia, ko-nau%
+哎呀，可惱
+
+STOP: 40:02
