@@ -406,350 +406,350 @@ Alright, you stand fast, and wait for me to row. Stand fast!
 
 [12:06](https://youtu.be/oI7fTLB5lB0?t=726)
 
-（六娘）
+（六娘）• %Lak-nie%
 
-•cung-huang zieng-ieh gau hng-lim
+• %cung-huang zieng-ieh gau hng-lim%
 春風 踐約 到 園林
 
-•ciou lip hue-zoin dok dim-leng
+• %ciou lip hue-zoin dok dim-leng%
 稍 立 花前 獨 沉 呤
 
-•bie-hian hiou ua ui ho-gu
+• %bie-hian hiou ua ui ho-gu%
 表兄 邀 我 爲 何故
 
-•zueng-gue-liou dang-li hue-pou lai-gau sui liu-im
+• %zueng-gue-liou dang-li hue-pou lai-gau sui liu-im%
 轉過了 東籬花圃 來到 垂柳蔭
 
-•dang gin na deng sia sok-sok
+• %dang gin na deng sia sok-sok%
 但 見 那 亭 榭 寂寂
 
-•sim ueng-iu
+• %sim ueng-iu%
 甚 緣由
 
-•sim ueng-iu u-ieh buk lai-lim?
+• %sim ueng-iu u-ieh buk lai-lim?%
 甚 緣由 有約 不 來臨
 
-（繼春）
+（繼春）• %Gi-cung%
 
-siang-ek dang-sim-bak, gi-dou kai-kau lang
+%siang-ek dang-sim-bak, gi-dou kai-kau lang%
 常億 同心腹，幾度 開口 難
 
-cung-huang u-ieh au-hng dang
+%cung-huang u-ieh au-hng dang%
 春風 有約 後園 中
 
-ze-zek-cv zai-mo co-gue liang-ueng
+%ze-zek-cv zai-mo co-gue liang-ueng%
 這一次 再莫 錯過 良緣
 
-mue-mue hueng bhue-lai
+%mue-mue hueng bhue-lai%
 妹妹 還 未來
 
-siu-giu-hue! siu-giu pau-gip Lv Mong-zeng
+%siu-giu-hue! siu-giu pau-gip Lv Mong-zeng%
 繡球花！繡球 拋給 呂蒙正
 
-zing-si gia-diou, gia-diou!
+%zing-si gia-diou, gia-diou!%
 真是 佳兆，佳兆！
 
-o, ngueng-lai si bie-mue soin-ua rv-lai
+%o, ngueng-lai si bie-mue soin-ua rv-lai%
 哦，原來 是 表妹 先我 而來
 
-mue-mue, cv-hue gak-dik ho, ko-sieh buk-do cai-lau zoin
+%mue-mue, cv-hue gak-dik ho, ko-sieh buk-do cai-lau zoin%
 妹妹，此花 捔得 好，可惜 不在 彩樓 前
 
-（六娘）
+（六娘）• %Lak-nie%
 
-bie-hian, hie mai lueng-gang
+%bie-hian, hie mai lueng-gang%
 表兄，～勿 亂講
 
-（繼春）
+（繼春）• %Gi-cung%
 
-seng-ga liou
+%seng-ga liou%
 承教 了
 
-（六娘）
+（六娘）• %Lak-nie%
 
-bie-hian ieh-hiou, bhue-sek u ho-ga-ngang?
+%bie-hian ieh-hiou, bhue-sek u ho-ga-ngang?%
 表兄 約邀，未識 有 何教言？
 
-（繼春）
+（繼春）• %Gi-cung%
 
-mue-mue, ui-hian v lv dang-hak gui-ni
+%mue-mue, ui-hian v lv dang-hak gui-ni%
 妹妹，爲兄 與 汝 同學 幾年
 
-ru-gim kue-ki ziang-zi, bik-su v lv ziem-biek
+%ru-gim kue-ki ziang-zi, bik-su v lv ziem-biek%
 如今 科期 將至，必須 與 汝 暫別
 
-（六娘）
+（六娘）• %Lak-nie%
 
-ziem-biek?
+%ziem-biek?%
 暫別？
 
-（繼春）
+（繼春）• %Gi-cung%
 
-zian-si, mue ia ni in gip-gi
+%zian-si, mue ia ni in gip-gi%
 正是，妹 也 年 已 及笄
 
-kiong-pa buk-leng gu-zu Sai-lou
+%kiong-pa buk-leng gu-zu Sai-lou%
 恐怕 不能 久住 西蘆
 
-zek-biek zv-au, ziu buk-zai zai-hue ho-ki liou
+%zek-biek zv-au, ziu buk-zai zai-hue ho-ki liou%
 一別 之後，就 不知 再會 何期 了
 
-（六娘）
+（六娘）• %Lak-nie%
 
-bie-hian, ngueng zok-lv zek-gv seng-mia
+%bie-hian, ngueng zok-lv zek-gv seng-mia%
 表兄，願 祝你 一舉 成名
 
-（繼春）
+（繼春）• %Gi-cung%
 
-sia-sia mue-mue, dang-si...
+%sia-sia mue-mue, dang-si...%
 謝謝 妹妹，但是……
 
-mue-mue, ze beh ghek-dui si lv diou-hia di moh?
+%mue-mue, ze beh ghek-dui si lv diou-hia di moh?%
 妹妹，這 白玉墜 是 汝 掉下 的 麼？
 
-（六娘）
+（六娘）• %Lak-nie%
 
-zian-si
+%zian-si%
 正是
 
-（繼春）
+（繼春）• %Gi-cung%
 
-mue-mue, ze ghek-dui ho-cien si ua ri-si sang-gip lv di
+%mue-mue, ze ghek-dui ho-cien si ua ri-si sang-gip lv di%
 妹妹，這 玉墜 好像 是 我 兒時 送給 汝 的
 
-ui-ho sik-loh v-cv?
+%ui-ho sik-loh v-cv?%
 爲何 失落 與此？
 
-（六娘）
+（六娘）• %Lak-nie%
 
-ze beh ghek-dui zian-si bie-hian so-zang
+%ze beh ghek-dui zian-si bie-hian so-zang%
 這 白玉墜 正是 表兄 所 贈
 
-mue si-kek dua do sing-bin
+%mue si-kek dua do sing-bin%
 妹 時刻 帶 在 身邊
 
-sek-cai buk-gak, diou-hia do-cv
+%sek-cai buk-gak, diou-hia do-cv%
 適才不覺，掉下 在此
 
-（繼春）
+（繼春）• %Gi-cung%
 
-hue-ek tong-ni, cen-bhue dek-bhe
+%hue-ek tong-ni, cen-bhue dek-bhe%
 回憶 童年，青梅 竹馬
 
-zeng-gi ho-si, lv-ua ziu ziang-dai seng-ring liou
+%zeng-gi ho-si, lv-ua ziu ziang-dai seng-ring liou%
 曾 幾 何時，你我 就 長大 成人 了
 
-mue-mue, lv ka gi-dik: ri-si lv ain meng-siem
+%mue-mue, lv ka gi-dik: ri-si lv ain meng-siem%
 妹妹，汝 豈 記得，兒時 汝 愛 鳴蟬
 
-ua ziu pang-zien ze-ciu kv-cok, hiem-se diek-hia-lai
+%ua ziu pang-zien ze-ciu kv-cok, hiem-se diek-hia-lai%
 我 就 攀上 這樹 去捉，險些 跌下來
 
-（六娘）
+（六娘）• %Lak-nie%
 
-ai-ia, gi-dik, gi-dik! bie-hian a!
+%ai-ia, gi-dik, gi-dik! bie-hian a!%
 哎呀，記得，記得！表兄 啊！
 
-•zai siem-sian gi-dou mueh-hueng cen-i
+• %zai siem-sian gi-dou mueh-hueng cen-i%
 知 蟬聲 幾度 物換星移
 
-•rim cen-i mueh-hueng, nang-liang sim-siang-ain bho kiong-ki
+• %rim cen-i mueh-hueng, nang-liang sim-siang-ain bho kiong-ki%
 任 星移物換，俺倆 心相愛 無 窮期
 
-bie-hian, lv toin
+%bie-hian, lv toin%
 表兄，汝 睇
 
-•zeng gi na
+• %zeng gi na%
 曾 記 那
 
-•zeng gi na si-gang liu-im e dang sui-[ieh]
+• %zeng gi na si-gang liu-im e dang sui-[ieh]%
 曾 記 那 時間 柳蔭 下 同垂（約？）
 
-（繼春）
+（繼春）• %Gi-cung%
 
-•dang sien iu-hv sang bi-mak
+• %dang sien iu-hv sang bi-mak%
 同 賞 游魚 雙 比目
 
-（六娘）
+（六娘）• %Lak-nie%
 
-•oin-si zeng do ze tang-bieng, hi sia zv-ue di zak-zieng
+• %oin-si zeng do ze tang-bieng, hi sia zv-ue di zak-zieng%
 閒時 曾 在 這 溏邊，戲 寫 書畫 地 作 箋
 
-•gueng-lai gueng-sien di-dang ho
+• %gueng-lai gueng-sien di-dang ho%
 倦來 觀賞 池中 荷
 
-•deng-deng ghek lip ko-nang-lieng
+• %deng-deng ghek lip ko-nang-lieng%
 亭亭 玉立 可儂憐
 
-（繼春）
+（繼春）• %Gi-cung%
 
-•na si-gang lv ain noi-hue ua diah-zang
+• %na si-gang lv ain noi-hue ua diah-zang%
 那 時間 汝 愛 蓮花 我 摘贈
 
-•zang lv zek-gi beng-di lieng
+• %zang lv zek-gi beng-di lieng%
 贈 汝 一枝 並蒂 蓮
 
-mue-mue, nang liang-nang ko-u zek-bi
+%mue-mue, nang liang-nang ko-u zek-bi%
 妹妹，俺 兩人 可有 一比
 
-（六娘）
+（六娘）• %Lak-nie%
 
-bi-zoh sim-moh?
+%bi-zoh sim-moh?%
 比作 什麼？
 
-（繼春）
+（繼春）• %Gi-cung%
 
-•hue-kai beng-di ko-nang-lieng
+• %hue-kai beng-di ko-nang-lieng%
 花開 並蒂 可人憐
 
-•ho-bi nang hian-mue cie-ghv beng-giang
+• %ho-bi nang hian-mue cie-ghv beng-giang%
 好比 俺 兄妹 笑語 並肩
 
-（六娘）
+（六娘）• %Lak-nie%
 
-•iu ho-bi ceng-hue hu-diep sang-sang bhu
+• %iu ho-bi ceng-hue hu-diep sang-sang bhu%
 又 好比 穿花 蝴蝶 雙雙 舞
 
-（繼春）
+（繼春）• %Gi-cung%
 
-•nang ze-li buk-diep nang-ri bhu sang-sang
+• %nang ze-li buk-diep nang-ri bhu sang-sang%
 俺 這裏 抔蝶 人兒 舞 雙雙
 
-（六娘）
+（六娘）• %Lak-nie%
 
-•hu-diep ni-ni hue-gang bhu
+• %hu-diep ni-ni hue-gang bhu%
 蝴蝶 年年 花間 舞
 
-（繼春）
+（繼春）• %Gi-cung%
 
-•ngueng buk-diep nang-ri iong seng-sang
+• %ngueng buk-diep nang-ri iong seng-sang%
 願 抔蝶 人兒 永 成雙
 
-（桃花）
+（桃花）• %To-hue%
 
-•buk-co, dui-ia, hu-diep zv-eng sang-sang bhu
+• %buk-co, dui-ia, hu-diep zv-eng sang-sang bhu%
 不錯，對呀，蝴蝶 自應 雙雙 舞
 
-•buk-diep nang-ri iong seng-sang
+• %buk-diep nang-ri iong seng-sang%
 抔蝶 人兒 永 成雙
 
-（六娘）
+（六娘）• %Lak-nie%
 
-zuan-bi lv, gui-tau gui-nau, heh-dik nang-sim gian-meh tiou
+%zuan-bi lv, gui-tau gui-nau, heh-dik nang-sim gian-meh tiou%
 賤婢 汝，鬼頭 鬼腦，吓得 人心 經脈 跳
 
-lv m-do-ge, hong-si ang-ring, kiak lai-cv ho-sv?
+%lv m-do-ge, hong-si ang-ring, kiak lai-cv ho-sv?%
 汝 唔在家，奉侍 安人，卻 來此 何事？
 
-（桃花）
+（桃花）• %To-hue%
 
-zi ing ueng-ghua lai-sing sueh-dau, buk-rik hue-ge
+%zi ing ueng-ghua lai-sing sueh-dau, buk-rik hue-ge%
 只因 員外 來信 說道，不日 回家
 
-ing-cv ang-ring meng bi zih lv hue-kv
+%ing-cv ang-ring meng bi zih lv hue-kv%
 因此 安人 命 婢 接 汝 回去
 
-ang-ring sueh-dau: meng-tin gik-rik ziu su ki-teng
+%ang-ring sueh-dau: meng-tin gik-rik ziu su ki-teng%
 安人 說道：明天 吉日 就 須 啓程
 
-（繼春）
+（繼春）• %Gi-cung%
 
-mue-mue, lv meng-rik hue-ge, ua iu ziang hu-ci
+%mue-mue, lv meng-rik hue-ge, ua iu ziang hu-ci%
 妹妹，汝 明日 回家，我 又 將 赴試
 
-zek-biek zai-biek, au-hue ho-ki?
+%zek-biek zai-biek, au-hue ho-ki?%
 一別 再別，後會 何期？
 
-（六娘）
+（六娘）• %Lak-nie%
 
-•gang-lam gang-bak
+• %gang-lam gang-bak%
 江南 江北
 
-•gang-lam gang-bak zek-koi zui
+• %gang-lam gang-bak zek-koi zui%
 江南 江北 一溪 水
 
-•biek-si iong-i, gin-si lang
+• %biek-si iong-i, gin-si lang%
 別時 容易，見時 難
 
-（繼春）
+（繼春）• %Gi-cung%
 
-•mue gui Lv-pou, hian hu-ci
+• %mue gui Lv-pou, hian hu-ci%
 妹 歸 呂浦，兄 赴試
 
-•zek-biek zai-biek cou geng-ziang
+• %zek-biek zai-biek cou geng-ziang%
 一別 再別 愁 更長
 
-（桃花）
+（桃花）• %To-hue%
 
-•ain-sien bhueng-kuang sien-sv ze
+• %ain-sien bhueng-kuang sien-sv ze%
 愛償 萬頃 相思 債
 
-•huan-su gip-za gip-za deng liang-ueng
+• %huan-su gip-za gip-za deng liang-ueng%
 還須 及早 及早 訂 良緣
 
-bie-siou-ia,
+%bie-siou-ia,%
 表少爺，
 
-•ua kvng-lv, hue-kai kam-zih hueng-su zih
+• %ua kvng-lv, hue-kai kam-zih hueng-su zih%
 我 勸你，花開 堪折 還須 折
 
-•mo-tai bho-hue kong zih gi
+• %mo-tai bho-hue kong zih gi%
 莫待 無花 空 折 枝
 
-•nang-sv cong-cong do bieng-hue
+• %nang-sv cong-cong do bieng-hue%
 人事 匆匆 多 變化
 
-•za toh liang-bhue ba cing ti
+• %za toh liang-bhue ba cing ti%
 早 託 良媒 把 親 提
 
-（六娘）
+（六娘）• %Lak-nie%
 
-To-hue, gue-lai
+%To-hue, gue-lai%
 桃花，過來
 
-（桃花）
+（桃花）• %To-hue%
 
-bie-siou-ia, ho-liou a, nie-gian u dian-ceng zv-mueh sang lv!
+%bie-siou-ia, ho-liou a, nie-gian u dian-ceng zv-mueh sang lv!%
 表少爺，好了 啊，娘囝 有 定情 之物 送 汝！
 
-（繼春）
+（繼春）• %Gi-cung%
 
-do na-li? kuai na-lai!
+%do na-li? kuai na-lai!%
 在 哪裏？快 拿來！
 
-（桃花）
+（桃花）• %To-hue%
 
-ai! siu-cai ho bho-li, nie-gian ceng-cim ngi-dong
+%ai! siu-cai ho bho-li, nie-gian ceng-cim ngi-dong%
 唉！秀才 好 無理，娘囝 情深 義重
 
-To-hue cong-dvng bhue-ciep, ia bho zek-ngang dau-sia
+%To-hue cong-dvng bhue-ciep, ia bho zek-ngang dau-sia%
 桃花 充當 媒妾，也 無 一言 道謝
 
-（繼春）
+（繼春）• %Gi-cung%
 
-o... sia-sia To-hue-ze seng-cueng
+%o... sia-sia To-hue-ze seng-cueng%
 哦，謝謝 桃花姐 成全
 
-sie-seng ze-li u li
+%sie-seng ze-li u li%
 小生 這裏 有 禮
 
-（桃花）
+（桃花）• %To-hue%
 
-•u dau si, liang-kim doh gia-bhak
+• %u dau si, liang-kim doh gia-bhak%
 有 道 是，良禽 擇 佳木
 
-•gim-zieh ru ceng-gieng, cv-dang u cim-i
+• %gim-zieh ru ceng-gieng, cv-dang u cim-i%
 金石 喻 情堅，此中 有 深意
 
-•iong-ieng mo siang-bhuang
+• %iong-ieng mo siang-bhuang%
 永遠 莫 相忘
 
-（繼春）
+（繼春）• %Gi-cung%
 
-sia-sia mue-mue liou!
+%sia-sia mue-mue liou!%
 謝謝 妹妹 了！
 
-o, To-hue, To-hue a!
+%o, To-hue, To-hue a!%
 哦，桃花，桃花 啊！
 
 ## 第三出 • Scene 3
@@ -758,188 +758,188 @@ o, To-hue, To-hue a!
 
 （？）
 
-bing ang-ring, ueng-ghua zok-zien gau-liou
+%bing ang-ring, ueng-ghua zok-zien gau-liou%
 稟 安人，員外 族掌 到了
 
 （安人）
 
-o gau-liou, lip-ziek tong-zai nie-gian zien-dvng ing-zih dia-dia
+%o gau-liou, lip-ziek tong-zai nie-gian zien-dvng ing-zih dia-dia%
 哦 到了，立即 通知 娘囝 上堂 引接 爹爹
 
 （？）
 
-si
+%si%
 是
 
 （安人）
 
-zek-gong, ueng-ghua hue-lai, zek-lou sing-kou a!
+%zek-gong, ueng-ghua hue-lai, zek-lou sing-kou a!%
 叔公、員外 回來，一路 辛苦 啊！
 
 （叔公）
 
-ha ha ha ha... si-so, gue-suan u gie, hong-zui seng-zung, svng-dik si-mih sing-kou? ha ha ha ha
+%ha ha ha ha... si-so, gue-suan u gie, hong-zui seng-zung, svng-dik si-mih sing-kou? ha ha ha ha%
 哈哈哈哈…… 四嫂，過山 有 轎，逢水 乘船，算得 是乜 辛苦？哈哈哈哈
 
 （安人）
 
-zek-gong, cian-zo, cian-zo
+%zek-gong, cian-zo, cian-zo%
 叔公，請坐，請坐
 
 （叔公）
 
-o, zo zo zo zo
+%o, zo zo zo zo%
 哦，坐坐坐坐
 
  （員外）
 
-ang-ring, nvng-ri ka-zeng hue-ge?
+%ang-ring, nvng-ri ka-zeng hue-ge?%
 安人，女兒 豈 曾 回家？
 
 （安人）
 
-nvng-ri za-tin cong Sai-lou hue-lai liou
+%nvng-ri za-tin cong Sai-lou hue-lai liou%
 女兒 昨天 從 西蘆 回來 了
 
 （員外）
 
-hue-lai ziu ho
+%hue-lai ziu ho%
 回來 就好
 
 （叔公）
 
-si-so, diek-nvng gai hi-sv lai-liou, in-au buk-ain zai bung ta kv Sai-lou ba
+%si-so, diek-nvng gai hi-sv lai-liou, in-au buk-ain zai bung ta kv Sai-lou ba%
 四嫂，侄女 個 喜事 來了，以後 不愛 再 分 她 去 西蘆 吧
 
 （安人）
 
-zek-gong, ua nvng hi do ho-lai?
+%zek-gong, ua nvng hi do ho-lai?%
 叔公，我 女 喜 在 何來？
 
 （叔公）
 
-ha ha ha ha! ze-cv ua v si-hian zien-sian pah guan-si
+%ha ha ha ha! ze-cv ua v si-hian zien-sian pah guan-si%
 哈哈哈哈！這次 我 與 四兄 上城 拍 官司
 
-m-duan guan-si pah-ian, huan-u gah ning doh gai seng-leng gian-sai
+%m-duan guan-si pah-ian, huan-u gah ning doh gai seng-leng gian-sai%
 唔單 官司 拍贏，還有 佮 恁 擇 個 乘龍 囝婿
 
 （安人）
 
-zek-gong, bhue-zai nvng-sai si sui?
+%zek-gong, bhue-zai nvng-sai si sui?%
 叔公，未知 女婿 是誰？
 
 （叔公）
 
-ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-cai
+%ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-cai%
 就是 府衙 內 書爺 之 子 楊子良 秀才
 
-ta mua-bak bhung-cai, cui-ziem bik-lai, ieng-gvng gai-zai
+%ta mua-bak bhung-cai, cui-ziem bik-lai, ieng-gvng gai-zai%
 他 滿腹 文才，嘴尖 筆利，遠近 皆知
 
-zian-si zek-gai kuai-sai
+%zian-si zek-gai kuai-sai%
 正是 一個 快婿
 
 （安人）
 
-sia-sia zek-gong liou
+%sia-sia zek-gong liou%
 謝謝 叔公 了
 
 （叔公）
 
-sia ua si buk-co di, riak-bho ua ui bhue cuek-hah, na leng-dik seng guan-cing?
+%sia ua si buk-co di, riak-bho ua ui bhue cuek-hah, na leng-dik seng guan-cing?%
 謝我 是 不錯 的，若無 我 爲 媒 撮合，那 能得 成 官親？
 
-dan ning lau hu-ci cian-zo, ua gau-si liou
+%dan ning lau hu-ci cian-zo, ua gau-si liou%
 旦 恁 老夫妻 請做，我 告辭 了
 
 （安人）
 
-zek-gong, ning v ueng-ghua ieng-dau hue-lai 
+%zek-gong, ning v ueng-ghua ieng-dau hue-lai %
 叔公，恁 與 員外 遠道 回來
 
-gim-mung ziu cian-lai im-bue bo-ziu
+%gim-mung ziu cian-lai im-bue bo-ziu%
 今晚 就 請來 飲 杯 薄酒
 
 （叔公）
 
-ha ha ha ha, ho-me ning pah-ian guan-si, iu dik-liou kuai-sai
+%ha ha ha ha, ho-me ning pah-ian guan-si, iu dik-liou kuai-sai%
 哈哈哈哈，XX 恁 打贏 官司，又 得了 快婿
 
-sang-hi ling-mung, zian gai cian ua lai zo dang-ik-ui
+%sang-hi ling-mung, zian gai cian ua lai zo dang-ik-ui%
 雙喜 臨門，正 該 請我 來坐 東一位
 
-tiang-im gi-bue, ua zek-dian lai, zek-dian gau
+%tiang-im gi-bue, ua zek-dian lai, zek-dian gau%
 暢飲 幾杯，我 一定 來，一定 到
 
-ho ho, zv-ge-nang mieng sang-liou
+%ho ho, zv-ge-nang mieng sang-liou%
 呵呵，自家人 免 送了
 
 （安人）
 
-ueng-ghua, Ien-ge nvng-sai lv ka-zeng gin-gue?
+%ueng-ghua, Ien-ge nvng-sai lv ka-zeng gin-gue?%
 員外，楊家 女婿 汝 豈曾 見過？
 
 （員外）
 
-cieh-ang zv-zien, cing-ming gin-gue, siang-mau dau ia gue-dik kv
+%cieh-ang zv-zien, cing-ming gin-gue, siang-mau dau ia gue-dik kv%
 席宴 之上，親面 見過，相貌 倒也 過得 去
 
 （安人）
 
-ru-cv, ua ziu uan-sim liou
+%ru-cv, ua ziu uan-sim liou%
 如此，我 就 安心 了
 
-ta si na-li nang?
+%ta si na-li nang?%
 他 是 哪裏 人？
 
 （員外）
 
- ta zia-gueng Riou-peng
+ %ta zia-gueng Riou-peng%
 他 籍貫 饒平
 
 （安人）
 
-han?! Riou-peng?
+%han?! Riou-peng?%
 X，饒平？
 
-ueng-ghua, lv zing tai-bho da-siou liou a
+%ueng-ghua, lv zing tai-bho da-siou liou a%
 員外，你 真 太無 打數 了 啊
 
 （員外）
 
-Ien-ge mung-doin, nvng-sai gong-mia
+%Ien-ge mung-doin, nvng-sai gong-mia%
 楊家 門第，女婿 功名
 
-zian-si zek-mung ti-ming guan-cing, ui-ho sueh ua bho da-svng?
+%zian-si zek-mung ti-ming guan-cing, ui-ho sueh ua bho da-svng?%
 正是 一門 體面 官親，爲何 說 我 無 打算？
 
 （安人）
 
-nang zi-u cv-nvng, za-rim ba ta hng-ge?
+%nang zi-u cv-nvng, za-rim ba ta hng-ge?%
 俺 只有 此女，怎忍 把 她 遠嫁？
 
 （員外）
 
-mung-gueng siang-dui, sui-hng ho huang
+%mung-gueng siang-dui, sui-hng ho huang%
 門冠 相對，雖遠 何 妨
 
 （安人）
 
-v!
+%v!%
 噁！
 
-sok-dau bho-lam gu-nvng, hng-ge Riou-peng, ru-ho sai-dik?
+%sok-dau bho-lam gu-nvng, hng-ge Riou-peng, ru-ho sai-dik?%
 俗道 無男咕女，遠嫁 饒平，如何 使得？
 
 （員外）
 
-ru-gim bhak-in seng-ziu, sai-buk-dik ia-ain sai-dik liou
+%ru-gim bhak-in seng-ziu, sai-buk-dik ia-ain sai-dik liou%
 如今 木已成舟，使不得 也欲 使得了
 
 （安人）
 
-ze ru-ho si ho?
+%ze ru-ho si ho?%
 這 如何 是 好？
 
 ## 第四出 • Scene 4
