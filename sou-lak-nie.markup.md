@@ -1,12 +1,12 @@
 # 蘇六娘（選） • %Sou-lak-nie% (Selection)
 
-The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 uploaded to [YouTube](https://youtu.be/oI7fTLB5lB0), with some characters changed to fit the usage in the rest of this website. Lines that are sung are indicated with a • character at the beginning.
+The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 uploaded to YouTube ([Part 1](https://youtu.be/oI7fTLB5lB0), [Part 2](https://youtu.be/OepVJnOc_D0)), with some characters changed to fit the usage in the rest of this website. Lines that are sung are indicated with a • character at the beginning.
 
 ## 第一出 • Scene 1
 
 桃花佮渡公鬥歌 • %To-hue% and the Boatman compete in song
 
-[2:44](https://youtu.be/oI7fTLB5lB0?t=144)
+Video 1: [2:44](https://youtu.be/oI7fTLB5lB0?t=144)
 
 （渡公）• %Dou-gong% • Boatman
 
@@ -404,7 +404,7 @@ Alright, you stand fast, and wait for me to row. Stand fast!
 
 ## 第二出 • Scene 2
 
-[12:06](https://youtu.be/oI7fTLB5lB0?t=726)
+Video 1: [12:06](https://youtu.be/oI7fTLB5lB0?t=726)
 
 （六娘）• %Lak-nie%
 
@@ -754,7 +754,7 @@ Alright, you stand fast, and wait for me to row. Stand fast!
 
 ## 第三出 • Scene 3
 
-[27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
+Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 
 （？）
 
@@ -944,7 +944,7 @@ X，饒平？
 
 ## 第四出 • Scene 4
 
-[31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
+Video 1: [31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
 
 （六娘）
 
@@ -1482,7 +1482,7 @@ X，饒平？
 
 ## 第五出 • Scene 5
 
-[47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
+Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 
 （丑）
 
@@ -1496,7 +1496,7 @@ X，饒平？
 
 （丑）
 
-• %dang-hua-lau zien deng hung-ing%
+• %Dang-hua-lau zien deng hung-ing%
 東華樓 上 訂 婚姻
 
 • %san-tui si-to gv seng-cing%
@@ -1510,3 +1510,293 @@ X，饒平？
 • %siu-cai oi!%
 秀才 ⿰口會！
 
+（丑、阿妮）
+
+• %nang gim sok-gau Lv-pou kv, toin ta lai-dang ho-ngueng-ing%
+俺 今 速到 呂浦 去，睇 他 內中 何原因
+
+• %toin ta lai-dang ho-ngueng-ing%
+睇 他 內中 何原因
+
+（丑）
+
+%zv-cong Dang-hua-lau dian-cing, lu-cv kv-sing cui-cu,%
+自從 東華樓 定親，屢次 去信 催娶，
+
+%Sou-ge zong-si to-san-ieng-si%
+蘇家 總是 托三延四
+
+%gim-rik cing-dua ru-nie, gau Gik-ien cui-cing%
+今日 親帶 乳孃，到 揭陽 催親
+
+%a-ni, kuai-se lai gian-ki%
+阿妮，快些 來 行起
+
+（阿妮）
+
+%ho, lai-gian, lai-gian%
+好，來行 來行
+
+（丑、阿妮）
+
+• %ain-gian ziu lai gian, nang gian-gian iu gian-gian%
+欲行 就來 行，俺 行行 又 行行
+
+• %buk-gak lai-gau Die-ziu-sian%
+不覺 來到 潮州城
+
+（丑）
+
+%a-ni, gau Die-ziu-sian%
+阿妮，到 潮州城
+
+（阿妮）
+
+%ha, gau-liou Die-ziu-sian liou%
+哈，到了 潮州城 了
+
+%v, siu-cai oi, lv toin ze-gai suan, gie-zo sim-moh suan?%
+噁，秀才 ⿰口會，你 睇 這個 山，叫做 什麼 山？
+
+（丑）
+
+%Hang-suan!%
+韓山！
+
+（阿妮）
+
+%suan-ka[?] zek dua-cu, sim-moh cu?%
+山腳 一 大厝，什麼 厝？
+
+（丑）
+
+%Hang-sv!%
+韓祠！
+
+（阿妮）
+
+%suan-e hv-diou koi ne?%
+山下 許條 溪 呢？
+
+（丑）
+
+%Hang-gang, Hang-gang%
+韓江，韓江
+
+（阿妮）
+
+%a, siu-cai, zo-ni long-zong si Hang?%
+啊，秀才，做呢 攏總 是 韓？
+
+（丑）
+
+%a-ni...%
+阿妮……
+
+（阿妮）
+
+%oi%
+⿰口會
+
+（丑）
+
+• %Hang-bhung-gong pue ping-gau Ziou-iang, cong-cv Die-ziu cuk hau-hieng%
+韓文公 被 貶到 朝陽，從此 潮州 出 豪賢
+
+• %au-si Die-ring gam seng-dek, sui ba gang-suan goi sen Hang%
+後世 潮人 感 盛德，遂 把 江山 改 姓 韓
+
+%sek-bhue?%
+識未？
+
+（阿妮）
+
+%siu-cai, lv v lau-ia si-buk-si Hang-bhung-gong di mung-seng?%
+秀才，你 與 老爺 是不是 韓文公 的 門生？
+
+（丑）
+
+%buk-si, ta si Tang-ziou nang, li mak-zoin gui-beh-ni liou%
+不是，他 是 唐朝 人，離 目前 幾百年 了
+
+（阿妮）
+
+%o, buk-rieng a si tak-gue ta-di zv%
+哦，不然 啊 是 讀過 他的 書
+
+（丑）
+
+%ha ha ha! tak-gue, tak-gue. a-ni, lv ui-ho mung-ki ze-sv ni?%
+哈哈哈！讀過，讀過。阿妮，你 爲何 問起 這事 呢？
+
+（阿妮）
+
+%ua si toin lv v lau-ia di bung-nia hua Hang-bhung-gong zek-ien e%
+我 是 睇 你 與 老爺 的 本領 和 韓文公 一樣 啞
+
+（丑）
+
+%ho, lv cong-ho gin-dik?%
+呵，你 從何 見得？
+
+（阿妮）
+
+%Hang-bhung-gong lai Die-ziu zo-guan%
+韓文公 來 潮州 做官
+
+%ziang nang-ge di suan a, gang a, sv-tang a dou in gueng-zian liou%
+將 人家 的 山 啊，江 啊，祠堂 啊 都 已 管正 了
+
+%lv v lau-ia gueng-zian nang-ge di cang a, cu a, huang-zui a, mueh-ngiep a, ia dou buk-zie%
+你 與 老爺 管正 人家 的 田 啊，厝 啊，風水 啊，物業 啊，也 都 不少
+
+%ka buk-si bung-nia v ta zek-ien?%
+豈 不是 本領 與 他 一樣？
+
+（丑）
+
+%hiun-iou luang-gang! gian gian gian!%
+休要亂講！行行行！
+
+（阿妮）
+
+%a, o-lo dieh suah sen-ki%
+啊，～～ 着 ～ 生氣
+
+> o-lo – “to praise”
+> suah – “then, however”
+
+（丑）
+
+• %Hang-gang gung-gung dang-lam liu, Hang-siang-zv hieng-sian ba gie siu%
+韓江 滾滾 東南 流，韓湘子 顯聖 把 橋 修
+
+• %zap-boih XXX , no-ziah sen-ghu zek-ziah liu%
+十八［梭船廿四州］，兩隻 X牛 一隻 溜
+
+（阿妮）
+
+%ai-oi, bho-gue nang dan, nang dan ze dua di-hng zing-si ho huang-geng%
+哎⿰口會，無過 人呾，人呾 這 大 地方 真是 好 風景
+
+（丑）
+
+%a-ni oi, ua li to-cing sim-gip, lv li gu-dieh toin huang-geng%
+阿妮 ⿰口會，我 哩 討親 心急，你 哩 顧着 睇 風景
+
+%hueng-si zek-ming gian zek-ming toin, mai dam-ghou si-gang%
+還是 一面 行 一面 睇，勿 耽誤 時間
+
+（阿妮）
+
+%ho, zek-ming lai gian, zek-ming lai toin%
+好，一面 來 行，一面 來 睇
+
+（丑）
+
+%gian gian gian%
+行行行
+
+## 第六出 • Scene 6
+
+Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
+
+（阿妮）
+
+%a! v! a! ze-se dong-si ain-sueh si mung, li bho cu!%
+啊！噁！啊！這些 東西 欲說 是 門，哩 無 厝！
+
+%ain-sueh si hou-deng, li bho zia-hou!%
+欲說 是 雨亭，哩 無 遮雨！
+
+（丑）
+
+%iu-lai, iu-lai! ze-si deng, ze-si deng!%
+又來 又來！這是 亭，這是 亭！
+
+（阿妮）
+
+%deng?%
+亭？
+
+（丑）
+
+%si zak-hu-deng%
+是 節婦亭
+
+（阿妮）
+
+%zak-hu-deng%
+節婦亭
+
+（丑）
+
+%hu si buk-ge ceng zak-hu, guan-hu ui-ta lip bai-huang%
+夫 死 不嫁 稱 節婦，官府 爲他 立 牌坊
+
+（阿妮）
+
+%lip bai-huang%
+立 牌坊
+
+（丑）
+
+%a-ni, na lv si ua-gai ru-nie, siu-zak buan-seng%
+阿妮，那 你 是 我個 乳孃，守節 半生
+
+%tai-ua ziang-lai zo dua-guan ne, zv-rieng v-lv gieng gai zak-hu-deng%
+待我 將來 做 大官 呢，自然 與你 建 個 節婦亭
+
+（阿妮）
+
+%ai-ia ho-no ho-no%
+哎呀 好𰇇 好𰇇
+
+（丑）
+
+%gian!%
+行
+
+（阿妮）
+
+%v...%
+噁……
+
+（丑）
+
+%a-ni, lv ui-ho ti-kau?%
+阿妮，你 爲何 啼哭？
+
+（阿妮）
+
+%ua dou bhoi-kau, lv dan kv-mung a-dia ziu zai%
+我 都 𠁞哭，你 旦 去問 阿爹 就知
+
+> The nurse is implying that she is not a virtuous widow because his father has had his way with her.
+
+（丑）
+
+%mung ung a-ba? gian gian gian gian gian%
+問 阮 阿爸？行行行行行
+
+（阿妮）
+
+%siu-cai oi, tai-ua zek-e...%
+秀才 ⿰口會，待我 一下……
+
+（丑）
+
+• %ain ziah ho-he bhe XX, ain cu giou-ci Sou-lak-nie%
+欲食 好蝦 ［馬鮫鱌］，欲娶 嬌妻 蘇六娘
+
+• %sim-dang huan-hi buk-gak ieng, buan-suan gue-nia zien Gik-ien!%
+心中 歡喜 不覺 遠，盤山 過嶺 上 揭陽！
+
+（阿妮）
+
+%siu-cai oi, mai na X me a, tai-ua zek-e a!%
+秀才 ⿰口會，勿 那 X 猛 啊，待我 一下 啊！
+
+## 第七出 • Scene 7
+
+Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
