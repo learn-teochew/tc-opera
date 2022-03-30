@@ -1258,7 +1258,255 @@ X，饒平？
 
 （員外）
 
-%ai-ia, ko-nau%
-哎呀，可惱
+%ai-ia, ko-nau, ko-nau!%
+哎呀，可惱，可惱！
 
-STOP: 40:02
+• %hng ngek-nvng ru-cv mong-long, buk-siu gui-hung bai ge-hong%
+遠 逆女 如此 朦朧，不守 閨訓 敗 家風
+
+（安人）
+
+• %toin ki-lai dou-si lv%
+睇 起來 都是 你
+
+（員外）
+
+• %dou-si lv kang-zam ing-suan lueng gui-goh%
+都是 你 牽針 引線 亂 閨閣
+
+• %ui im-bhue tueng-zv di-gang ba sv-tong%
+爲 淫媒 傳書 遞柬 把 私通
+
+%ua ki ziang ki-lai ziang lv pah%
+我 氣 將 起來 將你 拍
+
+（桃花）
+
+%da-dik nang, tang co lang ai%
+打得 人，痛 楚 難 挨
+
+• %da-dik nang tong co lang ai%
+打得 人 痛 楚 難 挨
+
+• %To-hue sen-ui zek si-bi, nie-gian u-meng za tui-kai%
+桃花 生爲 一 侍婢，娘囝 有命 怎 推開
+
+• %meng-si ning sen-ui be-bho bho ieng-gieng%
+明是 恁 生爲 父母 無 遠見
+
+• %zek-liem zv ca-co ang-bai%
+一念 之 差錯 安排
+
+• %ka buk-bhung, nvng-zv bho-cai bieng-si dek%
+豈 不聞，女子 無才 便是 德
+
+• %Sai-lou gia-tak ui-ho lai?%
+西蘆 寄讀 爲何 來？
+
+（安人）
+
+%ciang lv%
+娼 你
+
+• %sui-sv ua zou-be gong-zv, nai-si ge-hak, u-ho buk-ko?%
+隨師 我 祖父 功書，乃是 家學，有何 不可？
+
+（桃花）
+
+• %gou u Nie-Zok hue-diep%
+古 有 梁祝 化蝶
+
+• %Nie-Zok hue-diep ing dang-in, gou-bie dang-teng, ia buk-gai%
+梁祝 化蝶 因 同硯，姑表 同窗 也 不該
+
+• %ze-sv si ning co zu-i, guai-zeh To-hue li-ho-lai?%
+這事 是 恁 錯 主意，怪責 桃花 理何來？
+
+（員外）
+
+%dou-si lv, cv-bho bai-ri, zong-iong kv Sai-lou iu-hak%
+都是 你，慈母 敗兒，縱容 去 西蘆 遊學
+
+（安人）
+
+%v!%
+□！
+
+%dvng-si lv ia ngueng-i, ru-gim geng tui-do lau-sing sing-zien%
+當時 你 也 願意，如今 竟 推在 老身身上
+
+（員外）
+
+• %uek-sv uek-sien uek-nau-ki%
+越思 越想 越惱氣
+
+• %dian ain ce-giu cv sv-dueng%
+定愛 查究 此 事端
+
+（安人）
+
+%mang, lv si lau-hu-tu liou%
+慢，你是 老糊塗 了
+
+%sv in zi-cv, hueng-sien ziang-iang?%
+事 已 至此，還想 張揚？
+
+%lv lang-dau ziu buk-pa rok-liou mung-hong, rok-liou mung-hong moh!%
+你 難道 就 不怕 辱了 門風，辱了 門風 麼！
+
+（員外）
+
+%riak-buk dui-giu, Ien-ge zek-dang lai cu, na-si ziang ru-ho si ho?%
+若不 追究，楊家 一旦 來 娶，那是 將 如何 是 好？
+
+（安人）
+
+%o, ze-ziu zing-to liang-lang liou a%
+哦，這就 進退 兩難 了 啊
+
+（桃花）
+
+%ueng-ghua ang-ring, cian-tian sie-bi zek-ngang%
+員外 安人，請聽 小婢 一言
+
+• %Sou-ge bho-zv kong u-cai, cing-zien gia-cing li zian gai%
+蘇家 無子 空 有財，親上 加親 理 正 該
+
+• %gou-bie lieng-hung zv-gou u, za-ba ing-ueng kiang tiah-kai?%
+姑表 聯婚 自古 有，怎把 姻緣 強 拆開？
+
+（安人）
+
+%ua hui bho-cv liem-tau, zi-si nvng-ri buk-ko zau bho-lou%
+我 非 無此 念頭，只是 女兒 不可 走 母路
+
+%kuang-cian ru-gim hung-ing in dian-liou%
+況且 如今 婚姻 已 定了
+
+（桃花）
+
+%ang-ring a%
+安人 啊
+
+• %cang-lo siang-cian ui-gian si, guk-nek ng-ain ho-ring guah-kai?%
+田螺 尚且 爲囝 死，骨肉 恩愛 何認 割開？
+
+• %nvng-ri ge-gau coin-li-ghua, dai-gang dang-kv lang zai-lai%
+女兒 嫁到 千里外，大江 東去 難 再來
+
+• %bhueng-ik ghek-iong ziou-cui sung%
+萬一 玉容 憔翠 損
+
+• %ning no-nang siou-diou mo-geng ceng ko-ai%
+恁 二人 蕭條 暮景 情 可哀
+
+（安人）
+
+%si-a, dou-si lv zia lau buk-si haun pah guan-si%
+是啊，都是 你 者 老 不是 好 拍 官司
+
+%ziang zek-gai cing-sen nvng-ri ge-gau coin-li ghua%
+將 一個 親生 女兒 嫁 到 千里 外
+
+%lv lang-dau ring-sim dik-kv%
+你 難道 忍心 得去
+
+%rv-cian rik-au ze bhueng-gueng ge-cai, gie-sui seng-siu, gie-sui seng-siu?%
+而且 日後 這 萬貫 家財，叫誰 承受，叫誰承受？
+
+（員外）
+
+%ai-oi, coin-ueng bhueng-ueng, dou-si zok-zien ze-gai lau-huai-dang%
+哎□，千怨萬怨，都是 族掌 這個 老壞蛋
+
+%pieng-pieng cok-seng cv-cing a%
+偏偏 觸成 此親 啊
+
+（桃花）
+
+%ueng-ghua ang-ring, nie-gian v bie-siou-ia in dang-teng gang-in%
+員外 安人，娘囝 與 表少爺 已 同窗 共硯
+
+%rik-gu sen-ain, ze-si nang-ceng zv sien%
+日久 生愛，這是 人情 之常
+
+%ning gim kiang-doh ta si, hv pue Ien-ge, gie ta ru-ho tian-cong, ru-ho tian-cong?%
+恁 今 強奪 他勢，許 配 楊家，叫他 如何 聽從，如何 聽從？
+
+（安人）
+
+%To-hue sueh-dik u-li, ho-buk ba Ien-ge cing-sv to-liou?%
+桃花 說得 有禮，何不 把 楊家 親事 退了？
+
+（員外）
+
+%to-hung?%
+退婚？
+
+• %houn si lau-pue nang lau-mia, hv-hung to-hung bai ge-sian%
+虎死 留皮 人 留名，許婚 退婚 敗 家聲
+
+• %kuang-iu zok-dien ui bhue-ieh, houn-su lang-buek goi lang-gian, goi lang-gian!%
+況又 族長 爲 媒妁，虎須 難拔 計 難行，計 難行！
+
+（桃花）
+
+%ueng-ghua gi-bho zu-i, nie-gian iu-si dik-ben%
+員外 既無 主意，娘囝 又是 得病
+
+%ze-ziu lang-mieng long-cuk hua lai%
+這就 難免 弄出 禍 來
+
+（安人）
+
+%ai-ia! no-lau zi-u cv-nvng, riak-guan ru To-hue so-ngang,%
+哎呀！二老 只有 此女，若果 如 桃花 所言，
+
+%ziang-lai lv-ua so-gou ho-nang, so-gou ho-nang?%
+將來 你我 所靠 何人，所靠 何人？
+
+（員外）
+
+%kia-houn lang-hia, zi-u sie-sim gueng-huang, zai-sien liang-ceh ba%
+奇虎 難下，只有 小心 觀防，再想 良策 吧
+
+（安人）
+
+%To-hue, lv su sie-sim hok-si nie-gian%
+桃花，你 須 小心 服侍 娘囝
+
+（桃花）
+
+%bi-zv cong-meng!%
+婢子 從命！
+
+## 第五出 • Scene 5
+
+[47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
+
+（丑）
+
+%a-ni gian-ki!%
+阿妮 行起！
+
+（阿妮）
+
+%ho, lai gian%
+好，來行
+
+（丑）
+
+• %dang-hua-lau zien deng hung-ing%
+東華樓 上 訂 婚姻
+
+• %san-tui si-to gv seng-cing%
+三推四托 拒 成親
+
+• %a-ni oi!%
+阿妮 ⿰口會！
+
+（阿妮）
+
+• %siu-cai oi!%
+秀才 ⿰口會！
+
