@@ -45,7 +45,7 @@ excavation in 1958. In the collection of the Guangdong Provincial Museum.
 Reprinted in 《明本潮州戲文五種》.
 
 
-### 《荔鏡記》 • Li-gian-gi • Tale of the Lychee Mirror
+### 《荔鏡記》 • Li-gian-gi • Tale of the Lychee and Mirror
 
 This opera is also known as 《荔枝記》 *Li-gi-gi*, “Tale of the Lychee Branch”.
 The modern opera 《陳三五娘》 *Dang-san Ngou-niê* is based on the same story.
@@ -74,6 +74,7 @@ popular story, frequently adapted and re-printed.
  * 《新刻增補全像鄉談荔枝記》 (1581), said to be representative of the Teochew
    editions. Reprinted in 《明本潮州戲文五種》. Available online:
    * [Digital scan, Austrian National Library](https://onb.digital//result/1037167F)
+   * [Transcription by Learn Teochew (in progress)](https://github.com/learn-teochew/li-gi-gi-1581)
  * Other editions not available online (if you are aware of a publicly
    available digitized version, please get in touch!)
    * 《新𢳣潮調陳三泉南錦曲加調全集》 (ca. 1600), National Library of Scotland,
