@@ -1800,3 +1800,333 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 ## 第七出 • Scene 7
 
 Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
+
+（員外）
+
+• %goi-ka di mua-si, san-gv da dieh-ci%
+雞腳 纏 麻絲，衫裾 搭 着刺
+
+• %bian li bian-m-kui, zau li zau-m-li%
+拚 哩 拚唔開，走 哩 走唔離
+
+• %ru-gim Ien-ge lai to-cua, goi kiem-zien sok-si%
+如今 楊家 來 討𡥘，計歉上 孰是
+
+• %sai ua ka-mang ciu-lueng, bho-liou zu-i!%
+使我 腳忙手亂，無了 主意！
+
+• %hng zi hng na lau-ciang bho-ho ga-si%
+恨 只恨 那 老娼 無好 教示
+
+（安人）
+
+• %lau-gau sueh-ue bho-dau-li, ueng-tin ueng-di hueng-su ueng zv-gi%
+老狗 說話 無道理，怨天 怨地 還須 怨 自己
+
+• %lv zong-rik ziah-ba bho-sv zo, zueng-mung cue-pah guan-si%
+你 終日 食飽 無事 做，專門 揣打 官司
+
+• %ui-liou hong-ngieng guan-hu, buk-gu cing-sen nvng-ri%
+爲了 奉迎 官府，不顧 親生 女兒
+
+• %ru-gim hua-sv lim-tau, toin lv zo-ni si!%
+如今 禍事 臨頭，睇你 做呢 死！
+
+（員外）
+
+%lau-ciang, lv hueng-lai hue-zien ge-iu a!%
+老娼，你 還來 火上加油 啊！
+
+（安人）
+
+%lau-gau, sui gie-lv lueng-bui?%
+老狗，誰 叫你 亂吠？
+
+（員外）
+
+%ze-gai ho-nai a?%
+這個 何奈 啊？
+
+（僕人）
+
+%bing ueng-ghua ang-ring, zok-dien hua Ien-gou-ia lai-liou%
+稟 員外 安人，族長 和 楊姑爺 來了
+
+（員外）
+
+%han? lai-liou? ngieng-zih ngieng-zih ngieng-zih%
+～？來了？迎接 迎接 迎接
+
+（族長）
+
+%rui-hu mung-sian ua u-zeh, gueng-ga cai-nvng2 gui cai-nvng5%
+維護 門聲 我 有責，管教 才女 歸 才郎
+
+（丑）
+
+%Sai-tin-huk buk-ru Tou-di-beh, cueng-ziang zok-dien zo zu-ziang%
+西天佛 不如 土地伯，全仗 族長 做 主張
+
+（族長）
+
+%ho-ue, ho-ue%
+好話，好話
+
+（員外）
+
+%zek-gong, siu-cai%
+叔公，秀才
+
+（族長）
+
+%siu-cai, ngak-be lv gin-gue, ze-ui ziu-si lv ngak-bho%
+秀才，岳父 你 見過，這位 就是 你 岳母
+
+（丑）
+
+%ho, ho! ngak-be ngak-bho do-zien, sie-sai u-li%
+好好！岳父 岳母 在上，小婿 有禮
+
+（員外）
+
+%mieng-li, cian-zo cian-zo%
+免禮，請坐 請坐
+
+（丑）
+
+%zo zo zo zo%
+坐坐坐坐
+
+（族長）
+
+%zo zo zo zo%
+坐坐坐坐
+
+（員外）
+
+%siu-cai, cing-lim hang-sia u-ho gui-gang?%
+秀才，親臨 寒舍 有何 貴幹？
+
+（丑）
+
+%kai-kau siu-cai, bi-kau siu-cai, mung ua u-ho gui-gang%
+開口 秀才，閉口 秀才，問我 有何 貴幹
+
+%kvk-lai ge-ci zak-ngai, hng!%
+卻來 假癡 作呆，哼！
+
+%lai lai lai, ngak-be, dvng-rik Dang-hua-lau siah-zien dian-cing, si lv cing-kau dap-eng%
+來來來，岳父，當日 東華樓 席上 定親，是你 親口 答應
+
+%zok-dien ui-bhue, ui-ho san-tui si-ieng, buk-ziang ngieng-cu?%
+族長 爲媒，爲何 三推 四延，不將 迎娶？
+
+%gim-rik sie-sai deng-mung, ziu-si gau-lai ngieng-cing%
+今日 小婿 登門，就是 到來 迎親
+
+（員外）
+
+%ze...%
+這……
+
+（族長）
+
+%a? si-hian, ua v-lv sueh-gue gi-cv liou%
+啊？四兄，我 與你 說過 幾次 了
+
+%lv zong-si sueh hau zeh gik-rik%
+你 總是 說 候擇 吉日
+
+%ru-gim siu-cai si deng-mung lai cu-cing di%
+如今 秀才 是 登門 來 娶親 的
+
+（員外）
+
+%zek-gong, lv u-so m-zai, zi-ing ng no-lau duan-sen cv-nvng%
+叔公，你 有所 唔知，只因 阮 二老 單生 此女
+
+%ni-gi siang-iun, buk-sim bang-sim, gu-cv cian-kiu ieng-mang%
+年紀 尚幼，不甚 放心，故此 請求 延慢
+
+（安人）
+
+%si-a, kuang-cia zuang-liem bhue-bi, siu-cai ui-ho ru-cv gip-ciek?%
+是啊，況且 妝簾 未備，秀才 爲何 如此 急切？
+
+（丑）
+
+%ai, leng-ain ni in gip-gi, kueng dian-hung in gu%
+哎，令愛 年 已 及笄，況 定婚 已 久
+
+> 笄 - lit. “hairpin”, fig. girl who has come of age
+>
+> 令愛 - “your daughter” (polite)
+
+%ngak-be, ngak-bho, sueh-ue su-ain gvng-li se-se!%
+岳父、岳母，說話 須欲 近理 些些！
+
+（員外）
+
+%si-a, si-a%
+是啊，是啊
+
+（安人）
+
+%hen, bu-gui nang-ge, hung-ing dai-sv, su gang bai-ciang%
+吓，富貴 人家，婚姻 大事 須講 排場
+
+%sui-si dian-hung, dang tiu-bi bhue-siu%
+雖是 定婚，但 籌備 未收
+
+%ziu-lai san-tui-si-bek, dian sim-moh ien-zv?%
+就來 三推四逼，定 什麼 樣子？
+
+（丑）
+
+%a! ngak-bho, to-cing ia-si nang-cing zv sien, za ho-sueh si tui-bek?%
+啊！岳母，討親 也是 人親 之常，怎 好說 是 推逼？
+
+（安人）
+
+%hen, bek ia-ho, buk-bek ia-ho, ung no-lau zi-u cv-nvng%
+吓，逼 也好，不逼 也好，阮 兩老 只有 此女，
+
+%ain ru-zien zien-du, mak-zoin bhue-gam riang ta cuk-goh%
+愛 如掌上珠，目前 未甘 讓 他 出閣
+
+%lv gi bek buk-gip tai, ziu cian-kv leng-cim sok-nvng%
+你 既 迫不及待，就 請去 另尋 淑女。
+
+（員外）
+
+%cv-ngang za-gang?%
+此言 怎講？
+
+（安人）
+
+%leng-cim sok-nvng%
+另尋 淑女
+
+（丑）
+
+%ai-za! ko-nau, ko-nau!%
+哎咋！可惱，可惱！
+
+• %bhung ngang-ghv ki cong-tin, bhung ngang-ghv ki cong-tin%
+聞 言語 氣 沖天，聞 言語 氣 沖天
+
+• %to-hung hueng-hung ho dau-li?%
+退婚 緩婚 何 道理？
+
+• %ngueng-lai ning lu-cv siang tui-to%
+原來 恁 屢次 相 推托
+
+• %si tiok-i hue-hung ba nang ki, ba nang ki!%
+是 蓄意 悔婚 把 人 欺，把 人 欺！
+
+（員外）
+
+%ho ho, siu-cai, hu-ring-ge buk-hiou si-bhu, siu-cai mo guai%
+好好，秀才，婦人家 不曉 世務，秀才 孬怪
+
+%Sou-si kiang-zong seng-zok, na-u hv-hung to-hung zv-li v?%
+蘇氏 強宗盛族，那有 許婚退婚 之理 噁？
+
+（族長）
+
+%zek-gong, siu-cai%
+叔公，秀才
+
+（丑）
+
+%zing-zing ka-u-cv-li%
+真真 豈有此理
+
+（員外）
+
+%mai ki, mai ki, dan dan dan dan%
+勿氣 勿氣，呾呾呾呾……
+
+（族長）
+
+• %uang no-lau gian-ni gue buan-beh, cek-e rui-u cv nvng-ri%
+阮 兩老 行年 過 半百，膝下 唯有 此 女兒
+
+• %zi-gak li-nek sim-tau tian, guk-nek siang-lieng lang guah-li%
+指甲 離肉 心頭 痛，骨肉 相連 難 割離
+
+（安人）
+
+• %dang-gue sui-dua huan-si cai, sie-nvng ni-iun siang bho-di%
+冬瓜 雖大 還是 菜，小女 年幼 尚 無知
+
+• %kiu zek-gong, hueng cian zek-gong lai zo-zu%
+求 叔公，煩 請 叔公 來 做主
+
+• %ba hung-ki ieng-mang tai lai-ni%
+把 婚期 延慢 待 來年
+
+（丑）
+
+%ha, sien ning ze-ien siek-zing gui-goi, ia-si uang-hui sim-gi%
+哈，像 恁 這樣 設盡 詭計，也是 枉費 心機
+
+%lau-sik sueh, ghu-gak m-ziem m-gan gue-nia%
+老實 說，牛角 唔尖 唔敢 過嶺
+
+%ua gim-rik deng-mung, bieng ain ngieng-cing%
+我 今日 登門，便愛 迎親
+
+%riak zai gv-hung, ziu cian gong-dvng siang-gin, gong-dvng siang-gin!%
+若 再 拒婚，就請 公堂 相見，公堂 相見！
+
+（桃花）
+
+%gim-tin dvng-zien gin gou-ia, ho-sv zeng-gong zien guan-tian%
+今天 堂上 見 姑爺，好似 諍公 上 官廳
+
+（丑）
+
+%han? lv ze ia-tau, zv-ngang-zv-ghv sueh-se sim-moh ne?%
+哈？你 這 丫頭，自言自語 說些 什麼 呢？
+
+（桃花）
+
+%ua sueh gou-ia lv%
+我 說 姑爺 你
+
+（丑）
+
+%gou-ia zo-ni?%
+姑爺 做呢？
+
+（桃花）
+
+• %gou-ia gim-rik zek zing-mung, sian-sian sueh ain bo gong-dvng%
+姑爺 今日 一 進門，聲聲 說 愛 報 公堂
+
+• %cing-ge bhue-seng ueng-ge soin-zo, diem-ziu bhue-im soin bieng svng%
+親家 未成 冤家 先做，甜酒 未飲 先 變 酸
+
+（員外）
+
+%a ze ze ze... %
+啊 這這這……
+
+（丑）
+
+%zu-ring tai keh, bi-nvng gan lai do-ngang? zing-zing cueng-bho loi-ngi%
+主人 待客，婢女 敢來 多言？真真 全無 禮儀
+
+（桃花）
+
+• %gou-ia gi-si tak-zv hiou loi-ngi%
+姑爺 既是 讀書 曉 禮儀
+
+• %dvng zai ring-lung zv dau, dien-iun zung-bui%
+當知 人倫 之 道，長幼 尊卑
+
+• %tin do zien, tin do zien, su-ain ngiang tau mo, di do e, ain toin ba tau di%
+天 在 上，天 在 上，須愛 仰頭 望，地 在 下，愛 看 把 頭 低
+
+(STOP: 8:37 https://youtu.be/OepVJnOc_D0?t=517)
