@@ -2129,4 +2129,256 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 • %tin do zien, tin do zien, su-ain ngiang tau mo, di do e, ain toin ba tau di%
 天 在 上，天 在 上，須愛 仰頭 望，地 在 下，愛 看 把 頭 低
 
-(STOP: 8:37 https://youtu.be/OepVJnOc_D0?t=517)
+• %nap cing dvng-zoin su-zip pian-li, za-ko sian-sian gu-gu da guan-si?%
+納親 當前 須 執 聘禮，怎可 聲聲句句 打 官司？
+
+（丑）
+
+%toin ning ze-ien so-ui, lai-dang dian u ceng-mik%
+睇 恁 這樣 所爲，內中 定 有 情密
+
+（桃花）
+
+%cian-mung u ho ceng-mik?%
+請問 有 何 情密？
+
+（丑）
+
+• %mok-hui si zek-nvng v no-sai, mok-hui si ua-ci v-nang u sai-ceng?%
+莫非 是 一女 與 二婿，莫非 是 我妻 與人 有 私情？
+
+（桃花）
+
+%siu-zai ia, siu-zai, uang lv tak-zv meng-li, gim-rik geng sueh-cuk cv-ue%
+秀才 也 秀才，枉 你 讀書 明理，今日 竟 說出 此話
+
+%tang-riak nie-gian bhung-zai, za-keng v-lv gang-hiun? v-lv gang-hiun?%
+倘若 娘囝 聞知，怎肯 與你 干休？與你 干休？
+
+（丑）
+
+%zu-kau zu-kau! lv ze hia-zuan ia-tau!%
+住口 住口！你 這 下賤 丫頭！
+
+%gan-lai v-ua dau-kau, ua sien m-sien a%
+敢來 與我 鬥口，我 想唔想 啊
+
+（員外）
+
+%ai-ia mo-i-sv mo-i-sv, zo-la zo-la%
+哎呀 孬意思 孬意思，坐啦 坐啦
+
+（桃花）
+
+%v! gou-ia oi! mai-ki mai-ki, To-hue nang zuan li buk-zuan%
+噁！姑爺 ～！勿氣 勿氣，桃花 人 賤 理 不賤
+
+%sien ua sen-ui nou-bi, dou-si rim-nang cuk-ki%
+想 我 生爲 奴婢，都是 任人 出氣
+
+%zi-si gou-ia gue-mung si keh, buk-ko sik-loi%
+只是 姑爺 過門 是 客，不可 失禮
+
+%in-au liang-ge cai-ho zo-cing, huan-mo gou-ia san-sv su-zue a, su-zue!%
+以後 兩家 才好 做親，還望 姑爺 三思 恕罪 啊，恕罪！
+
+（丑）
+
+%ko-nau a!%
+可惱 啊！
+
+（員外）
+
+%To-hue a, lv si nou-bok, zu-ring tai-keh, ho-eng lv lai do-ngang a?%
+桃花 啊，你 是 奴僕，主人 待客，何用 你 來 多言 啊？
+
+（桃花）
+
+%zok-dien gong, sie-bi m-gan%
+族長 公，小婢 唔敢
+
+（員外）
+
+%huan-buk kuai-kuai to-hia kv a%
+還不 快快 退下 去 啊
+
+（員外）
+
+%zok-dien gong gie lv hia-kv, lv zu hia-kv%
+族長 公 叫你 下去，你 住 下去
+
+（丑）
+
+%ko-nau, ko-nau a!%
+可惱，可惱 啊！
+
+（族長）
+
+%ho ho, dien-nang gian-sai, riang-liou m-gian-ien%
+好好，丈人 囝婿，嚷了 唔 行樣 
+
+%siu-zai, lv ko ziem hue ua-ge, ze-sv hau ua v si-hian mang-mang siang-ngi%
+秀才，你可 暫 回 我家，這事 候 我 與 四兄 慢慢 商議
+
+（丑）
+
+%ho, iu ta kv pah-svng%
+好，由他 去 拍算
+
+（族長）
+
+%ho, cian-hue cian hue%
+好，請回 請回
+
+（族長）
+
+%Lau-si, cv-hung ka-si lv cing-kau dap-eng%
+老四，此婚 豈是 你 親口 答應
+
+（員外）
+
+%si, si ua cing-kau dap-eng%
+是，是 我 親口 答應
+
+（族長）
+
+%ho-nang ui-bhue?%
+何人 爲媒？
+
+（員外）
+
+%zv-rieng si zek-gong lv%
+自然 是 叔公 你
+
+（族長）
+
+%ho zai-dau! ge-ziang zu-hung, zok-dien ui-bhue%
+好知道！家長 主婚，族長 爲媒
+
+%gim-rik geng-gan ti-cuk to-hung no-ri%
+今日 竟敢 提出 退婚 二字
+
+%Sou-si seng-zok, ti-ming ho-cung, ti-ming ho-cung a?%
+蘇氏 成族，體面 何存，體面 何存 啊？
+
+（安人）
+
+%zek-gong, ngang-zv sui-si, zi-si ua-nvng ia-buk ngueng-i%
+叔公，言之 雖是，只是 我女 也不 願意
+
+%tang-u ca-co, ru-ho si ho?%
+倘有 差錯，如何 是好？
+
+（族長）
+
+%en? toin-lai lai-dang... dui a! ha ha ha%
+啞？睇來 內中…… 對啊！哈哈哈
+
+%Si-so, hue ka-iong zua-bau%
+四嫂，火 豈容 紙包
+
+%lai-dang ceng-bi, hueng-su meng-ngang, cai-ho siek-huap goi-ui a%
+內中 情祕，還須 明言，纔可 設法 解圍 啊
+
+（安人）
+
+%Zek-gong, ge-mung buk-heng, na ngek-nvng, v ua diek-ri Gi-cung...%
+叔公，家門 不幸，那 逆女，與 我 侄兒 繼春……
+
+（族長）
+
+%han?! Lak-nie v Gi-cung? hng! lang-guai, lang-guai ia!%
+～？六娘 與 繼春？哼！難怪，難怪 呀！
+
+• %be-bho hung-iong nvng buk-siou, bai-huai zou-zong rok mung-hong%
+父母 昏庸 女 不肖，敗壞 祖宗 辱 門風
+
+• %lang-guai ning san-tui si-ieng, kiak ngueng-lai a%
+難怪 恁 三推 四延，卻 原來 啊
+
+• %zong-nvng im-lueng v-nang sv-tong, Sou-si si-do ceng-beh cong-cv sang!%
+縱女 淫亂 與人 私通，蘇氏 世代 清白 從此 喪！
+
+• %ge-gui zok-huap ia buk-siang-iong, ua dian ain cui ta-mung dian zok-huap%
+家規 族法 不相容，我 定 欲 催 他們 定 族法
+
+• %ba-ziang lv-nvng dim gang-dong!%
+把將 你女 沉 江中！
+
+%ai-ia! Lau-si a Lau-si a%
+哎呀！老四 啊 老四 啊
+
+%ua ziek-si tong-zai Ien siu-zai, i-huap kong-su%
+我 即時 通知 楊 秀才，依法 控訴
+
+%bian-gie zek-sung bang-nang dim-gang, gueng-ga ning ge-pua nang-bhuang%
+併叫 叔孫 綁人 沉江，管教 恁 家破人亡
+
+%pei!%
+呸！
+
+（員外、安人）
+
+%ai, Zek-gong zo-ceng, zo-ceng!%
+哎，叔公 做情 做情！
+
+（族長）
+
+%ia-ba, riak-ain bo-cueng lv-nvng sen-mia, su i ua-ngang%
+亦罷，若欲 保全 你女 性命，須 依 我言
+
+（員外、安人）
+
+%cian Zek-gong si-meng%
+請 叔公 示明
+
+（族長）
+
+%beh-gu ngou-zap sang%
+百句 五十雙
+
+%riak-si dap-eng Ien-ge ngieng-cu, bieng ko dvng-zoin buk-giu%
+若是 答應 楊家 迎娶，便可 除前不究
+
+%riak-gan buan-sian buk-si a...%
+若敢 半聲 不是 啊……
+
+%ha ha! na-si hiun-guai sie-lau liou, hiun-guai sie-lau liou!%
+哈哈！那時 休怪 小老 了，休怪 小老 了！
+
+（員外）
+
+%Zek-gong zok-hu, ui-diek zv-dvng zung-meng%
+叔公 囑咐，爲侄 自當 尊命
+
+%zi-si na ngek-nvng zip-i buk-cong, tang-riak zek-ca no-co, ru-ho si ho?%
+只是 那 逆女 執意 不從，倘若 一差二錯，如何 是好？
+
+（族長）
+
+%ze-gai...%
+這個……
+
+%dau-ia buk-lang, hau ua meng-nang gau lv-ge bo-hi%
+倒也 不難，候 我 命人 到 你家 報喜
+
+%sueh si Sai-lou Gueh-ge gu-be in-ui Gi-cung peng-dian mia-mung%
+說是 西蘆 郭家 舅父 已爲 繼春 聘定 名門
+
+%dvng-zoh Lak-nie dui Gi-cung ci-ceng%
+斷絕 六娘 對 繼春 癡情
+
+%ta zv-rieng keng-ge Ien-ge liou a%
+他 自然 肯嫁 楊家 了 啊
+
+（安人）
+
+%ze...%
+這……
+
+（族長）
+
+%ru-ho?%
+如何？
+
+(STOP: 16:20 https://youtu.be/OepVJnOc_D0?t=980) TODO: check if Ueng-ghua and Zok-dien are correctly assigned in Scene 7
