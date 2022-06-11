@@ -82,7 +82,7 @@ popular story, frequently adapted and re-printed.
      Yibo](https://hdl.handle.net/1842/36643))
    * 《新刊時興泉潮雅調陳伯卿荔枝記大全》 (1651), private collection
    * 《陳伯卿新調綉像荔枝記全本》 (1831), private collection
-   * 《陳伯卿新調綉像荔枝記真本》 (1884), private collection
+   * 《陳伯卿新調繡像荔枝記真本》 (1884), private collection, partially reprinted (chapters after 安童尋主 are missing from original) in 《俗文學叢刊》第113冊 465-553頁 (民國91年, Taipei: Institute of History and Philology).
 
 
 ### 《蘇六娘》 • Sou Lag-niê • Sixth Lady Sou
