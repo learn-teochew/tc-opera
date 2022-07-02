@@ -35,14 +35,18 @@ quality, capturing more detail than the printed facsimile.
 ### 《劉希必金釵記》 • Lau-hi-bik Gim-toi-gi • Tale of the Golden Hairpin
 
 Published 1431, recovered in an archaeological excavation in 1975. In the
-collection of the Teochew Municipal Museum. Reprinted in 《明本潮州戲文五種》.
+collection of the Teochew Municipal Museum. Photographic reproduction in
+《明本潮州戲文五種》.
+
+Scholarly edition with extensive introductory chapters:
+陈历明《潮州出土戏文珍本〈金钗记〉》（广州人民出版社，2012）
 
 
 ### 《蔡伯皆》 • Cua Bêh-gai
 
 Published in the Jiajing 嘉靖 era (1521-1567), recovered in an archaeological
 excavation in 1958. In the collection of the Guangdong Provincial Museum.
-Reprinted in 《明本潮州戲文五種》.
+Photographic reproduction in 《明本潮州戲文五種》.
 
 
 ### 《荔鏡記》 • Li-gian-gi • Tale of the Lychee and Mirror
@@ -65,6 +69,7 @@ popular story, frequently adapted and re-printed.
    * [Digital scan, Oxford University Bodleian Library Sinica
      34/1](https://digital.bodleian.ox.ac.uk/objects/cb79b399-7272-4061-81e3-617828b50493/)
      and [34/2](https://digital.bodleian.ox.ac.uk/objects/0648fe4b-8463-490d-aa35-5d4ebf7af300/)
+     (in color and higher resolution than the printed reproduction)
    * [Digital scan, Peking University Library facsimile edition, via Internet
      Archive](https://archive.org/details/02111377.cn); this scan appears to be
      based on the copy held in the Tenri Library, Japan.
@@ -72,8 +77,10 @@ popular story, frequently adapted and re-printed.
    * [Transcription with notes by Wu Shou-li 吳守禮 and recitation in Zuan-ziu
      pronunciation by Li Limin 李麗敏, hosted by Taiwan Ministry of Culture](https://taiwanopera.moc.gov.tw/index/zh-tw/MirrorVideo)
  * 《新刻增補全像鄉談荔枝記》 (1581), said to be representative of the Teochew
-   editions. Reprinted in 《明本潮州戲文五種》. Available online:
-   * [Digital scan, Austrian National Library](https://onb.digital//result/1037167F)
+   editions. Photographic reproduction in 《明本潮州戲文五種》. Available
+   online:
+   * [Digital scan, Austrian National Library](https://onb.digital//result/1037167F) 
+     (in color and higher resolution than the printed reproduction).
    * [Transcription by Learn Teochew (in progress)](https://github.com/learn-teochew/li-gi-gi-1581)
  * Other editions not available online (if you are aware of a publicly
    available digitized version, please get in touch!)
@@ -87,12 +94,13 @@ popular story, frequently adapted and re-printed.
 
 ### 《蘇六娘》 • Sou Lag-niê • Sixth Lady Sou
 
-Probably printed during the Ming Wanli era (1572-1620). Reprinted in
-《明本潮州戲文五種》. The text was printed together with another Teochew play
-《金花女》 *Gim-huê-neng* in the same volume (see below). The text of *Sou
-Lag-niê* is in the upper register of each page, whereas *Gim-huê-neng* was in
-the lower register. The volume was formerly in the collection of Nagasawa
-Kikuya 長澤規矩也, and is now preserved in Tokyo University.
+Probably printed during the Ming Wanli era (1572-1620). Photographic
+reproduction in 《明本潮州戲文五種》. The text was printed together with
+another Teochew play 《金花女》 *Gim-huê-neng* in the same volume (see below).
+The text of *Sou Lag-niê* is in the upper register of each page, whereas
+*Gim-huê-neng* was in the lower register. The volume was formerly in the
+collection of Nagasawa Kikuya 長澤規矩也, and is now preserved in Tokyo
+University.
 
 This historical edition contains a selection of eleven scenes from the play, so
 there are some logical gaps in the story. The modern opera of the same name is
