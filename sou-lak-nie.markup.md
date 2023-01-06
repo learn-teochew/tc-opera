@@ -410,24 +410,31 @@ Video 1: [12:06](https://youtu.be/oI7fTLB5lB0?t=726)
 
 • %cung-huang zieng-ieh gau hng-lim%
 春風 踐約 到 園林
+In the winds of Spring, I keep an engagement in the garden
 
 • %ciou lip hue-zoin dok dim-leng%
 稍 立 花前 獨 沉 呤
+TODO
 
 • %bie-hian hiou ua ui ho-gu%
 表兄 邀 我 爲 何故
+For what reason has Cousin Gi-cung asked me here?
 
-• %zueng-gue-liou dang-li hue-pou lai-gau sui liu-im%
+• %zueng-gue-liou dang-li hue-pou lai-gau sui-liu-im%
 轉過了 東籬花圃 來到 垂柳蔭
+Past the Eastern fence of the garden, to the weeping willow’s shade
 
 • %dang gin na deng sia sok-sok%
 但 見 那 亭 榭 寂寂
+But seeing that lonely pavilion
 
 • %sim ueng-iu%
 甚 緣由
+What reason
 
 • %sim ueng-iu u-ieh buk lai-lim?%
 甚 緣由 有約 不 來臨
+What reason keeps him from his appointment?
 
 （繼春）• %Gi-cung%
 
@@ -459,6 +466,7 @@ Video 1: [12:06](https://youtu.be/oI7fTLB5lB0?t=726)
 
 %bie-hian, hie mai lueng-gang%
 表兄，～勿 亂講
+Cousin Gi-cung, don’t speak foolishly about these things
 
 （繼春）• %Gi-cung%
 
@@ -503,52 +511,67 @@ Video 1: [12:06](https://youtu.be/oI7fTLB5lB0?t=726)
 
 %sia-sia mue-mue, dang-si...%
 謝謝 妹妹，但是……
+Thank you Sister, but...
 
 %mue-mue, ze beh ghek-dui si lv diou-hia di moh?%
 妹妹，這 白玉墜 是 汝 掉下 的 麼？
+Sister, was it you who dropped this white jade pendant?
 
 （六娘）• %Lak-nie%
 
 %zian-si%
 正是
+Yes it was
 
 （繼春）• %Gi-cung%
 
 %mue-mue, ze ghek-dui ho-cien si ua ri-si sang-gip lv di%
 妹妹，這 玉墜 好像 是 我 兒時 送給 汝 的
+Sister, this jade pendant looks like the one I gave to you when we were children.
 
 %ui-ho sik-loh v-cv?%
 爲何 失落 與此？
+How did it get lost?
 
 （六娘）• %Lak-nie%
 
 %ze beh ghek-dui zian-si bie-hian so-zang%
 這 白玉墜 正是 表兄 所 贈
+This white jade pendant was indeed the one that Cousin Gi-cung gifted me.
 
 %mue si-kek dua do sing-bin%
 妹 時刻 帶 在 身邊
+I wore it constantly on my person,
 
 %sek-cai buk-gak, diou-hia do-cv%
 適才不覺，掉下 在此
+but without realizing it, I dropped it here just now.
 
 （繼春）• %Gi-cung%
 
 %hue-ek tong-ni, cen-bhue dek-bhe%
 回憶 童年，青梅 竹馬
+Thinking back to our childhood years, those innocent sweetheart years.
+
+> 青梅竹馬 - idiom, lit. “green plums and bamboo (hobby) horse”
 
 %zeng-gi ho-si, lv-ua ziu ziang-dai seng-ring liou%
 曾 幾 何時，你我 就 長大 成人 了
+In not much time, you and I have grown into adulthood.
 
 %mue-mue, lv ka gi-dik: ri-si lv ain meng-siem%
 妹妹，汝 豈 記得，兒時 汝 愛 鳴蟬
+Sister, do you remember how you loved chirping cicadas as a child?
 
 %ua ziu pang-zien ze-ciu kv-cok, hiem-se diek-hia-lai%
 我 就 攀上 這樹 去捉，險些 跌下來
+So I climbed up this tree to catch some, and almost fell down from it.
 
 （六娘）• %Lak-nie%
 
 %ai-ia, gi-dik, gi-dik! bie-hian a!%
 哎呀，記得，記得！表兄 啊！
+Ah, I remember, I remember! Cousin Gi-cung!
 
 • %zai siem-sian gi-dou mueh-hueng cen-i%
 知 蟬聲 幾度 物換星移
@@ -2381,4 +2404,202 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %ru-ho?%
 如何？
 
-(STOP: 16:20 https://youtu.be/OepVJnOc_D0?t=980) TODO: check if Ueng-ghua and Zok-dien are correctly assigned in Scene 7
+（員外）
+
+%zek-gong, sv gau ru-gim... tian-cong lv ziu si a%
+叔公，事 到 如今…… 聽從 你 就是 啊
+
+（族長）
+
+%tian ua ziu ho, ua ziek tong-zai Ien-siu-cai%
+聽 我 就 好，我 即 通知 楊秀才
+
+%au-tin bieng-lai ngieng-cu%
+後天 便來 迎娶。
+
+（安人）
+
+%ai-ia, zai-ho ze-ien kuai?%
+哎呀，怎好 這樣 快？
+
+（族長）
+
+%oi? me-ciang-mang-do, cong-sok-ui-miou, ua gau-si liou a!
+～？夜長夢多，從速爲妙，我 告辭 了 啊！
+
+> me-ciang-mang-do, cong-sok-ui-miou – idiom
+
+（安人）
+
+%zek-gong!%
+叔公！
+
+## 第八出 • Scene 8
+
+[01:11:30](https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html)
+
+（桃花）
+
+• %Ien-ge hiou-ak ru lang-houn, zok-dien ui houn ba ek tiem%
+楊家 梟惡 如 狼虎，族長 爲 虎 把 翼添
+
+• %no-lau sui-rieng ain riek-nvng, im-ui zv-e lang siang-liang%
+二老 雖然 愛 弱女，淫威 之下 難 商量
+
+• %im-ui zv-e lang siang-liang!%
+淫威 之下 難 商量！
+
+%beh a! kuai-se ten ua gue-gang a!%
+伯 啊！快些 撐 我 過江 啊！
+
+（渡公）
+
+%To-hue, ui-ho zie-sen huang-mang?%
+桃花，爲何 照生 慌忙？
+
+（桃花）
+
+• %zi ing-ui Ien-ge hue-giou in ling-mung%
+只 因爲 楊家 花驕 已 臨門
+
+• %iu-tueng Gueh-hu dian ing-cing%
+又傳 郭府 定 姻親
+
+• %sok-gau Sai-lou tam siou-sek%
+速到 西蘆 探 消息
+
+• %gang-siang miou-goi giu ghek-ring%
+共商 妙計 救 玉人
+
+• %hok-mo A-beh siang-zo lak%
+伏望 阿伯 相助 力
+
+• %dou ua gue-gang gam-ng cim%
+渡 我 過江 感恩 深
+
+（渡公）
+
+%a! ngueng-lai ze-deng. ho, kuai-se sui-ua loh-zung%
+啊！原來 這等。好，快些 隨我 落船
+
+## 第九出 • Scene 9
+
+[01:12:23](https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html)
+
+（六娘）
+
+• %cou-hng mua-huai, cou-hng mua-huai!%
+愁恨滿懷，愁恨滿懷！
+
+• %cou-hng mua-huai, mung cang-tieng bho-ngang%
+愁恨滿懷，問 蒼天 無言
+
+• %Sai-lou gu-mang in lang-sang, buk-kam hue-siu gim-ghek ueng%
+西蘆 舊夢 已 闌珊，不堪 回首 金玉緣
+
+• %cong-lai ho-sv do bhua-zih, zv-gou boh-mia si ang-ngueng%
+從來 好事 多 磨折，自古 薄命 是 紅顏
+
+• %Ien-ge cui-bek sim cen-hue, zok-dien hiou-ak sv houn-lang%
+楊家 催逼 甚 星火，族長 梟惡 似 虎狼
+
+• %ai, dia-nie oi, ning ho rim-sim sia-nvng sing ham lo-lang?%
+唉，爹娘 ～，恁 何 忍心 舍女 身 陷 牢籠？
+
+• %To-hue Sai-lou bhue hue-hueng, zing ga-ua cou-ciang giem beh-gak%
+桃花 西蘆 未 回返，真 教我 愁腸 兼 百結
+
+• %cou-ciang beh-gak sim ziou pang%
+愁腸 百結 心 焦 盼
+
+（梅香）
+
+%bing nie-gian, ueng-ghua meng-ua deng gip nie-gian cu-lai i-sek%
+稟 娘囝，員外 命我 等 給 娘囝 取來 衣飾
+
+%zung-bi meng-za cuk-goh siu-zuang%
+準備 明早 出閣 梳粧
+
+（乳娘）
+
+%siu-cai nie%
+秀才娘
+
+（六娘）
+
+%bhue-hien, cv si ho-nang?%
+梅香，此 是 何人？
+
+（梅香）
+
+%ze-si Ien-ge ru-nie, gou-ia meng-ta lai puan-bang di%
+這是 楊家 乳娘，姑爺 命他 來 伴房 的
+
+（乳娘）
+
+%si si si, ua si lai puan-bang le%
+是是是，我 是 來 伴房 ～
+
+%na zo no%
+～ 坐 𰇇
+
+%siu-cai-nie oi, lv ia-oi tak-zv a?%
+秀才娘 ～，你 也會 讀書 啊？
+
+%hai-oi, ning zia tak-zv nang, zing-si tin-deng u cen, u hok-ki a!%
+～～，恁 者 讀書人，真是 天頂 有 星，有 福氣 啊！
+
+%a siu-cai ia-si tak-zv-nang%
+阿 秀才 也是 讀書人
+
+%nang nang-ge lai cian-ta sia zvng pa guan-si%
+俺 人家 來 請他 寫 狀 拍 官司
+
+%i-gi bik kieh ki-lai gau ziu ueh leng a, ueh houn a, liou ghia nang kv ing-ing zvng-tau ho%
+伊枝 筆 挈 起來 到 就 畫 龍 啊，畫 虎 啊，了 ～ 人 去 印印 指頭 號
+
+%ai-oi, zie-sen, hia-ngvng ge-ge ziu tam rip-lai%
+哎～，照生，～銀 加加 就 貪 入來！
+
+> The nursemaid describes how her master uses his literacy in a vulgar way to make profit, which disgusts the high-minded Lak-nie
+
+%siu-cai-nie oi, lv sen-lai iu-ngia iu-ghau%
+秀才娘 ～，你 生來 又雅 又𠢕
+
+%lai pue-bung ua siu-cai, zing-si zek-dui ho ueng-ien a!%
+來 配分 我 秀才，真是 一對 好鴛鴦 啊！
+
+（六娘）
+
+%Bhue-hien, lv dua ru-nie hue-bang kv uan-sui ba%
+梅香，你 帶 乳娘 回房 去 安睡 吧
+
+（梅香）
+
+%si! ru-nie, zau ba%
+是！乳娘，走吧
+
+（乳娘）
+
+%ho, dan gian%
+好，旦 行
+
+%e... bhue bhue bhue bhue bhue%
+～…… 未未未未未
+
+%siu-cai-nie oi, siu-lieng li-do iu-si, cah-hue li-do bhau-si%
+秀才娘～，修臉 哩在 酉時，插花 哩在   卯時
+
+> 酉時 – evening hours around dusk
+>
+> 卯時 – morning hours around dawn
+
+%ua si-gang zai-lai gah-lv siu-zuang, gah-lv siu-zuang%
+我 時間 再來 甲你 梳粧，甲你 梳粧
+
+%ai-oi, sen-lai ngia-zai-zai, ngia-zai-zai ia!%
+哎～，生來 雅哉哉，雅哉哉 呀！
+
+(STOP: 1:18:13 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
+
+TODO: check if Ueng-ghua and Zok-dien are correctly assigned in Scene 7
