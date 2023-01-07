@@ -1709,7 +1709,7 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 • %Hang-gang gung-gung dang-lam liu, Hang-siang-zv hieng-sian ba gie siu%
 韓江 滾滾 東南 流，韓湘子 顯聖 把 橋 修
 
-• %zap-boih XXX , no-ziah sen-ghu zek-ziah liu%
+• %zap-boih (?) , no-ziah sen-ghu zek-ziah liu%
 十八［梭船廿四州］，兩隻 X牛 一隻 溜
 
 （阿妮）
@@ -1824,7 +1824,7 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 
 （丑）
 
-• %ain ziah ho-he bhe XX, ain cu giou-ci Sou-lak-nie%
+• %ain ziah ho-he bhe (?), ain cu giou-ci Sou-lak-nie%
 欲食 好蝦 ［馬鮫鱌］，欲娶 嬌妻 蘇六娘
 
 • %sim-dang huan-hi buk-gak ieng, buan-suan gue-nia zien Gik-ien!%
@@ -1832,7 +1832,7 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 
 （阿妮）
 
-%siu-cai oi, mai na X me a, tai-ua zek-e a!%
+%siu-cai oi, mai na (?) me a, tai-ua zek-e a!%
 秀才 ⿰口會，勿 那 X 猛 啊，待我 一下 啊！
 
 ## 第七出 • Scene 7
@@ -2352,7 +2352,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %bian-gie zek-sung bang-nang dim-gang, gueng-ga ning ge-pua nang-bhuang%
 併叫 叔孫 綁人 沉江，管教 恁 家破人亡
 
-%pei!%
+pei! <!--Not a standard Teochew syllable-->
 呸！
 
 （員外、安人）
@@ -2784,7 +2784,7 @@ But know that mother’s tears are more sour than an unripe plum
 %san-gen, san-gen liou!%
 三更，三更了！
 
-• %bhak-so ga-soh bou-bou ging, gen-gou cui-meng hiang deng-dong%%
+• %bhak-so ga-soh bou-bou ging, gen-gou cui-meng hiang deng-dong%
 木梭 絞索 步步 緊，更鼓 催命 嚮 叮咚
 
 • %To-hue im-sing in bho-mo, ga Lak-nie ho-so sek-cong?%
