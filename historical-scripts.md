@@ -31,12 +31,13 @@ copy of this valuable book, several of them are now available as digitized
 versions online. In some cases, the digital scans are in color and of high
 quality, capturing more detail than the printed facsimile.
 
-
 ### 《劉希必金釵記》 • Lau-hi-bik Gim-toi-gi • Tale of the Golden Hairpin
 
 Published 1431, recovered in an archaeological excavation in 1975. In the
 collection of the Teochew Municipal Museum. Photographic reproduction in
-《明本潮州戲文五種》.
+《明本潮州戲文五種》 (source of the image below).
+
+![First page from the Gim-toi-gi manuscript](gim-toi-gi-page.png){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Scholarly edition with extensive introductory chapters:
 陈历明《潮州出土戏文珍本〈金钗记〉》（广州人民出版社，2012）
@@ -59,7 +60,10 @@ claimed as part of the heritage of Hokkien-language opera, and is one of the
 “Four Great Works” of Taiwanese 歌仔戲 kua-á-hì opera.
 
 Several historical editions have been rediscovered, suggesting that this was a
-popular story, frequently adapted and re-printed.
+popular story, frequently adapted and re-printed. The oldest known editions are
+from 1566 (below, left) and 1581 (below, right).
+
+![First page of the Li-gian-gi 1566 edition](li-gian-gi-1566-page.png){:width="48%"} ![First page of the Li-gi-gi 1581 edition](li-gi-gi-1581-page.png){:width="48%"}
 
  * 《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲曲全集》 (1566), a mixture of 泉州
    Tsuann-tsiu and Teochew source editions. Printed together with excerpts from a
@@ -69,7 +73,8 @@ popular story, frequently adapted and re-printed.
    * [Digital scan, Oxford University Bodleian Library Sinica
      34/1](https://digital.bodleian.ox.ac.uk/objects/cb79b399-7272-4061-81e3-617828b50493/)
      and [34/2](https://digital.bodleian.ox.ac.uk/objects/0648fe4b-8463-490d-aa35-5d4ebf7af300/)
-     (in color and higher resolution than the printed reproduction)
+     (in color and higher resolution than the printed reproduction, source of
+     the image above.)
    * [Digital scan, Peking University Library facsimile edition, via Internet
      Archive](https://archive.org/details/02111377.cn); this scan appears to be
      based on the copy held in the Tenri Library, Japan.
@@ -80,8 +85,9 @@ popular story, frequently adapted and re-printed.
    editions. Photographic reproduction in 《明本潮州戲文五種》. Available
    online:
    * [Digital scan, Austrian National Library](https://onb.digital//result/1037167F) 
-     (in color and higher resolution than the printed reproduction).
-   * [Transcription by Learn Teochew (in progress)](https://github.com/learn-teochew/li-gi-gi-1581)
+     (in color and higher resolution than the printed reproduction, source of
+     the image above).
+   * [Transcription by Learn Teochew](https://github.com/learn-teochew/li-gi-gi-1581)
  * Other editions not available online (if you are aware of a publicly
    available digitized version, please get in touch!)
    * 《新𢳣潮調陳三泉南錦曲加調全集》 (ca. 1600), National Library of Scotland,
@@ -100,7 +106,9 @@ another Teochew play 《金花女》 *Gim-huê-neng* in the same volume (see bel
 The text of *Sou Lag-niê* is in the upper register of each page, whereas
 *Gim-huê-neng* was in the lower register. The volume was formerly in the
 collection of Nagasawa Kikuya 長澤規矩也, and is now preserved in Tokyo
-University.
+University (source of the image below).
+
+![First page of the combined edition of Gim-hue-nvng (below) and Sou-lak nie (above)](gim-hue-nvng-sou-lak-nie-page.png){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
 This historical edition contains a selection of eleven scenes from the play, so
 there are some logical gaps in the story. The modern opera of the same name is
@@ -124,3 +132,6 @@ in 《明本潮州戲文五種》.
  * [Transcription, Academia Sinica Southern Min Archives
    database](http://cls.lib.ntu.edu.tw/southernmin/jin_hua_nv/all_Text.asp)
 
+
+NB: Images on this page are low-resolution copies for illustrative purposes
+only. Rights belong to the copyright holders. See text for sources.
