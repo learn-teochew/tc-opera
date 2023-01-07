@@ -1,6 +1,21 @@
 # 蘇六娘（選） • %Sou-lak-nie% (Selection)
 
-The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 uploaded to YouTube ([Part 1](https://youtu.be/oI7fTLB5lB0), [Part 2](https://youtu.be/OepVJnOc_D0)), with some characters changed to fit the usage in the rest of this website. Lines that are sung are indicated with a • character at the beginning.
+The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 (uploaded to YouTube [Part 1](https://youtu.be/oI7fTLB5lB0), [Part 2](https://youtu.be/OepVJnOc_D0) [no longer available] and [Youku](https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html)); characters were converted to traditional and some usages were changed to fit the rest of this website. Lines that are sung are indicated with a • character at the beginning.
+
+## 劇中人物 • Dramatis personae
+
+In order of appearance.
+
+* 渡公 • %Dou-gong%
+* 桃花 • %To-hue%
+* 蘇六娘 • %Sou-lak-nie%
+* 郭繼春 • %Gueh-gi-cung%
+* 員外 • %Ueng-ghua%
+* 安人 • %Ang-ring%
+* 族長 • %Zok-dien
+* 楊秀才 • %Ien-siu-cai%
+* 梅香 • %Bhue-hien%
+* 乳娘 • %Ru-nie%
 
 ## 第一出 • Scene 1
 
@@ -2600,6 +2615,365 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %ai-oi, sen-lai ngia-zai-zai, ngia-zai-zai ia!%
 哎～，生來 雅哉哉，雅哉哉 呀！
 
-(STOP: 1:18:13 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
+• %li-mue-bhuang-liang bek suah nang%
+魑魅魍魎 逼 煞 儂
+
+• %ua leng-si ia buk ge-gau lang-o dong%
+我 寧死 也 不 嫁到 狼窩 中
+
+• %gau ru-gim gui-mung gueng-tau in do-mo%
+到 如今 鬼門 關頭 已 在望
+
+• %giu-cen iu miou-u-hung bhueng-kong%
+救星 猶 杳鳥雲 漫空
+
+%si cv siu-sek bui iu hung!%
+視 此 首飾 悲 又 憤！
+
+• %pieng ga Lak-nie im-hng zong%
+偏 教 六娘 飲恨 終
+
+%To-hue? o! bho-cing!%
+桃花？哦！母親！
+
+（安人）
+
+%nvng-ri, u-ue cian-sueh, hiun ain sien-sim%
+女兒，有話 請說，休欲 傷心
+
+（六娘）
+
+%bho-cing, lv zing-di rim-sim ziang ri ge-gau Ien-ge mo?%
+母親，汝 真的 忍心 將 兒 嫁到 楊家 孬？
+
+（安人）
+
+%nvng-ri, hui-si ui bho...%
+女兒，非是 爲 母……
+
+（六娘）
+
+• %ri si bho-cing sim-tau-nek, ziou-sek buk-li sui nie-sing%
+兒 是 母親 心頭肉，朝夕 不離 隨 娘身
+
+• %in-zv ham ni ui ain-zv, bho lv sim-bak ho-rim hia zoh-ceng?%
+燕子 銜泥 爲 愛子，母 汝 心腹 何忍 下 絕情？
+
+• %ai cing-nie o, cong-gim au%
+唉 親娘 哦，從今 後
+
+• %cong-gim au ho-bi hong-zeng dueng-liou suan%
+從今 後 好比 風箏 斷了 綫
+
+• %iu ho-bi sik-dua pieng-ziu cang-hai rim piou-leng%
+又 好比 失舵 扁舟 滄海 任 飄零
+
+（安人）
+
+• %ua meng-zai ri bi noi-zi sim gen kou%
+我 明知 兒 比 蓮子 心 更 苦
+I know that my child feels more bitterness than a lotus seed.
+
+• %za-zai bho bi cen-bhue lui gen svng%
+怎知 母 比 青梅 淚 更 酸
+But know that mother’s tears are more sour than an unripe plum
+
+• %ui to-hung cing hiang zok-dien kou ai-kiu%
+爲 退婚 親 向 族長 苦 哀求
+
+• %za nai hien-gui zok-huap bek-dik nang zing-to bho-mung?%
+怎 柰 鄉規 族法 迫得 人 進退無門？
+
+• %ai-ri oi, gau ru-gim%
+愛兒 ～，到 如今
+
+• %gau ru-gim dai-co zu-seng bhak-in-seng-ziu%
+到 如今 大錯 鑄成 木已成舟
+
+• %dang ngueng ning hu-ci dang ng-ain%
+但 願 恁 夫妻 同 恩愛
+
+• %hu-ci ng-ain gau beh-ciu%
+夫妻 恩愛 到 白鬚
+
+（六娘）
+
+%bho-cing, To-hue zoin kv Sai-lou, ing-ho zi-gim bhue hue?%
+母親，桃花 前 去 西蘆，因何 至今 未 回？
+
+（安人）
+
+%gik-rik ru-cv gip-bek, gu-ge sv-zoin buk-zai%
+吉日 如此 急迫，舅家 事前 不知
+
+%ua zou-bho zek-hiang iu dong-ain lv, buk-mieng poin se loi-mueh sang ge?%
+我 祖母 一向 又 疼愛 汝，不免 辦 些 禮物 送嫁？
+
+%kiong-pan To-hue hui-gau tieng-liang buk-leng hue-lai%
+恐怕 桃花 非到 天亮 不能 回來
+
+%ri a, To-hue bhue-hue, ui-nie do-cv v-lv zak-puan%
+兒啊，桃花 未回，爲娘 在此 與汝 作伴
+
+（六娘）
+
+%mieng-eng, ri ain zen-zo pieng-kek, cian bho-cing hue-bang uan-sui%
+免用，兒 欲 靜坐 片刻，請 母親 回房 安睡
+
+（安人）
+
+%ru-cv, meng-tin gik-ki, ri lv ia gai za-se uan-sui%
+如此，明天 吉期，兒 汝 也 該 早些 安睡
+
+（六娘）
+
+%nvng-ri cong-meng%
+女兒 從命
+
+%ri-gen liou!%
+二更 了！
+
+• %ri-gen gou-sian dong dong%
+二更 鼓聲 咚咚
+
+• %zek-sian-sian kiou-dik lang-sim tong%
+一聲聲 敲得 人心 痛
+
+• %lah-zek u-sim huan sieh-biek, cen-ziou bho-ceng sing lang tong%
+蠟燭 有心 還 惜別，青鳥 無情 信 難 通
+
+• %To-hue oi ain bi oi, nie-gian zing-ceng lv ia zai%
+桃花～ 欲 婢 ～，娘囝 真情 汝 也 知
+
+• %rim gia-im ngak-ho ia gai za sang gui-dong%
+任 佳音 噩耗 也 該 早 送 閨中
+
+%si in ri-gen, To-hue iu-rieng buk-lai%
+時 已 二更，桃花 猶然 不來
+
+%mo-hui guan-ru bho-cing zv ngang...%
+莫非 果如 母親 之 言……
+
+%buk-si, buk-si, To-hue guek bho-ghou ua dai-sv%
+不是，不是，桃花 決 無誤 我 大事
+
+• %mok-buk-si oi bhung-lieng iong nang buk-do% (?)
+莫不是 表兄 他 會 文聯 詠 人 不在
+
+• %zian di ta buk-leng gip-si hue-zueng%
+正 致 他 不能 及時 回轉
+
+• %mok-buk-si bie-hian ing-ueng in leng-dian%
+莫不是 表兄 姻緣 已 另定
+
+• %cing meng lang-ngek hue-tieng bho-lak, ta liu-loh i-hien%
+親 命 難逆 回天 無力，他 流落 異鄉
+
+• %nou ze-li uek-sv uek-sien uek-ziou-gip%
+奴 這裏 越思 越想 越焦急
+
+• %huang-sim bho-zu lui lang-gang%
+芳心 無主 淚 難干
+
+## 第十出 • Scene 10
+
+[01:26:51]
+
+（六娘）
+
+%san-gen, san-gen liou!%
+三更，三更了！
+
+• %bhak-so ga-soh bou-bou ging, gen-gou cui-meng hiang deng-dong%%
+木梭 絞索 步步 緊，更鼓 催命 嚮 叮咚
+
+• %To-hue im-sing in bho-mo, ga Lak-nie ho-so sek-cong?%
+桃花 音訊 已 無望，教 六娘 何所 適從
+
+%To-hue lim-gian, ua zeng zok ta%
+桃花 臨行，我 曾 囑 他
+
+%tang-hok bie-hian ing-ueng leng-dian, ziu ko buk-bik hue-lai%
+倘或 表兄 姻緣 另定，就 可 不必 回來
+
+%cv-si miou-bho im-sing, sien bik dian-hung zv-sv si sik%
+此時 杳無 音訊，想 必 定婚 之事 是 實
+
+• %long-hung mik-bou huang-hou lai, zek-ngai tieng-meng lang do zai%
+濃雲 密布 風雨 來，一捱 天明 難 逃 災
+
+• %dang-cien-tih-biah in bho-lou, cv-ceng cv-geng sik lang-ngai%
+銅牆鐵壁 已 無路，此情 此景 實 難捱
+
+%peng ziang zek-si ciu di-gi%
+拼 將 一死 酬 知己
+
+• %gang-bo cim-cu hung ziang mai%
+江波 深處 魂 長埋
+
+%zoin-rik dou deng dian-iak, tou-di ui bhue%
+前日 渡 亭 定約，土地 爲 媒
+
+%ru-gim iong-biek, hueng-su zek-mo Sai-lou%
+如今 永別，還須 一望 西蘆
+
+%buk-mieng lau-hia rui-zv, dau Iong-gang kv ba!%
+不免 留下 遺書，投 榕江 去 吧！
+
+> 榕江 – name of the river
+
+• %zua bhue diem-bhak soin diem-lui, gia-kui bhue-gau gau si-ki%
+紙 未 沾墨 先 沾淚，佳期 未到 到 死期
+Before the paper is wet with ink, it is wet with tears. Before I reach my wedding day, I reach my day of death.
+
+• %boh-zv riak-zieh mia ru si, dang-huang kiang-bau lang gi-ten%
+薄姿 弱質 命 如 絲，東風 強暴 難 支撐
+Weak and frail, life like a silk thread, it is hard to resist the violent East Wind
+
+• %gau-tang ni-mai sui hong-ti, ngang liem gip-cv buk seng bui%
+高堂 年邁 誰 奉持，言 念 及此 不 勝悲
+Who will support one’s parents in their old age? These words cannot overcome sorrow.
+
+%dia-nie!%
+爹娘！
+Father, mother!
+
+## 第十一出 • Scene 11
+
+[01:30:02]
+
+（乳娘）
+
+%u-sv do-sim ming buk-dik, buk-ru zing-bang kv rv zuang%
+有事 在心 眠 不得，不如 進房 去 女妝
+I cannot sleep with things on my mind; why not go to the lady’s chamber to prepare her makeup?
+
+%ze-si sien bik ia-do ki-sing liou%
+這時 想 必 也在 起身 了
+I suppose she must already be up at this time
+
+%a! gai bang-mung suan-kui do-go%
+啊！個 房門 散開 在塊
+Ah! The door is standing open
+
+%siu-cai-nie oi, lai siu-zuang oi%
+秀才娘 會，來 梳妝 ～
+Missus, it’s time to do your makeup
+
+%siu-cai-nie oi, lai siu-zuang oi%
+秀才娘 會，來 梳妝 ～
+Missus, it’s time to do your makeup
+
+%siu-cai-nie? siu-cai-nie? siu-cai-nie?%
+秀才娘，秀才娘，秀才娘？
+Missus? Missus? Missus?
+
+%bang-dang bho-nang, ze ziu ki liou%
+房中 無人，這 就 奇 了
+No one is in the room, that is strange
+
+%ai dieh, buk-mieng cian cing-ong cing-m cuk-lai mung gai meng-beh%
+哎 着，不免 請 親翁 親姆 出來 問個 明白
+Aye, let’s ask Master and Mistress to figure out what’s going on
+
+%huang mieng rik-gua ghou-liou gian-teng, mo-svng mo-svng%
+方 免 日～ 誤了 行程，孬耍 孬耍
+We don’t want any mixups to ruin the big day; let’s not play around
+
+%cing-ong oi!%
+親翁 ～！
+Master! 
+
+## 第十二出 • Scene 12
+
+（員外）
+
+%huai-liou, huai-liou a!%
+壞了，壞了 啊！
+All is lost, all is lost!
+
+（安人）
+
+%ho-sv?%
+何事？
+What is it?
+
+（員外）
+
+%ze-si nvng-ri zoh-mia-zv a!%
+這是 女兒 絕命書 啊！
+This is our daughter’s suicide note!
+
+（安人）
+
+%ze-si nvng-ri zoh-mia-zv?%
+這是 女兒 絕命書？
+This is our daughter’s suicide note?
+
+（員外）
+
+%zian-si%
+正是
+Yes it is
+
+（乳娘）
+
+%cam-liou a, siu-cai-nie kv si, me-me bo-zai siu-cai a%
+慘了 啊，秀才娘 去 死，猛猛 報知 秀才 啊
+This is terrible, Missus is going to die, I must rush to tell Sir
+
+（僕人）
+
+%bing ueng-ghua ang-ring, nie-gian bho-zong, au-hng-mung dang-kai%
+稟 員外 安人，娘囝 無蹤，後園門 洞開
+Master, Mistress, we have found no trace of Miss, the rear gate to the garden is wide open
+
+（員外）
+
+%au-hng-mung dang-kai? nie-gian bik-si dau hiang gang-bin%
+後園門 洞開？娘囝 必是 投 向 江邊
+The rear garden gate is open? She must be headed towards the river bank
+
+%sok-sok bi-hue dui-cim!%
+速速 備 火 追尋！
+Quick, get torches and pursue her!
+
+（僕人）
+
+%zung-meng!%
+尊命！
+Yes sir!
+
+## 第十三出 • Scene 13
+
+[01:31:51]
+
+（六娘）
+
+• %gip-mang hu dong liu%
+急忙 赴 中 流
+Make haste, to float in the current
+
+%sien ua Lak-nie, gim-sen buk-leng seng deng hue-gie ge gue-hu%
+想 我 六娘，今生 不能 乘 頂 花轎 嫁 過府
+Since I in this life cannot ride the bridal sedan across the threshold
+
+%si-au ngueng toh gang-dong hu Sai-lou%
+死後 願 托 江中 赴 西蘆
+I shall float in death in the river towards Sai-lou
+
+• %gim-sen buk-ui Gueh-ge-hu, zek-mo Sai-lou si bho-iu%
+今生 不爲 郭家婦，一望 西蘆 死 無憂
+In this life I will not be a wife of the Gueh family, with a glance at Sai-lou I shall die without regrets
+
+（員外）
+
+%guai-sv, guai-sv a%
+怪事，怪事 啊
+This is terrible, terrible
+
+
+
+(STOP: 1:33:29 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
 
 TODO: check if Ueng-ghua and Zok-dien are correctly assigned in Scene 7
