@@ -2,59 +2,27 @@
 
 The story of 《陳三 五娘》**%Dang-San Ngou-Nie%** (“%Dang% Three and Fifth Lady”) is one of the best known love stories in the Minnan region, and has been adapted into operas in both the Teochew and Hokkien languages. The earliest known printed version of this play is known as 《荔鏡記》 **%Li-gian gi%**  (“Tale of the Lychee and Mirror”), and dates to the Ming era.
 
-This Teochew version is from a popular 1961 movie, produced by the 珠江電影製片廠 (Pearl River Film Company) of Canton, starring 姚璇秋 as %Ngou-nie%, 蕭南英 as %Iah-cung%, and 黃清城 as %Dang-san%. The film was distributed via Hong Kong, and found an enthusiastic reception among Teochew communities in Southeast Asia and elsewhere. For more information on the film company that produced this film, refer to [this thesis](https://scholarbank.nus.edu.sg/handle/10635/23701) by Yap Soo Ei.
+This Teochew version is from a popular 1961 movie, produced by the 珠江電影製片廠 (Pearl River Film Company) of Canton, starring 姚璇秋 %Ie-sueng-ciu% as %Ngou-nie%, 蕭南英 %Siau-lam-eng% as %Iah-cung%, and 黃清城 %Ng-ceng-sian% as %Dang-san%. The film was distributed via Hong Kong, and found an enthusiastic reception among Teochew communities in Southeast Asia and elsewhere. For more information on the film company that produced this film, refer to [this thesis](https://scholarbank.nus.edu.sg/handle/10635/23701) by Yap Soo Ei.
 
 The script has been transcribed with phonetic spelling ([Dieghv system](https://kahaani.github.io/gatian/appendix1/dieziu.html)). The transcript generally follows the recording, although pronunciations may have been “regularized” with reference to the screenplay. The printed screenplay sometimes diverges from what is actually spoken in the movie; in that case, the character transcription here follows the movie, but the printed version is also given in a comment below. Vernacular characters are used for the most part, except for very common words 人（original character 儂）、你（汝）、看（睇）、夜（暝）, where the borrowed character is almost always pronounced in the Teochew vernacular reading.
 
 Time stamps for each scene are based on [this copy of the movie](https://youtu.be/jkxdZsB5iBo). [Digitized versions of the screenplay](http://lib.nus.edu.sg/sea_chinese/documents/chao ju jiao ben/chao ju jiao ben.htm) have been put online by the National University of Singapore. This phonetic transcription and English translation by [Learn Teochew](https://learn-teochew.github.io). 
 
-# Dramatis Personae
+# 劇中人物 • Dramatis Personae
 
 (in order of appearance)
 
-## 五娘 • %Ngou-Nie%
-
-The treasured fifth daughter of a landlord. Her beauty is well known in Teochew prefecture, and she is also talented in literature and poetry. Until this Lantern Festival she has not been allowed to venture out of the house by her father. Full name 黃碧琚 %Ng Pek-gv%.
-
-## 益春 • %Iah-cung%
-
-The servant girl of Ngou-nie who accompanies her everywhere, a clever person with a close relationship to her mistress.
-
-## 李姐 • %Li-ze%
-
-An older woman in the town who serves as their guide during the Lantern Festival, but who has a weakness for money.
-
-## 陳三 • %Dang-san%
-
-A young scholar from Zuan-ziu visiting Teochew prefecture while accompanying his brother and sister-in-law to the latter’s new post in Gvng-lam. Full name 陳伯卿 Dang Beh-keng.
-
-## 林大 • %Lim-dua%
-
-Son of a rich family, known to be a bully and lecher who likes throwing his weight around.
-
-## 卓二 • %Doh-ri%
-
-Manservant of %Lim-dua%.
-
-## 員外 • %Ueng-ghua%
-
-The father of %Ngou-nie%, a landlord. Full name 黃九郎 %Ng Gau-lang%.
-
-## 安人 • %Ang-ring%
-
-The mother of %Ngou-nie%.
-
-## 小安 • %Siou-ang%
-
-Servant of %Dang-san% who accompanied him on the journey to %Gvng-lam%. Distant relative to Old Master Li 李公, the master mirror grinder whom %Dang-san% apprentices himself to (not seen on stage).
-
-## 小七 • %Siou-cik%
-
-Servant in the Ng household.
-
-## 僕婦 • %Bok-hu%
-
-Maidservant in the Ng household.
+* **五娘 • %Ngou-nie%** • The treasured fifth daughter of a landlord. Her beauty is well known in Teochew prefecture, and she is also talented in literature and poetry. Until this Lantern Festival she has not been allowed to venture out of the house by her father. Full name 黃碧琚 %Ng Pek-gv%.
+* **益春 • %Iah-cung%** • The servant girl of %Ngou-nie% who accompanies her everywhere, a clever person with a close relationship to her mistress.
+* **李姐 • %Li-ze%** • An older woman in the town who serves as their guide during the Lantern Festival, but who has a weakness for money.
+* **陳三 • %Dang-san%** • A young scholar from 泉州 %Zuan-ziu% visiting Teochew prefecture while accompanying his brother and sister-in-law to the latter’s new post in 廣南 %Gvng-lam%. Full name 陳伯卿 %Dang Beh-keng%.
+* **林大 • %Lim-dua%** • Son of a rich family, known to be a bully and lecher who likes throwing his weight around.
+* **卓二 • %Doh-ri%** • Manservant of %Lim-dua%.
+* **員外 • %Ueng-ghua%** • The father of %Ngou-nie%, a landlord. Full name 黃九郎 %Ng Gau-lang%.
+* **安人 • %Ang-ring%** • The mother of %Ngou-nie%.
+* **小安 • %Siou-ang%** • Servant of %Dang-san% who accompanied him on the journey to %Gvng-lam%. Distant relative to Old Master Li 李公, the master mirror grinder whom %Dang-san% apprentices himself to (not seen on stage).
+* **小七 • %Siou-cik%** • Servant in the Ng household.
+* **僕婦 • %Bok-hu%** • Maidservant in the Ng household.
 
 # 第一章 • %Doin-ik-ziang% • Act 1
 
