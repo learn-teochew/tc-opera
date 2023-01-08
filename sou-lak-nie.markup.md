@@ -6,16 +6,16 @@ The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigen
 
 In order of appearance.
 
-* 渡公 • %Dou-gong%
-* 桃花 • %To-hue%
-* 蘇六娘 • %Sou-lak-nie%
-* 郭繼春 • %Gueh-gi-cung%
-* 員外 • %Ueng-ghua%
-* 安人 • %Ang-ring%
-* 族長 • %Zok-dien
-* 楊秀才 • %Ien-siu-cai%
-* 梅香 • %Bhue-hien%
-* 乳娘 • %Ru-nie%
+* **渡公 • %Dou-gong%** • Old boatman who ferries passengers across the river. 
+* **桃花 • %To-hue%** • Maidservant of %Sou-lak-nie%, who helps %Lak-nie% and %Gi-cung% elope.
+* **蘇六娘 • %Sou-lak-nie%** • Young lady of the %Sou% family, the only child of a rich landowner and his wife (but called %lak-nie% 六娘 “Sixth Lady” because she is the sixth-born female of her generation, i.e. among her cousins). She spent a large part of her childhood in the household of her mother’s maiden family, where she was raised and educated alongside her male cousin, %Gueh-gi-cung%.
+* **郭繼春 • %Gueh-gi-cung%** • Young man of the %Gueh% family, educated and refined, cousin of %Lak-nie%; the two were raised and educated together and eventually fell in love.
+* **員外 • %Ueng-ghua%** • Father of %Lak-nie%; he is a rich landowner, but still has to respect the wishes of the %Sou% clan elder (族長 %Zok-dien%).
+* **安人 • %Ang-ring%** • Mother of %Lak-nie%.
+* **族長 • %Zok-dien%** • Elder of the %Sou% clan; he was involved in arranging the match between %Sou-lak-nie% and %Ien-siu-zai%.
+* **楊秀才 • %Ien-siu-zai%** • Young man of the %Ien% family; although he holds the licentiate 秀才 %siu-zai% degree, he is depicted as an oafish, uncultured man.
+* **梅香 • %Bhue-hien%** • One of the maids in the %Sou% household.
+* **乳娘 • %Ru-nie%** • The nursemaid of %Ien-siu-zai%, who now comes to the %Sou% household to help prepare %Sou-lak-nie% for her marriage to him.
 
 ## 第一出 • Scene 1
 
@@ -757,7 +757,7 @@ Ah, I remember, I remember! Cousin Gi-cung!
 
 （桃花）• %To-hue%
 
-%ai! siu-cai ho bho-li, nie-gian ceng-cim ngi-dong%
+%ai! siu-zai ho bho-li, nie-gian ceng-cim ngi-dong%
 唉！秀才 好 無理，娘囝 情深 義重
 
 %To-hue cong-dvng bhue-ciep, ia bho zek-ngang dau-sia%
@@ -869,7 +869,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 
 （叔公）
 
-%ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-cai%
+%ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-zai%
 就是 府衙 內 書爺 之 子 楊子良 秀才
 
 %ta mua-bak bhung-cai, cui-ziem bik-lai, ieng-gvng gai-zai%
@@ -1022,7 +1022,7 @@ Video 1: [31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
 %ziang-lv zong-sing hv-pue Riou-peng Ien sv-ia zv zv,%
 將你 終身 許配 饒平 楊師爺 之子，
 
-%Ien zv-liang siu-cai liou.%
+%Ien zv-liang siu-zai liou.%
 楊子良 秀才 了。
 
 （六娘）
@@ -1522,17 +1522,17 @@ Video 1: [31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
 
 Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 
-（丑）
+（楊秀才）
 
 %a-ni gian-ki!%
 阿妮 行起！
 
-（阿妮）
+（乳娘）
 
 %ho, lai gian%
 好，來行
 
-（丑）
+（楊秀才）
 
 • %Dang-hua-lau zien deng hung-ing%
 東華樓 上 訂 婚姻
@@ -1543,9 +1543,9 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 • %a-ni oi!%
 阿妮 ⿰口會！
 
-（阿妮）
+（乳娘）
 
-• %siu-cai oi!%
+• %siu-zai oi!%
 秀才 ⿰口會！
 
 （丑、阿妮）
@@ -1556,7 +1556,7 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 • %toin ta lai-dang ho-ngueng-ing%
 睇 他 內中 何原因
 
-（丑）
+（楊秀才）
 
 %zv-cong Dang-hua-lau dian-cing, lu-cv kv-sing cui-cu,%
 自從 東華樓 定親，屢次 去信 催娶，
@@ -1570,7 +1570,7 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 %a-ni, kuai-se lai gian-ki%
 阿妮，快些 來 行起
 
-（阿妮）
+（乳娘）
 
 %ho, lai-gian, lai-gian%
 好，來行 來行
@@ -1583,60 +1583,60 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 • %buk-gak lai-gau Die-ziu-sian%
 不覺 來到 潮州城
 
-（丑）
+（楊秀才）
 
 %a-ni, gau Die-ziu-sian%
 阿妮，到 潮州城
 
-（阿妮）
+（乳娘）
 
 %ha, gau-liou Die-ziu-sian liou%
 哈，到了 潮州城 了
 
-%v, siu-cai oi, lv toin ze-gai suan, gie-zo sim-moh suan?%
+%v, siu-zai oi, lv toin ze-gai suan, gie-zo sim-moh suan?%
 噁，秀才 ⿰口會，你 睇 這個 山，叫做 什麼 山？
 
-（丑）
+（楊秀才）
 
 %Hang-suan!%
 韓山！
 
-（阿妮）
+（乳娘）
 
 %suan-ka[?] zek dua-cu, sim-moh cu?%
 山腳 一 大厝，什麼 厝？
 
-（丑）
+（楊秀才）
 
 %Hang-sv!%
 韓祠！
 
-（阿妮）
+（乳娘）
 
 %suan-e hv-diou koi ne?%
 山下 許條 溪 呢？
 
-（丑）
+（楊秀才）
 
 %Hang-gang, Hang-gang%
 韓江，韓江
 
-（阿妮）
+（乳娘）
 
-%a, siu-cai, zo-ni long-zong si Hang?%
+%a, siu-zai, zo-ni long-zong si Hang?%
 啊，秀才，做呢 攏總 是 韓？
 
-（丑）
+（楊秀才）
 
 %a-ni...%
 阿妮……
 
-（阿妮）
+（乳娘）
 
 %oi%
 ⿰口會
 
-（丑）
+（楊秀才）
 
 • %Hang-bhung-gong pue ping-gau Ziou-iang, cong-cv Die-ziu cuk hau-hieng%
 韓文公 被 貶到 朝陽，從此 潮州 出 豪賢
@@ -1647,37 +1647,37 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 %sek-bhue?%
 識未？
 
-（阿妮）
+（乳娘）
 
-%siu-cai, lv v lau-ia si-buk-si Hang-bhung-gong di mung-seng?%
+%siu-zai, lv v lau-ia si-buk-si Hang-bhung-gong di mung-seng?%
 秀才，你 與 老爺 是不是 韓文公 的 門生？
 
-（丑）
+（楊秀才）
 
 %buk-si, ta si Tang-ziou nang, li mak-zoin gui-beh-ni liou%
 不是，他 是 唐朝 人，離 目前 幾百年 了
 
-（阿妮）
+（乳娘）
 
 %o, buk-rieng a si tak-gue ta-di zv%
 哦，不然 啊 是 讀過 他的 書
 
-（丑）
+（楊秀才）
 
 %ha ha ha! tak-gue, tak-gue. a-ni, lv ui-ho mung-ki ze-sv ni?%
 哈哈哈！讀過，讀過。阿妮，你 爲何 問起 這事 呢？
 
-（阿妮）
+（乳娘）
 
 %ua si toin lv v lau-ia di bung-nia hua Hang-bhung-gong zek-ien e%
 我 是 睇 你 與 老爺 的 本領 和 韓文公 一樣 啞
 
-（丑）
+（楊秀才）
 
 %ho, lv cong-ho gin-dik?%
 呵，你 從何 見得？
 
-（阿妮）
+（乳娘）
 
 %Hang-bhung-gong lai Die-ziu zo-guan%
 韓文公 來 潮州 做官
@@ -1691,12 +1691,12 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 %ka buk-si bung-nia v ta zek-ien?%
 豈 不是 本領 與 他 一樣？
 
-（丑）
+（楊秀才）
 
 %hiun-iou luang-gang! gian gian gian!%
 休要亂講！行行行！
 
-（阿妮）
+（乳娘）
 
 %a, o-lo dieh suah sen-ki%
 啊，～～ 着 ～ 生氣
@@ -1704,7 +1704,7 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 > o-lo – “to praise”
 > suah – “then, however”
 
-（丑）
+（楊秀才）
 
 • %Hang-gang gung-gung dang-lam liu, Hang-siang-zv hieng-sian ba gie siu%
 韓江 滾滾 東南 流，韓湘子 顯聖 把 橋 修
@@ -1712,12 +1712,12 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 • %zap-boih (?) , no-ziah sen-ghu zek-ziah liu%
 十八［梭船廿四州］，兩隻 X牛 一隻 溜
 
-（阿妮）
+（乳娘）
 
 %ai-oi, bho-gue nang dan, nang dan ze dua di-hng zing-si ho huang-geng%
 哎⿰口會，無過 人呾，人呾 這 大 地方 真是 好 風景
 
-（丑）
+（楊秀才）
 
 %a-ni oi, ua li to-cing sim-gip, lv li gu-dieh toin huang-geng%
 阿妮 ⿰口會，我 哩 討親 心急，你 哩 顧着 睇 風景
@@ -1725,12 +1725,12 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 %hueng-si zek-ming gian zek-ming toin, mai dam-ghou si-gang%
 還是 一面 行 一面 睇，勿 耽誤 時間
 
-（阿妮）
+（乳娘）
 
 %ho, zek-ming lai gian, zek-ming lai toin%
 好，一面 來 行，一面 來 睇
 
-（丑）
+（楊秀才）
 
 %gian gian gian%
 行行行
@@ -1739,7 +1739,7 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 
 Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 
-（阿妮）
+（乳娘）
 
 %a! v! a! ze-se dong-si ain-sueh si mung, li bho cu!%
 啊！噁！啊！這些 東西 欲說 是 門，哩 無 厝！
@@ -1747,37 +1747,37 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 %ain-sueh si hou-deng, li bho zia-hou!%
 欲說 是 雨亭，哩 無 遮雨！
 
-（丑）
+（楊秀才）
 
 %iu-lai, iu-lai! ze-si deng, ze-si deng!%
 又來 又來！這是 亭，這是 亭！
 
-（阿妮）
+（乳娘）
 
 %deng?%
 亭？
 
-（丑）
+（楊秀才）
 
 %si zak-hu-deng%
 是 節婦亭
 
-（阿妮）
+（乳娘）
 
 %zak-hu-deng%
 節婦亭
 
-（丑）
+（楊秀才）
 
 %hu si buk-ge ceng zak-hu, guan-hu ui-ta lip bai-huang%
 夫 死 不嫁 稱 節婦，官府 爲他 立 牌坊
 
-（阿妮）
+（乳娘）
 
 %lip bai-huang%
 立 牌坊
 
-（丑）
+（楊秀才）
 
 %a-ni, na lv si ua-gai ru-nie, siu-zak buan-seng%
 阿妮，那 你 是 我個 乳孃，守節 半生
@@ -1785,44 +1785,44 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 %tai-ua ziang-lai zo dua-guan ne, zv-rieng v-lv gieng gai zak-hu-deng%
 待我 將來 做 大官 呢，自然 與你 建 個 節婦亭
 
-（阿妮）
+（乳娘）
 
 %ai-ia ho-no ho-no%
 哎呀 好𰇇 好𰇇
 
-（丑）
+（楊秀才）
 
 %gian!%
 行
 
-（阿妮）
+（乳娘）
 
 %v...%
 噁……
 
-（丑）
+（楊秀才）
 
 %a-ni, lv ui-ho ti-kau?%
 阿妮，你 爲何 啼哭？
 
-（阿妮）
+（乳娘）
 
 %ua dou bhoi-kau, lv dan kv-mung a-dia ziu zai%
 我 都 𠁞哭，你 旦 去問 阿爹 就知
 
 > The nurse is implying that she is not a virtuous widow because his father has had his way with her.
 
-（丑）
+（楊秀才）
 
 %mung ung a-ba? gian gian gian gian gian%
 問 阮 阿爸？行行行行行
 
-（阿妮）
+（乳娘）
 
-%siu-cai oi, tai-ua zek-e...%
+%siu-zai oi, tai-ua zek-e...%
 秀才 ⿰口會，待我 一下……
 
-（丑）
+（楊秀才）
 
 • %ain ziah ho-he bhe (?), ain cu giou-ci Sou-lak-nie%
 欲食 好蝦 ［馬鮫鱌］，欲娶 嬌妻 蘇六娘
@@ -1830,9 +1830,9 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 • %sim-dang huan-hi buk-gak ieng, buan-suan gue-nia zien Gik-ien!%
 心中 歡喜 不覺 遠，盤山 過嶺 上 揭陽！
 
-（阿妮）
+（乳娘）
 
-%siu-cai oi, mai na (?) me a, tai-ua zek-e a!%
+%siu-zai oi, mai na (?) me a, tai-ua zek-e a!%
 秀才 ⿰口會，勿 那 X 猛 啊，待我 一下 啊！
 
 ## 第七出 • Scene 7
@@ -1900,7 +1900,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %rui-hu mung-sian ua u-zeh, gueng-ga cai-nvng2 gui cai-nvng5%
 維護 門聲 我 有責，管教 才女 歸 才郎
 
-（丑）
+（楊秀才）
 
 %Sai-tin-huk buk-ru Tou-di-beh, cueng-ziang zok-dien zo zu-ziang%
 西天佛 不如 土地伯，全仗 族長 做 主張
@@ -1912,15 +1912,15 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 （員外）
 
-%zek-gong, siu-cai%
+%zek-gong, siu-zai%
 叔公，秀才
 
 （族長）
 
-%siu-cai, ngak-be lv gin-gue, ze-ui ziu-si lv ngak-bho%
+%siu-zai, ngak-be lv gin-gue, ze-ui ziu-si lv ngak-bho%
 秀才，岳父 你 見過，這位 就是 你 岳母
 
-（丑）
+（楊秀才）
 
 %ho, ho! ngak-be ngak-bho do-zien, sie-sai u-li%
 好好！岳父 岳母 在上，小婿 有禮
@@ -1930,7 +1930,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %mieng-li, cian-zo cian-zo%
 免禮，請坐 請坐
 
-（丑）
+（楊秀才）
 
 %zo zo zo zo%
 坐坐坐坐
@@ -1942,12 +1942,12 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 （員外）
 
-%siu-cai, cing-lim hang-sia u-ho gui-gang?%
+%siu-zai, cing-lim hang-sia u-ho gui-gang?%
 秀才，親臨 寒舍 有何 貴幹？
 
-（丑）
+（楊秀才）
 
-%kai-kau siu-cai, bi-kau siu-cai, mung ua u-ho gui-gang%
+%kai-kau siu-zai, bi-kau siu-zai, mung ua u-ho gui-gang%
 開口 秀才，閉口 秀才，問我 有何 貴幹
 
 %kvk-lai ge-ci zak-ngai, hng!%
@@ -1975,7 +1975,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %lv zong-si sueh hau zeh gik-rik%
 你 總是 說 候擇 吉日
 
-%ru-gim siu-cai si deng-mung lai cu-cing di%
+%ru-gim siu-zai si deng-mung lai cu-cing di%
 如今 秀才 是 登門 來 娶親 的
 
 （員外）
@@ -1988,10 +1988,10 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 （安人）
 
-%si-a, kuang-cia zuang-liem bhue-bi, siu-cai ui-ho ru-cv gip-ciek?%
+%si-a, kuang-cia zuang-liem bhue-bi, siu-zai ui-ho ru-cv gip-ciek?%
 是啊，況且 妝簾 未備，秀才 爲何 如此 急切？
 
-（丑）
+（楊秀才）
 
 %ai, leng-ain ni in gip-gi, kueng dian-hung in gu%
 哎，令愛 年 已 及笄，況 定婚 已 久
@@ -2019,7 +2019,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %ziu-lai san-tui-si-bek, dian sim-moh ien-zv?%
 就來 三推四逼，定 什麼 樣子？
 
-（丑）
+（楊秀才）
 
 %a! ngak-bho, to-cing ia-si nang-cing zv sien, za ho-sueh si tui-bek?%
 啊！岳母，討親 也是 人親 之常，怎 好說 是 推逼？
@@ -2045,7 +2045,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %leng-cim sok-nvng%
 另尋 淑女
 
-（丑）
+（楊秀才）
 
 %ai-za! ko-nau, ko-nau!%
 哎咋！可惱，可惱！
@@ -2064,7 +2064,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 （員外）
 
-%ho ho, siu-cai, hu-ring-ge buk-hiou si-bhu, siu-cai mo guai%
+%ho ho, siu-zai, hu-ring-ge buk-hiou si-bhu, siu-zai mo guai%
 好好，秀才，婦人家 不曉 世務，秀才 孬怪
 
 %Sou-si kiang-zong seng-zok, na-u hv-hung to-hung zv-li v?%
@@ -2072,10 +2072,10 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 （族長）
 
-%zek-gong, siu-cai%
+%zek-gong, siu-zai%
 叔公，秀才
 
-（丑）
+（楊秀才）
 
 %zing-zing ka-u-cv-li%
 真真 豈有此理
@@ -2104,7 +2104,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 • %ba hung-ki ieng-mang tai lai-ni%
 把 婚期 延慢 待 來年
 
-（丑）
+（楊秀才）
 
 %ha, sien ning ze-ien siek-zing gui-goi, ia-si uang-hui sim-gi%
 哈，像 恁 這樣 設盡 詭計，也是 枉費 心機
@@ -2123,7 +2123,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %gim-tin dvng-zien gin gou-ia, ho-sv zeng-gong zien guan-tian%
 今天 堂上 見 姑爺，好似 諍公 上 官廳
 
-（丑）
+（楊秀才）
 
 %han? lv ze ia-tau, zv-ngang-zv-ghv sueh-se sim-moh ne?%
 哈？你 這 丫頭，自言自語 說些 什麼 呢？
@@ -2133,7 +2133,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %ua sueh gou-ia lv%
 我 說 姑爺 你
 
-（丑）
+（楊秀才）
 
 %gou-ia zo-ni?%
 姑爺 做呢？
@@ -2151,7 +2151,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %a ze ze ze... %
 啊 這這這……
 
-（丑）
+（楊秀才）
 
 %zu-ring tai keh, bi-nvng gan lai do-ngang? zing-zing cueng-bho loi-ngi%
 主人 待客，婢女 敢來 多言？真真 全無 禮儀
@@ -2170,7 +2170,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 • %nap cing dvng-zoin su-zip pian-li, za-ko sian-sian gu-gu da guan-si?%
 納親 當前 須 執 聘禮，怎可 聲聲句句 打 官司？
 
-（丑）
+（楊秀才）
 
 %toin ning ze-ien so-ui, lai-dang dian u ceng-mik%
 睇 恁 這樣 所爲，內中 定 有 情密
@@ -2180,7 +2180,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %cian-mung u ho ceng-mik?%
 請問 有 何 情密？
 
-（丑）
+（楊秀才）
 
 • %mok-hui si zek-nvng v no-sai, mok-hui si ua-ci v-nang u sai-ceng?%
 莫非 是 一女 與 二婿，莫非 是 我妻 與人 有 私情？
@@ -2193,7 +2193,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %tang-riak nie-gian bhung-zai, za-keng v-lv gang-hiun? v-lv gang-hiun?%
 倘若 娘囝 聞知，怎肯 與你 干休？與你 干休？
 
-（丑）
+（楊秀才）
 
 %zu-kau zu-kau! lv ze hia-zuan ia-tau!%
 住口 住口！你 這 下賤 丫頭！
@@ -2220,7 +2220,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %in-au liang-ge cai-ho zo-cing, huan-mo gou-ia san-sv su-zue a, su-zue!%
 以後 兩家 才好 做親，還望 姑爺 三思 恕罪 啊，恕罪！
 
-（丑）
+（楊秀才）
 
 %ko-nau a!%
 可惱 啊！
@@ -2245,7 +2245,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %zok-dien gong gie lv hia-kv, lv zu hia-kv%
 族長 公 叫你 下去，你 住 下去
 
-（丑）
+（楊秀才）
 
 %ko-nau, ko-nau a!%
 可惱，可惱 啊！
@@ -2258,7 +2258,7 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 %siu-zai, lv ko ziem hue ua-ge, ze-sv hau ua v si-hian mang-mang siang-ngi%
 秀才，你可 暫 回 我家，這事 候 我 與 四兄 慢慢 商議
 
-（丑）
+（楊秀才）
 
 %ho, iu ta kv pah-svng%
 好，由他 去 拍算
@@ -2426,7 +2426,7 @@ pei! <!--Not a standard Teochew syllable-->
 
 （族長）
 
-%tian ua ziu ho, ua ziek tong-zai Ien-siu-cai%
+%tian ua ziu ho, ua ziek tong-zai Ien-siu-zai%
 聽 我 就 好，我 即 通知 楊秀才
 
 %au-tin bieng-lai ngieng-cu%
@@ -2537,7 +2537,7 @@ pei! <!--Not a standard Teochew syllable-->
 
 （乳娘）
 
-%siu-cai nie%
+%siu-zai nie%
 秀才娘
 
 （六娘）
@@ -2558,13 +2558,13 @@ pei! <!--Not a standard Teochew syllable-->
 %na zo no%
 ～ 坐 𰇇
 
-%siu-cai-nie oi, lv ia-oi tak-zv a?%
+%siu-zai-nie oi, lv ia-oi tak-zv a?%
 秀才娘 ～，你 也會 讀書 啊？
 
 %hai-oi, ning zia tak-zv nang, zing-si tin-deng u cen, u hok-ki a!%
 ～～，恁 者 讀書人，真是 天頂 有 星，有 福氣 啊！
 
-%a siu-cai ia-si tak-zv-nang%
+%a siu-zai ia-si tak-zv-nang%
 阿 秀才 也是 讀書人
 
 %nang nang-ge lai cian-ta sia zvng pa guan-si%
@@ -2578,10 +2578,10 @@ pei! <!--Not a standard Teochew syllable-->
 
 > The nursemaid describes how her master uses his literacy in a vulgar way to make profit, which disgusts the high-minded Lak-nie
 
-%siu-cai-nie oi, lv sen-lai iu-ngia iu-ghau%
+%siu-zai-nie oi, lv sen-lai iu-ngia iu-ghau%
 秀才娘 ～，你 生來 又雅 又𠢕
 
-%lai pue-bung ua siu-cai, zing-si zek-dui ho ueng-ien a!%
+%lai pue-bung ua siu-zai, zing-si zek-dui ho ueng-ien a!%
 來 配分 我 秀才，真是 一對 好鴛鴦 啊！
 
 （六娘）
@@ -2602,7 +2602,7 @@ pei! <!--Not a standard Teochew syllable-->
 %e... bhue bhue bhue bhue bhue%
 ～…… 未未未未未
 
-%siu-cai-nie oi, siu-lieng li-do iu-si, cah-hue li-do bhau-si%
+%siu-zai-nie oi, siu-lieng li-do iu-si, cah-hue li-do bhau-si%
 秀才娘～，修臉 哩在 酉時，插花 哩在   卯時
 
 > 酉時 – evening hours around dusk
@@ -2856,15 +2856,15 @@ I suppose she must already be up at this time
 啊！個 房門 散開 在塊
 Ah! The door is standing open
 
-%siu-cai-nie oi, lai siu-zuang oi%
+%siu-zai-nie oi, lai siu-zuang oi%
 秀才娘 會，來 梳妝 ～
 Missus, it’s time to do your makeup
 
-%siu-cai-nie oi, lai siu-zuang oi%
+%siu-zai-nie oi, lai siu-zuang oi%
 秀才娘 會，來 梳妝 ～
 Missus, it’s time to do your makeup
 
-%siu-cai-nie? siu-cai-nie? siu-cai-nie?%
+%siu-zai-nie? siu-zai-nie? siu-zai-nie?%
 秀才娘，秀才娘，秀才娘？
 Missus? Missus? Missus?
 
@@ -2918,7 +2918,7 @@ Yes it is
 
 （乳娘）
 
-%cam-liou a, siu-cai-nie kv si, me-me bo-zai siu-cai a%
+%cam-liou a, siu-zai-nie kv si, me-me bo-zai siu-zai a%
 慘了 啊，秀才娘 去 死，猛猛 報知 秀才 啊
 This is terrible, Missus is going to die, I must rush to tell Sir
 
@@ -2972,8 +2972,442 @@ In this life I will not be a wife of the Gueh family, with a glance at Sai-lou I
 怪事，怪事 啊
 This is terrible, terrible
 
+• %(?) sik-zong, gian u kiou-ki%
+［有加一夜？］失蹤， 驚 有 蹺蹊
 
+• %gie-sian siu-zai mai dam-goh, sok-sok dui-cim gau gang-bin%
+叫聲 秀才 勿 耽閣，速速 追尋 到 江邊
 
-(STOP: 1:33:29 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
+（桃花）
+
+%be a, kuai-se a!%
+伯啊，快些 啊！
+Uncle, hurry!
+
+（渡公）
+
+%ho, ua lai, ning kia-ho%
+好，我來，恁 企好
+Right, leave it to me, hold on tight
+
+（六娘）
+
+• %sien na-rik...%
+想 那日……
+
+• %sien na-rik, dou-deng sieh-biek i-i, liang-ceng meh-meh hah sv liu-si%
+想 那日，渡亭 惜別 依依，兩情 脉脉 合 似 柳絲
+
+• %coin-ngang bhueng-ghv...%
+千言萬語……
+
+• %coin-ngang bhueng-ghv zok-hu zek-gu-gu do sim-tau gvng-gi%
+千言萬語 囑咐 一句句 在 心頭 謹記
+
+• %ai, bie-hian oi, ua v lv buk-zak bi ek ziou%
+唉，表兄 ～，我 與 汝 不作 比 翼 鳥
+
+• %lai-si ngueng-ui lieng-li-gi%
+來世 願爲 連理枝
+In the next life, I hope that we will grow as interlocking branches
+
+> 連理 – idiom, metaphor for a loving married couple
+
+%dia-nie, sang-cing... dia-nie, ba!%
+爹娘，雙親…… 爹娘，罷！
+Father, mother, my parents... father, mother, bah!
+
+（桃花）
+
+%nie-gian!%
+娘囝！
+Miss!
+
+（繼春）
+
+%mue-mue!%
+妹妹！
+Sister!
+
+（六娘）
+
+%mue-mue? a? bie-hian!%
+妹妹？啊？表兄！
+Sister? Who? Cousin!
+
+• %mo-hui ua-sing do mang li, liou-gau gim-sen lang siang-gin%
+莫非 我身 在 夢 里，料到 今生 難 相見
+
+• %sien-si zui-sing siang lieng-mieng, kieng ua hung-pek lai-gau hian lv sing-bin%
+想是 水神 相 憐憫，遣 我 魂魄 來到 兄 汝 身邊
+
+（繼春）
+
+%mue-mue, si ui-hian do-cv%
+妹妹，是 爲兄 在此
+
+（六娘）
+
+%ak-mang cen iu bui, hian ho To-hue ui-ho cv-kek cai gau-ze?%
+惡夢 醒 又 悲，兄 和 桃花 爲何 此刻 才 到這？
+
+• %hai-dik ua dvng-guan cung-cung lih%
+害得 我 腸肝 寸寸 裂
+
+（繼春）
+
+• %biek-au sv gung zek-ben cim, ain zieng ueng-meng hui dim-ngim%
+別後 思 君 一病 深，欲 踐 鴛盟 費 沉吟
+
+• %huk-tueng hiong-sing gian ain zoh, cim-sv zong hu biou cung sim%
+忽傳 凶訊 驚 欲 絕，尋思 踵 府 表 寸 心
+
+• %mok nai-ho, ge-ga siem-ngiem gian buk-dik%
+莫 奈何，家教 森嚴 行 不得
+What was to be done? The family rules are stringent, and I could not leave
+
+• %ing-cv siang lieng-me sv-pung gau lai-ling%
+因此 上 連夜 私奔 到 來臨
+Hence I fled secretly through the night to come here
+
+（桃花）
+
+• %nie-gian ing-ho ia gau-cv?%
+娘囝 因何 也 到此？
+Why has Miss also come here?
+
+（六娘）
+
+• %zi ing-ui...%
+只 因爲……
+It is only because...
+
+• %To-hue zek-kv bho siou-sek, siou-zing gen-tiu dueng-zing ziang%
+桃花 一去 無 消息，數盡 更籌 斷盡 脹
+%To-hue% left for so long without any news, my mind churned through and could only conclude the worst,
+
+• %sien bik-si hian lv ing-ueng in leng-dian%
+想 必是 兄 汝 姻緣 已 另定
+I thought you must have been engaged to be married to another,
+
+• %rim-lieng ui-mue do kou-hai dieng-lieng%
+忍念 爲妹 在 苦海 顛連
+Leaving your sister to drift alone on the sea of bitterness.
+
+• %buk-gam ge-zoh Ien-ge-hu, ing-cv siang lau rui-zv li gui-goh%
+不甘 嫁作 楊家婦，因此 上 留 遺書 離 閨閣
+Not content to be a wife of the %Ien% family, I hence left a note and escaped my chamber,
+
+• %peng ziang zek-si dau Iong-gang%
+拼將 一死 投 榕江
+Planning to drown myself in the Iong River.
+
+（桃花）
+
+%ai-ia, riak-hui cv-si siang-ngo, ka buk-ghou liou dai-sv!%
+哎呀，若非 此時 相遇，豈 不誤 了大事！
+Ah! If we had not met just now, there would have been a great tragedy!
+
+（繼春）
+
+%mue-mue, lv ho-bik ru-cv king-sen%
+妹妹，汝 何必 如此 輕生
+Sister, why do you treat your life so lightly?
+
+%ui-hian ka-si buk-siu sing-ngi zv nang?%
+爲兄 豈是 不守 信義 之 人？
+Is your brother such an unfaithful person?
+
+（六娘）
+
+%bie-hian, ui-mue beng buk-guai lv, zi-si ru-gim sui dik siang-hong%
+表兄，爲妹 並 不怪 汝，只是 如今 雖 得 相逢
+Brother, your sister doesn’t blame you, it is just that, even though we have now run into each other,
+
+%ain uang ho-cu?%
+欲 往 何處？
+Where are we to go next?
+
+（繼春）
+
+%ze...%
+這……
+This...
+
+（桃花）
+
+%bing siou-ia, dou-zung zing beh, sen-sen hau-suang%
+稟 少爺，渡船 進 伯，生性 豪爽
+Young Master, the old boatman is a straightforward man.
+
+%tai-ua ing-ning gau ta zung-zien, kiu-ta dua ning gau ta-ge ziem-zu%
+待我 引恁 到 他 船上， 求他 帶 恁 到 他家 暫住
+Let me bring you to his boat, and ask him to let you stay for the while at his home.
+
+%bi-gue hong-tau, zai-zak goi-ga%
+避過 風頭，再作 計較
+Once things blow over, we can make new plans.
+
+（繼春）
+
+%sv-gip liou, zi-ho ru-cv, To-hue, lv ziu v ta siang-liang ba%
+事急 了，只好 如此，桃花，汝 就 與 他 商量 吧
+Time is pressing, we have no choice. To-hue, go and negotiate with him.
+
+（桃花）
+
+%si%
+是
+Yes.
+
+%beh a, beh a%
+伯 啊，伯 啊
+Uncle, Uncle!
+
+（渡公）
+
+%ho dau-si ho, zek-lai huang-sian siep-lou, gie-ua ru-ho dan-dik-ki gang-hi?%
+好 倒是 好，一來 風聲 泄露，叫我 如何 擔得起 干係？
+Fine is fine, but once the word gets out, will I be responsible for everything?
+
+%ri-lai, rik-au ru-ho cuk-cu a?%
+二來，日後 如何 出處 啊？
+Secondly, how will they emerge from hiding the next day?
+
+（桃花）
+
+%a-beh mieng gian-ghi, sien cv-kek gen-lang me-zen, sui-nang zai-gi?%
+阿伯 免 驚疑，想 此刻 更闌 夜靜，誰人 知機？
+Uncle don’t be afraid, if we go in the dead of night, who will know?
+
+%ru-gim kue-ki do-ziek, gie-ta sang-sang zien-gian hu-ci%
+如今 科期 在即，叫他 雙雙 上京 赴試
+The examination season is close; have him go to the capital to sit the exam.
+
+%tang-riak dik-deng gau-di, ho-pa Ien-ge kueng-si?%
+倘若 得定 高第，何怕 楊家 權勢？
+If he scores his degree, there will be nothing to fear from the Gueh family.
+
+%ziu-zoh loh-doin hue-lai, cen-bhi in-geng sek-bung%
+就作 落第 回來，到 那時，生米 已經 熟飯
+Even if he fails and comes back, by that time, the uncooked rice will be cooked,
+
+%kuang-ziang lou-tau kiou-ki du-dieh tin, zi-ain ueng-ghua gan cuk-zin%
+況將 路頭 翹起 堵着 天，只欲 員外 敢 出錢
+
+%zok-dien gai cui ziu hah-mi, gau na-si, ho-zen-hou-hiah, cueng-gai bho-gin%
+族長 個 嘴 就 合咪，到 那時，河靜雨歇，全個 無見
+
+（渡公）
+
+%ha-ha-ha-ha, lv zi-gai sim-sv tang a, ho, me-me gie-i loh-lai%
+哈哈哈哈，汝 只個 心事 桶 啊，好，猛猛 叫伊 落來
+Ha ha! You wily creature, fine, call them down.
+
+（桃花）
+
+%ua zai%
+我知
+I know
+
+%siou-ia nie-gian, kuai-kv hia-zung%
+少爺 娘囝，快去 下船
+Young Master, Miss, quick, go to the boat.
+
+（繼春、六娘）
+
+%gam-sia beh-beh giu-mia dai-ng!%
+感謝 伯伯 救命 大恩！
+Deep thanks, Uncle, for mercifully saving our lives!
+
+（渡公）
+
+%mieng-eng, mieng-eng%
+免用，免用
+There’s no need
+
+（桃花）
+
+%beh a, kuai-kuai kui-zung a%
+伯 啊，快快 開船 啊
+Uncle, quickly start rowing!
+
+（渡公）
+
+%ho, kui-zung liou%
+好，開船 了
+Setting off now!
+
+（桃花）
+
+%beh-beh, mang-kui, mang-kui a!%
+伯伯 慢開，慢開 啊！
+Wait, Uncle, don’t set off yet!
+
+（渡公）
+
+%e? lv ain dang-kv a m-si?%
+啞？汝 欲 同去 啊 唔是？
+Huh? Do you want to come along too?
+
+（桃花）
+
+%m-si ah. nie-gian gi-si lau-hia zoh-mia-zv, ziu-ain ge dik-siou%
+唔是 啊。娘囝 既是 留下 絕命書，就欲 假 得肖
+No I don’t. Since Miss left behind a suicide note, we should make it seem like she has drowned.
+
+%nie-gian, lv ko tuk-kv siu-oi, tai-ua bai do gang-bin%
+娘囝，你 可 脫去 繡鞋，待我 擺 在 江邊
+Miss, could you take off one of your shoes, and let me place it on the river bank.
+
+（渡公）
+
+%ho! zek-tau geng-gue zek-tau a!%
+好！一套 經過 一套 啊！
+Fantastic! Each plan is better then last!
+
+（六娘）
+
+%To-hue, sv-ceng ru-ho, su dieh-lai bo a%
+桃花，事情 如何，須 着來 報 啊
+To-hue, you have to come and tell us what happens
+
+（桃花）
+
+%ze-gai zv-rieng, kuai-kuai kui-zung%
+這個 自然，快快 開船
+Of course, now quick, go!
+
+（渡公）
+
+%kui o!%
+開 哦！
+Let’s go!
+
+（員外）
+
+%To-hue%
+桃花
+To-hue
+
+（桃花）
+
+%ueng-ghua ang-ring%
+員外 安人
+Master, Madam
+
+（員外）
+
+%To-hue, lv ui-ho ze-si cai hue-lai? ka-u toin-gin nie-gian?%
+桃花，汝 爲何 這時 才 回來？豈有 睇見 娘囝？
+To-hue, why are you only back now? Did you see Miss?
+
+（桃花）
+
+%bho a, ua si seng-me guan hue-lai sang nie-gian cuk-goh di%
+無啊，我 是 乘夜 趕 回來 送 娘囝 出閣 的
+No, I rushed through the night to come back to see Miss off for her betrothal.
+
+%ru-gim ui-ho hueng mung-ki nie-gian ne?
+如今 爲何 反 問起 娘囝 呢？
+Why do you now ask me about Miss?
+
+（員外）
+
+%nie-gian lau-hia zoh-mia-zv, tau-kui au-hng-mung cuk-lai dau gang zv-zing a%
+娘囝 留下 絕命書，偷開 後園門 出來 投 江 自盡 啊
+Miss left behind a suicide note; she stole out of the rear gate to drown herself in the river
+
+（桃花）
+
+%za-sueh? guan-u cv-sv?%
+怎說？果有 此事？
+What? Could such a thing happen?
+
+（安人）
+
+%zian-si, lv zek-lou rv-lai, ka-u gin ta?%
+正是，汝 一路 而來，豈有 見 他？
+Indeed, you were on the road coming here, did you see her?
+
+（桃花）
+
+%dian-rieng si-liou... ai, nie-gian!%
+定然 死了…… 唉，娘囝！
+She is dead for sure... Ah, Miss!
+
+（員外、安人）
+
+%Nou a...%
+孥 啊……
+My child...
+
+（族長）
+
+%lau-si a%
+老四 啊
+Fourth Brother
+
+（員外）
+
+%zek-gong, ua do-ze%
+叔公，我 在這
+Uncle, I am here
+
+（族長）
+
+%lau-si, sv-ceng za-ien?%
+老四，事情 怎樣？
+Fourth Brother, how is the situation?
+
+（員外）
+
+%zek-gong siu-zai, sie-nvng mi-sik bho-zong, zi-u lau-hia zoh-mia-zv%
+叔公 秀才，小女 迷失 無蹤，只有 留下 絕命書
+Uncle, Siu-zai, our daughter is lost without a trace, she only left behind a suicide note
+
+（楊秀才）
+
+%han? zoh-mia-zv? zoh-mia-zv do na-li? na-lai toin!%
+～？絕命書？絕命書 在 那裏？拿來 睇
+What? A suicide note? Where is it? Let us see it
+
+%kuai-se na cuk-lai, me leh!%
+快些 拿 出來，猛～！
+Bring it out; quick!
+
+[Reciting]
+
+• %ciep-nvng boh-zv riak-zi, mia boh ru si%
+「妾女 薄姿 弱質，命 薄 如絲
+
+• %dang-huang kuang-bau, lang in zv-ti%
+東風 狂暴，難 以 自持
+
+• %mung-sen zui-boh, gau-dvng sui-ti?%
+門生 水泊，高堂 誰持
+
+• %ngang liem gip-cv, bui buk zv-i%
+言 念 及此，悲 不 自已
+
+• %hng-bi kiang-tu, si-kueng i-si%
+［遠避］ 強徒，施權 倚勢
+
+• %bek ua riak-nvng, ue-bi hv-bik%
+迫 我 弱女，慰被 漁筆
+
+• %gung ru u-leng, bik ziang teng zv%
+君 如 有靈，必 將 懲 之
+
+• %boh-mia-nvng Lak-nie zoh-bik%
+薄命女 六娘 絕筆」
+The ill-fated girl Lak-nie puts own her pen.
+
+[Ends recitation]
+
+%zv-dang sueh ua bek-si ta-sing
+書中 說 我 逼死 他身
+
+(STOP: 1:44:21 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
 
 TODO: check if Ueng-ghua and Zok-dien are correctly assigned in Scene 7
