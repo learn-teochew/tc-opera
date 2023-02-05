@@ -88,6 +88,9 @@ from 1566 (below, left) and 1581 (below, right).
      (in color and higher resolution than the printed reproduction, source of
      the image above).
    * [Transcription by Learn Teochew](https://github.com/learn-teochew/li-gi-gi-1581)
+
+![First page of reprint of the 1883 edition of Li-gi-gi](li-gi-gi-1884.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto;"}
+
  * Other editions not available online (if you are aware of a publicly
    available digitized version, please get in touch!)
    * 《新𢳣潮調陳三泉南錦曲加調全集》 (ca. 1600), National Library of Scotland,
@@ -95,7 +98,10 @@ from 1566 (below, left) and 1581 (below, right).
      Yibo](https://hdl.handle.net/1842/36643))
    * 《新刊時興泉潮雅調陳伯卿荔枝記大全》 (1651), private collection
    * 《陳伯卿新調綉像荔枝記全本》 (1831), private collection
-   * 《陳伯卿新調繡像荔枝記真本》 (1884), private collection, partially reprinted (chapters after 安童尋主 are missing from original) in 《俗文學叢刊》第113冊 465-553頁 (民國91年, Taipei: Institute of History and Philology).
+   * 《陳伯卿新調繡像荔枝記真本》 (1884), private collection, partially
+     reprinted (chapters after 安童尋主 are missing from original) in
+     《俗文學叢刊》第113冊 465-553頁 (民國91年, Taipei: Institute of History
+     and Philology) (above).
 
 
 ### 《蘇六娘》 • Sou Lag-niê • Sixth Lady Sou
