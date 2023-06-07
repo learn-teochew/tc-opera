@@ -38,3 +38,24 @@ channels with Teochew opera content:
  * [HYLAM](https://www.youtube.com/user/MrAlexHY)
  * [LingGoh](https://www.youtube.com/c/LingGoh)
  * [Nam Hwa Opera](https://www.youtube.com/c/NamHwaOpera)
+
+## Further reading
+
+General works on Teochew opera
+
+ * 沈湘渠，《潮剧史话》，社会科学文献出版社，2016年，ISBN 9787509782125
+ * 潮剧志编辑委员会，《潮剧志》，汕头大学出版社，1995年，ISBN 9787810360715
+ * 中華書局編輯部，《潮劇完全觀賞手冊》，中華書局(香港)有限公司，2020年，ISBN 9789888674855
+
+Teochew opera in diaspora communities
+
+ * Helga Werle. 1975. “Notes on Chiuchow opera (潮剧).” *Journal of the Royal
+   Asiatic Society, Hong Kong Branch* 15: 71-87.
+   [pdf](https://hkjo.lib.hku.hk/archive/files/64866eb4532f430fb6285a712a08d768.pdf)
+ * 苏章恺 Su Zhangkai. 2018. 《潮影寻迹：新加坡潮剧历史记录》 *Imprints in
+   Time: The History of Teochew Opera in Singapore*. Singapore: 南华潮剧社 Nam
+   Hwa Opera. [English edition pdf](https://yeokheelimtcrc.com/wp-content/uploads/2021/04/YKL001005_Imprints-in-Time-Eng_compressed.pdf),
+   [华语版 pdf](https://yeokheelimtcrc.com/wp-content/uploads/2021/04/YKL001001_1003_Imprints-in-Time-Chi_compressed.pdf)
+ * Beiyu Zhang. 2021. *Chinese Theatre Troupes in Southeast Asia: Touring
+   Diaspora, 1900s–1970s*. London: Routledge.
+   [doi:10.4324/9781003031567](https://doi.org/10.4324/9781003031567)
