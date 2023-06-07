@@ -814,7 +814,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %zek-gong, ueng-ghua hue-lai, zek-lou sing-kou a!%
 叔公、員外 回來，一路 辛苦 啊！
 
-（叔公）
+（族長）
 
 %ha ha ha ha... si-so, gue-suan u gie, hong-zui seng-zung, svng-dik si-mih sing-kou? ha ha ha ha%
 哈哈哈哈…… 四嫂，過山 有 轎，逢水 乘船，算得 是乜 辛苦？哈哈哈哈
@@ -824,7 +824,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %zek-gong, cian-zo, cian-zo%
 叔公，請坐，請坐
 
-（叔公）
+（族長）
 
 %o, zo zo zo zo%
 哦，坐坐坐坐
@@ -844,7 +844,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %hue-lai ziu ho%
 回來 就好
 
-（叔公）
+（族長）
 
 %si-so, diek-nvng gai hi-sv lai-liou, in-au buk-ain zai bung ta kv Sai-lou ba%
 四嫂，侄女 個 喜事 來了，以後 不愛 再 分 她 去 西蘆 吧
@@ -854,7 +854,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %zek-gong, ua nvng hi do ho-lai?%
 叔公，我 女 喜 在 何來？
 
-（叔公）
+（族長）
 
 %ha ha ha ha! ze-cv ua v si-hian zien-sian pah guan-si%
 哈哈哈哈！這次 我 與 四兄 上城 拍 官司
@@ -867,7 +867,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %zek-gong, bhue-zai nvng-sai si sui?%
 叔公，未知 女婿 是誰？
 
-（叔公）
+（族長）
 
 %ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-zai%
 就是 府衙 內 書爺 之 子 楊子良 秀才
@@ -883,7 +883,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %sia-sia zek-gong liou%
 謝謝 叔公 了
 
-（叔公）
+（族長）
 
 %sia ua si buk-co di, riak-bho ua ui bhue cuek-hah, na leng-dik seng guan-cing?%
 謝我 是 不錯 的，若無 我 爲 媒 撮合，那 能得 成 官親？
@@ -899,7 +899,7 @@ Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 %gim-mung ziu cian-lai im-bue bo-ziu%
 今晚 就 請來 飲 杯 薄酒
 
-（叔公）
+（族長）
 
 %ha ha ha ha, ho-me ning pah-ian guan-si, iu dik-liou kuai-sai%
 哈哈哈哈，XX 恁 打贏 官司，又 得了 快婿
@@ -3405,9 +3405,269 @@ The ill-fated girl Lak-nie puts own her pen.
 
 [Ends recitation]
 
-%zv-dang sueh ua bek-si ta-sing
-書中 說 我 逼死 他身
+%zv-dang sueh ua bek-si ta-sing, buk-mieng ziang zv cang mua%
+書中 說 我 逼死 他身，不免 將 書 藏麻
+This letter says that I pressured her to kill herself, I should hide it away.
 
-(STOP: 1:44:21 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
+%huang-mieng lau-hia hua-gvng%
+方免 留下 禍根
+
+（員外）
+
+%siu-zai, ui-ho ziang zv cang-ki?%
+秀才，爲何 將 書 藏起？
+Scholar, why do you conceal the letter?
+
+（楊秀才）
+
+%ze gai... ua mung lv%
+這個……我 問 汝
+This... let me ask you instead
+
+（員外）
+
+%ho-sv?%
+何事？
+What about?
+
+（楊秀才）
+
+%ua toin cv-zv lai-dang dian u kiou-ki%
+我 睇 此書 內中 定 有 蹺蹊
+I see that there must be strange in this letter.
+
+%cian-mung lv-nvng peng-rik u-bho v-nang sai-ceng?%
+請問 汝女 平日 有無 與人 思情？
+Did your daughter have any secret feelings for anybody?
+
+%ui-ho ze-buan king-seng?%
+爲何 這般 輕生？
+Why did she treat her life so lightly?
+
+（員外）
+
+%siu-zai, ciek-mai lueng-sueh! siou-nvng zek-siang gian-ui dueng-zian%
+秀才，切勿 亂說！ 小女 一向 行爲 端正
+Don’t spout nonsense! My child was always proper in her behavior.
+
+%cueng-hien nang-nang zai-dau di%
+全鄉 人人 知道 的
+Everyone in the village knows this.
+
+（楊秀才）
+
+%gi-si gian-ui dueng-zian, ui-ho lim-ge cim-si?%
+既是 行爲 端正，爲何 臨家 尋死？
+If she was so proper, why did she flee the betrothal and kill herself?
+
+（安人）
+
+%ta si dui ze hung-ing buk-mua, cai zv-cim do-gin di%
+他 是 對 這 婚姻 不滿，才 自尋 短見 的
+She was unhappy with the match, and so made a rash decision.
+
+（楊秀才）
+
+%ai, ngak-be ngak-bho, gou-dau nvng-zv do-ge cong-be%
+哎，岳父 岳母，古道 女子 在家 從父
+Ah... father-in-law, mother-in-law, the saying goes that a girl at home follows her father’s wishes,
+
+%hung-ing su tian be-bho zv meng%
+婚姻 須 聽 父母 之 命 
+and should marry whom her parents choose for her.
+
+%bhue-iak zv ngang, ning no-lau zv sien hue-hung%
+媒約 之 言，恁 兩老 自 想 悔婚
+After the proposal was made, you two old people started to have second thoughts,
+
+%ga nvng buk-lak, i-di hua-bieng%
+教 女 不力，以致 禍變
+you were not strict in teaching your daughter, leading to this tragedy.
+
+%ning kak-sik lang-si-ki-giu, lang-si-ki-giu!%
+恁 確實 難辭其咎，難辭其咎！
+You truly cannot escape the blame!
+
+> 難辭其咎 – idiom
+
+（桃花）
+
+%ai! siu-zai a siu-zai%
+唉！秀才 啊 秀才
+Ah! Scholar %Ien%
+
+%meng si lv to-cing bek-dvng, di ki cv-hua%
+明 是 汝 討親 逼堂， 致 起 此禍
+It was clearly you that pressured the family into accepting the proposal, and caused all this
+
+%nie-gian zoh-mia-zv meng-meng sueh lv bek-si ta-sing%
+娘囝 絕命書 明明 說 汝 逼死 他身
+In her suicide note, she clearly said that you pestered her into taking her life
+
+%lv ui-ho cang-zv mik-zeng, hueng-rv ham-hueh-pung-nang?%
+汝 爲何 藏書 滅證，反而 含血噴人？
+Why did you try to hide away the letter, and try to smear other people instead?
+
+> 含血噴人 – idiom
+
+（乳娘）
+
+%a-di oi, zi-dien zoh-mia-zv ua ia cing-mak toin-gue o%
+阿弟 ～，只張 絕命書 我 也 親目 睇過 哦
+I saw this letter with my own eyes too.
+
+（楊秀才）
+
+%kui kv!%
+開去！
+Shoo!
+
+%duan-peng zek-hong zoh-mia-zv, mueh-zeng buk-zok%
+單憑 一封 絕命書，物證 不足
+All this is based on a suicide note, there is no other evidence
+
+%gi bho-nang zeng, iu bho-si zeng, ang-zai lai-dang u-bho gang-bi?%
+既 無人 證，又 無屍 證，安知 內中 有無 奸祕？
+Since neither she nor her corpse is here to prove anything, who knows if you are trying to play some tricks?
+
+%ning ru bho cong-zok zeng-gv, ziu-si ge-zv cang-nvng%
+恁 如 無 充足 證據，就是 假書 藏女
+If you don’t have any real proof, then you must have faked the note and are hiding her
+
+%dian ain ning ziang nvng hieng-cuk!%
+定 欲 恁 將 女 顯出！
+I demand that you present her!
+
+（族長）
+
+%ai-ia! buk-eng zen-bieng, rui-zv gi sueh dau-gang zv-zing, kuai gau gang-bin toin-gai giu-geng%
+哎呀！不用 爭辯，遺書 既 說 投江 自盡，快 到 江邊 睇 個 究竟
+Aiyah! There’s no need to debate it. Since it says that she wanted to jump into the river to drown herself, go to the river bank and find out for yourself.
+
+（楊秀才）
+
+%ho, riak-si ce bho sik-gv, dueng buk v ning gang-hiun%
+好，若是 查 無 實據，斷 不 與 恁 干休
+Fine, if I cannot find any real traces, then I will not let this matter rest!
+
+（員外）
+
+%ho, hung-hu ge-ring sok gau gang-bin%
+好，吩咐 家人 速 到 江邊
+Fine, tell the servants to go to the river bank now
+
+（僕人）
+
+%zung-meng!%
+遵命
+Yes sir!
+
+%bing ueng-ghua ang-ring, gang-bin u sie-ze siu-oi zek-sang%
+稟 員外 安人，江邊 有 小姐 繡鞋 一雙
+Master, Mistress, there is a pair of Miss’s brocade shoes on the river bank
+
+（員外、安人）
+
+%nvng-ri! ua-gian! ai! kou!%
+女兒！我囝！唉！苦！
+Daughter! My child! Alas, how cruel!
+
+（乳娘）
+
+%zi-e cua bho nang kv cua zo-gai gui hv-a...%
+只下 𡥘 無 人 去 𡥘 做個 鬼 噓啊……
+We went to get a woman but ended up getting a ghost...
+
+（渡公）
+
+%oi, zeng-nang ka-si ain gue-dou?%
+～，衆人 豈是 欲 過渡？
+Hey, do you all want to cross the river?
+
+（族長）
+
+%lai, ten-dou di, za-gang ka-u nang do-cv zoin-au dau-gang zv-zing bho?%
+來，撐渡 的，早間 豈有 人 在此 前後 投江 自盡 無？
+Come, boatman, was there anyone who threw themselves into the river here in the early hours?
+
+（渡公）
+
+%dau-gang? ngueng-lai zing-sik si dau-gang%
+投江？原來 真實 是 投江
+Threw themselves into the river? So it really was a suicide
+
+（楊秀才）
+
+%u a bho? ui-ho buk-sueh?%
+有 亞 無？爲何 不說？
+Was there or not? Why don’t you speak?
+
+（渡公）
+
+%si-gen si-hau, ua do zung-zien da-sui, tian-gin u-nang do kau%
+四更 時候，我在 船上 打睡，聽見 有人 在 哭
+At the fourth watch, I was sleeping in my boat, when I heard someone crying.
+
+%ua ghou-zoh si svng-cie, bho kv li i%
+我 誤作 是 耍笑，無去 理 伊
+I thought someone was trying to prank me, so I ignored it.
+
+%huk-rieng zui-ming gong zek-gie%
+忽然 水面 攻 一叫
+Suddenly I heard a crash in the water
+
+%ze-ien sueh ziang ki-lai, zing-di si u-nang dau-gang zv-zing a%
+這樣 說 將 起來，真的 是 有人 投江 自盡 啊
+Now that I put it all together, there really was someone who jumped into the river
+
+（安人）
+
+%si-liou... nou!%
+死了……孥！
+She really is dead, my child!
+
+（族長）
+
+%ai-ia, nang-meng gueng-tin sv-ceng buk-siou a%
+哎呀，人命 關天 事情 不小 啊
+Life and death is decided by heaven, this is no trivial business
+
+（桃花）
+
+%ai, ru-gim nang zeng-mueh zeng-gu ki, toin ning huan-u ho-sueh a?%
+哎，如今 人 證物 證據 齊，睇 恁 還有 好說 啊？
+Now that we have witnesses and evidence, do you have anything left to say?
+
+%ueng-ghua ang-ring duan-sen cv-nvng, ru-gim bi ning bek-si%
+員外 安人 單生 此女，如今 被 恁 逼死
+Master and Mistress have only one daugther, today she was driven to death by you
+
+%nvng-gian zek-hiang do Sai-lou ziang-dai, gu-lau-ia v lau-hu-ring ain ru meng-zu%
+娘囝 一向 在 西蘆 長大，舅老爺 與 老婦人 愛 如 明珠
+Miss grew up in Sai-lou, where her Uncle and Aunt loved her like their own daughter
+
+%gu-lau-ia ia zeng-ui guan, ziou-dang guan-cing sim-do%
+舅老爺 也 曾爲 官，朝中 官親 甚多
+Uncle was also once an official, and has many relatives in the court
+
+%bhung-zai cv-sv, ka keng gang-hiun?%
+聞知 此事，豈 肯 干休？
+Once he hears about this, could he let the matter rest?
+
+（員外）
+
+%buk-co, uang no-lau duan-dok cv nvng-ri, ru-gim bi bek buk-meng si%
+不錯，阮 兩老 單獨 此 女兒，如今 被 逼 不明 死
+That’s right, we two old people have only this one daughter, who was driven to her death today.
+
+%ge-cai zong-rieng lai pua zing, ia ain v-lv gin gau-di%
+家財 縱然 來 破 盡，也 欲 與汝 見 到底
+Even if we deplete our whole fortune, we will pursue you to the end.
+
+（安人）
+
+
+
+(STOP: 1:48:34 https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html?playMode=pugv&frommaciku=1)
 
 TODO: check if Ueng-ghua and Zok-dien are correctly assigned in Scene 7
