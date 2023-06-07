@@ -78,12 +78,12 @@ from 1566 (below, left) and 1581 (below, right).
 
 ![First page of the Li-gian-gi 1566 edition](li-gian-gi-1566-page.png){:width="48%"} ![First page of the Li-gi-gi 1581 edition](li-gi-gi-1581-page.png){:width="48%"}
 
-#### Ming Jiajing 嘉靖 version 《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲曲全集》 (1566)
+#### Ming Jiajing 嘉靖 version of 《荔镜记》 (1566)
 
-Published in year 45 of the Ming Jiajing 嘉靖 era (1566). There are two known
-copies, one in the Bodleian Library of Oxford University, the other in the
-Tenri Library, Japan. The Bodleian copy was rediscovered in the 1930s by Xiang
-Da 向達.
+Full title:《重刊五色潮泉插科增入詩詞北曲勾欄荔鏡記戲曲全集》Published in year
+45 of the Ming Jiajing 嘉靖 era (1566). There are two known copies, one in the
+Bodleian Library of Oxford University, the other in the Tenri Library, Japan.
+The Bodleian copy was rediscovered in the 1930s by Xiang Da 向達.
 
 This version is a mixture of Quanzhou 泉州 (Tsuann-tsiu) and Teochew source
 editions. The text is printed together with excerpts from a Minnan play
@@ -108,12 +108,13 @@ Available reproductions:
 * [Transcription with notes by Wu Shou-li 吳守禮 and recitation in Zuan-ziu
   pronunciation by Li Limin 李麗敏, hosted by Taiwan Ministry of Culture](https://taiwanopera.moc.gov.tw/index/zh-tw/MirrorVideo)
 
-#### Ming Wanli 萬曆 version 《新刻增補全像鄉談荔枝記》 (1581)
+#### Ming Wanli 萬曆 version of 《荔枝記》 (1581)
 
-Published in the year 9 of the Ming Wanli 萬曆 era (1581). Said to be
-representative of the Teochew editions; the first page states that it was
-“compiled by Li Dong-ghuêh of Teochew prefecture” 「潮州東月李氏編集」. Held by
-the Austrian National Library, rediscovered by Piet van der Loon in 1964.
+Full title: 《新刻增補全像鄉談荔枝記》 Published in the year 9 of the Ming
+Wanli 萬曆 era (1581). Said to be representative of the Teochew editions; the
+first page states that it was “compiled by Li Dong-ghuêh of Teochew prefecture”
+「潮州東月李氏編集」. Held by the Austrian National Library, rediscovered by
+Piet van der Loon in 1964.
 
 Critical edition: Wu Shouli
 吳守禮《明萬曆刊荔枝記戲文校理》，從宜出版社，2001年12月，ISBN 986999749X
@@ -136,18 +137,26 @@ online. If you are aware of a publicly available digitization, please get in
 touch!
 
 * 《新𢳣潮調陳三泉南錦曲加調全集》 
-  * Cover, preface, and postscript missing but dated to ca. 1600 by comparison to other publications. 
-  * Held by the National Library of Scotland, Advocates’ Library 6.451. This edition was [rediscovered in 2019](https://hdl.handle.net/1842/36643) by a doctoral student at the University of Edinburgh, Wang Yibo. A critical edition is currently in preparation by Dr Wang.
+  * Cover, preface, and postscript missing but dated to ca. 1600 by comparison
+    to other publications. 
+  * Held by the National Library of Scotland, Advocates’ Library 6.451. This
+    edition was [rediscovered in 2019](https://hdl.handle.net/1842/36643) by a
+    doctoral student at the University of Edinburgh, Wang Yibo. A critical
+    edition is currently in preparation by Dr Wang.
 * 《新刊時興泉潮雅調陳伯卿荔枝記大全》 
   * Published in year 8 of the Qing Shunzhi 順治 era (1651), private collection
-  * Critical edition: Wu Shouli 吳守禮《清順治刊荔枝記戲文校理》，從宜出版社，2001年12月，ISBN 9869997309
+  * Critical edition: Wu Shouli
+    吳守禮《清順治刊荔枝記戲文校理》，從宜出版社，2001年12月，ISBN 9869997309
 * 《陳伯卿新調綉像荔枝記全本》
   * Published in year 11 of the Qing Daoguang 道光 era (1831), private collection
 * 《陳伯卿新調繡像荔枝記真本》
-  * Published in year 10 of the Qing Guangxu 光绪 era (1884); two copies, both held in private collections. 
-  * Reprinted in《俗文學叢刊》第113冊 465-553頁 (民國91年, Taipei: Institute of History
-    and Philology) (above), but this copy is incomplete: chapters after 安童尋主 are missing.
-  * Critical edition: Wu Shouli 吳守禮《清光緒刊荔枝記戲文校理》，從宜出版社，2001年12月，ISBN 9869997317
+  * Published in year 10 of the Qing Guangxu 光绪 era (1884); two copies, both
+    held in private collections. 
+  * Reprinted in《俗文學叢刊》第113冊 465-553頁 (民國91年, Taipei: Institute of
+    History and Philology) (above), but this copy is incomplete: chapters after
+    安童尋主 are missing.
+  * Critical edition: Wu Shouli
+    吳守禮《清光緒刊荔枝記戲文校理》，從宜出版社，2001年12月，ISBN 9869997317
 
 
 ### 《蘇六娘》 • Sou Lag-niê • Sixth Lady Sou
@@ -166,7 +175,8 @@ there are some logical gaps in the story. The modern opera of the same name is
 based on the same story, which has a similar theme as *Dang-san Ngou-niê*, and
 is also still one of the most popular Teochew operas.
 
-Critical edition: Wu Shouli 吳守禮《明萬曆刊蘇六娘戲文校理》，從宜出版社，2002年7月，ISBN 9574103331
+Critical edition: Wu Shouli
+吳守禮《明萬曆刊蘇六娘戲文校理》，從宜出版社，2002年7月，ISBN 9574103331
 
 Available reproductions:
 
@@ -202,7 +212,7 @@ Watch this space!
 
 ## Further reading
 
- * 《明本潮州戏文五种》，，1985年
+ * 饶宗颐，〈说略〉，《明本潮州戏文五种》4–18页，广东人民出版社，1985年
  * 曾宪通，〈明本潮州戏文所见潮州方言述略〉，《方言》 1991年 (1) : 10-29
  * Piet van der Loon. 1992. *The classical theatre and art song of South
    Fukien: A study of three Ming anthologies*. Taipei: SMC Publishing. ISBN
