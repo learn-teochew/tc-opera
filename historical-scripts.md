@@ -4,15 +4,15 @@ title: Historical Teochew Opera Scripts
 permalink: /historical-scripts/
 ---
 
-There is a centuries-old history of Teochew vernacular writing in Teochew opera
-scripts (劇本 *giah-bung*). These historical scripts are rare surviving
-examples of Chinese regional languages (“dialects”) in printed form. Some of
-these books have been digitized and can be read online. However it can be
-difficult to decipher these texts because they are laid out very differently
-from modern books and playscripts. The written language is also likely to be
-unfamiliar to most modern readers, because there are many variant or simplified
-characters, as well as vocabulary and grammar not found in Mandarin or literary
-Chinese.
+The history of Teochew vernacular writing goes back at least five hundred
+years. We know this because of historical Teochew opera scripts (劇本
+*giah-bung*) that have survived to the present day. These scripts are rare
+examples of Chinese regional languages (“dialects”) in written or printed form.
+Some of these books have been digitized and can be read online. However they
+can be difficult to read because they are laid out very differently from modern
+books and playscripts. The written language is also unfamiliar to most modern
+readers, because there are many variant or simplified characters, as well as
+vocabulary and grammar not found in Mandarin or literary Chinese.
 
 Here we will list the historical editions and any reprints, digitizations, or
 transcriptions that we are aware of, and also provide a short explainer on how
@@ -37,7 +37,7 @@ capturing more detail than the printed facsimile.
 
 The Taiwanese scholar Wu Shouli [吳守禮](https://zh.wikipedia.org/wiki/吳守禮)
 has published critical editions of Minnan opera works, including some of the
-works listed below. 
+works listed below.
 
 ### 《劉希必金釵記》 • *Lau-hi-bik Gim-toi-gi* • *Tale of the Golden Hairpin*
 
@@ -88,7 +88,7 @@ The Bodleian copy was rediscovered in the 1930s by Xiang Da 向達.
 This version is a mixture of Quanzhou 泉州 (Tsuann-tsiu) and Teochew source
 editions. The text is printed together with excerpts from a Minnan play
 《顏臣》 *Hian-cing*, and excerpts and arias from other plays; the *Li-gian-gi*
-text is in the lower register of each page. 
+text is in the lower register of each page.
 
 Critical edition: Wu Shouli
 吳守禮《明嘉靖刊荔鏡記戲文校理》，從宜出版社，2001年12月，ISBN 9869997481
@@ -122,12 +122,10 @@ Critical edition: Wu Shouli
 Available reproductions:
 
 * Photographic reproduction in 《明本潮州戲文五種》
-* [Digital scan, Austrian National Library](https://onb.digital//result/1037167F) 
+* [Digital scan, Austrian National Library](https://onb.digital//result/1037167F)
   (in color and higher resolution than the printed reproduction, source of
   the image above).
 * [Transcription by Learn Teochew](https://github.com/learn-teochew/li-gi-gi-1581)
-
-![First page of reprint of the 1883 edition of Li-gi-gi](li-gi-gi-1884.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto;"}
 
 #### Other editions
 
@@ -136,14 +134,16 @@ rediscovered in the future. However these other versions are not available
 online. If you are aware of a publicly available digitization, please get in
 touch!
 
-* 《新𢳣潮調陳三泉南錦曲加調全集》 
+![First page of reprint of the 1883 edition of Li-gi-gi](li-gi-gi-1884.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto;"}
+
+* 《新𢳣潮調陳三泉南錦曲加調全集》
   * Cover, preface, and postscript missing but dated to ca. 1600 by comparison
-    to other publications. 
+    to other publications.
   * Held by the National Library of Scotland, Advocates’ Library 6.451. This
     edition was [rediscovered in 2019](https://hdl.handle.net/1842/36643) by a
     doctoral student at the University of Edinburgh, Wang Yibo. A critical
     edition is currently in preparation by Dr Wang.
-* 《新刊時興泉潮雅調陳伯卿荔枝記大全》 
+* 《新刊時興泉潮雅調陳伯卿荔枝記大全》
   * Published in year 8 of the Qing Shunzhi 順治 era (1651), private collection
   * Critical edition: Wu Shouli
     吳守禮《清順治刊荔枝記戲文校理》，從宜出版社，2001年12月，ISBN 9869997309
@@ -151,7 +151,7 @@ touch!
   * Published in year 11 of the Qing Daoguang 道光 era (1831), private collection
 * 《陳伯卿新調繡像荔枝記真本》
   * Published in year 10 of the Qing Guangxu 光绪 era (1884); two copies, both
-    held in private collections. 
+    held in private collections.
   * Reprinted in《俗文學叢刊》第113冊 465-553頁 (民國91年, Taipei: Institute of
     History and Philology) (above), but this copy is incomplete: chapters after
     安童尋主 are missing.
@@ -189,7 +189,7 @@ Available reproductions:
 
 ### 《金花女》 • Gim-huê-neng • Golden Flower Lady
 
-Printed together in the same volume with *Sou-lag-niê* (see above). 
+Printed together in the same volume with *Sou-lag-niê* (see above).
 
 Critical edition: Wu Shouli
 吳守禮《明萬曆刊金花女戲文校理》，從宜出版社，2002年7月，ISBN 9574103323
@@ -208,7 +208,91 @@ only. Rights belong to the copyright holders. See text for sources.
 How to read historical opera scripts
 ----------------------------------------
 
-Watch this space!
+The printed opera scripts were printed and thread-bound in the traditional way.
+In woodblock printing, an entire sheet of paper is printed from a single carved
+block. After a sheet is printed, it is folded in half with the printed side
+facing outwards, resulting in two adjacent pages. A stack of folded sheets is
+then sandwiched between covers and sewn with thread on the open edges to make a
+threadbound volume (線裝).
+
+To read these books, you will need some knowledge of Teochew, as well as how
+the content is laid out and organized on the page:
+
+ * How the pages are formatted (layout)
+ * How the different stage roles and directions are indicated
+ * What simplified and non-standard Chinese characters are used
+
+The example pages here are from the Ming Jiajing edition (1566) of the
+《荔鏡記》 *Li-gian-gi*, from a digital scan of the Bodleian copy. This edition
+was published at Jianyang 建陽 in Fujian 福建 province, which was an important
+center for commercial publishing in the Ming and Qing.
+
+### Page layout
+
+Like most traditional Chinese books, the text is in vertical lines, arranged
+from right to left.
+
+![](historical_opera_script_1.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+
+The content on this page is in three horizontal blocks: a smaller “upper
+register” 上欄 of text (top), illustrations 插圖 (middle), and a larger “lower
+register” 下欄 of text (bottom). Actually, this volume contains two different
+works: 《荔鏡記》*Li-gian-gi* in the lower register and selections from another
+play 《彥臣》 *Ngang-cing* in the upper register. Bundling popular works
+together was a common practice by publishers to make the books more attractive
+to buyers. However not all books are like this: for example, the 1581
+《荔枝記》 *Li-gi-gi* has only one text register and illustrations.
+
+### Headings, roles and stage directions
+
+Each scene or act usually has a numbered heading, followed by a title. Here the
+heading is surrounded by a thick bracket: 【第七出】燈下搭歌 “Scene 7 – joining
+in song under the lanterns”.
+
+![](historical_opera_script_2.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+
+Operas are mixtures of sung and spoken parts. The melody is referred to by
+name〔大迓鼓〕and surrounded by brackets or otherwise highlighted. Here it is
+followed by the stage direction 旦占丑上, meaning that the actors playing the
+roles of 旦 *duan* (female lead), 貼 *tiêb* (female second lead, this book uses
+the simplified character 占), and 丑 *tiu* (clown) come on stage. Unlike modern
+scripts, the characters are not referred to by name but by the actor’s role.
+
+In the Ming era there were seven main roles:
+
+ * 生 *sêng* - Male lead
+ * 旦 *duan* - Female lead
+ * 貼 *tiêb* - Female second lead
+ * 外 *ghua* - Old person
+ * 丑 *tiu* - Clown
+ * 末 *bhuah* - Middle-aged person
+ * 淨 *zêng* - Painted-face
+
+![](historical_opera_script_3.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+
+The sung parts are printed with full-width characters, whereas spoken parts are
+printed half-width.
+
+### Teochew vocabulary and non-standard characters
+
+Teochew has different vocabulary and grammar from Mandarin or literary Chinese.
+Although the language used in opera has more literary influence, there are
+still Teochew/Minnan words or phrases that are not found in Mandarin.
+
+In the excerpt below there are Teochew/Minnan words such as 冥昏 *mê-hng*
+“evening”, 值方 *di-huang* “where?”, and 今旦 *gim-dan* “today”.
+
+![](historical_opera_script_4.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+
+Commercially printed books often used simplified characters because of the
+expense of block carving. For example, 呵𭑧 is a simplified form of 阿娘
+*a-niê* “Miss”. Such simplified characters were common in handwriting and
+printed books, although not in official or scholarly publications. Some of were
+adopted as official simplified characters in the 20th century, but many may be
+unfamiliar to modern readers.
+
+The iteration mark, which looks like the character 匕, means that the previous
+characters are to be repeated, much like “ditto” in English.
 
 ## Further reading
 
