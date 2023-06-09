@@ -252,11 +252,16 @@ in song under the lanterns”.
 ![](historical_opera_script_2.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Operas are mixtures of sung and spoken parts. The melody is referred to by
-name〔大迓鼓〕and surrounded by brackets or otherwise highlighted. Here it is
-followed by the stage direction 旦占丑上, meaning that the actors playing the
-roles of 旦 *duan* (female lead), 貼 *tiêb* (female second lead, this book uses
-the simplified character 占), and 丑 *tiu* (clown) come on stage. Unlike modern
-scripts, the characters are not referred to by name but by the actor’s role.
+name〔大迓鼓〕and surrounded by brackets or otherwise highlighted. The same
+melodies were used between different operas, just with different words. Many of
+the melodies in the *Li-gian-gi* are still preserved today in the *Lam-gueng*
+南管 musical tradition.
+
+This is followed by the stage direction 旦占丑上, meaning that the actors
+playing the roles of 旦 *duan* (female lead), 貼 *tiêb* (female second lead,
+this book uses the simplified character 占), and 丑 *tiu* (clown) come on
+stage. Unlike modern scripts, the characters are not referred to by name but by
+the actor’s role.
 
 In the Ming era there were seven main roles:
 
@@ -267,6 +272,9 @@ In the Ming era there were seven main roles:
  * 丑 *tiu* - Clown
  * 末 *bhuah* - Middle-aged person
  * 淨 *zêng* - Painted-face
+
+In modern times this has been simplified to four main roles: 生、旦、淨、丑,
+but each can be subdivided further (e.g. 小生、老生……).
 
 ![](historical_opera_script_3.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
