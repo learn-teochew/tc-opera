@@ -872,191 +872,233 @@ O %To-hue%!
 
 Video 1: [27:33](https://youtu.be/oI7fTLB5lB0?t=1653)
 
-（？）
+（僕人）• %Bok-ring% • Servant
 
-%bing ang-ring, ueng-ghua zok-zien gau-liou%
-稟 安人，員外 族掌 到了
+%bing ang-ring, ueng-ghua zok-dien gau-liou%
+稟 安人，員外 族長 到了
+Mrs Sou: Mr Sou and the clan elder have arrived.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %o gau-liou, lip-ziek tong-zai nie-gian zien-dvng ing-zih dia-dia%
 哦 到了，立即 通知 娘囝 上堂 引接 爹爹
+Since they have arrived, go at once to call my daughter up to the hall to welcome her father.
 
-（？）
+（梅香）
 
 %si%
 是
+Yes.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong, ueng-ghua hue-lai, zek-lou sing-kou a!%
 叔公、員外 回來，一路 辛苦 啊！
+Great Uncle, husband, you are back, it must have been an arduous journey!
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ha ha ha ha... si-so, gue-suan u gie, hong-zui seng-zung, svng-dik si-mih sing-kou? ha ha ha ha%
 哈哈哈哈…… 四嫂，過山 有 轎，逢水 乘船，算得 是乜 辛苦？哈哈哈哈
+Haha, Fourth Sister-in-law, we rode a sedan chair over the hills, took a boat across the water... can that be called arduous? Haha!
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong, cian-zo, cian-zo%
 叔公，請坐，請坐
+Great Uncle, please sit, please sit.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %o, zo zo zo zo%
 哦，坐坐坐坐
+Ah yes, let’s all sit down.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ang-ring, nvng-ri ka-zeng hue-ge?%
 安人，女兒 豈 曾 回家？
+My wife, has our daughter come home?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %nvng-ri za-tin cong Sai-lou hue-lai liou%
 女兒 昨天 從 西蘆 回來 了
+She came back yesterday from %Sai-lou%.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %hue-lai ziu ho%
 回來 就好
+That is good to hear.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %si-so, diek-nvng gai hi-sv lai-liou, in-au buk-ain zai bung ta kv Sai-lou ba%
 四嫂，侄女 個 喜事 來了，以後 不愛 再 分 她 去 西蘆 吧
+Sister-in-law, my niece’s wedding date is approaching. In the future it would be best not to send her to %Sai-lou% again.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong, ua nvng hi do ho-lai?%
 叔公，我 女 喜 在 何來？
+Great Uncle, how did my daughter come to have a wedding date?
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ha ha ha ha! ze-cv ua v si-hian zien-sian pah guan-si%
 哈哈哈哈！這次 我 與 四兄 上城 拍 官司
+Haha! This time when Fourth Brother and I went up to the city for the court hearing,
 
 %m-duan guan-si pah-ian, huan-u gah ning doh gai seng-leng gian-sai%
 唔單 官司 拍贏，還有 佮 恁 擇 個 乘龍 囝婿
+Not only did we win the case, but we also arranged a good match for your daughter.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong, bhue-zai nvng-sai si sui?%
 叔公，未知 女婿 是誰？
+Great Uncle, who is this prospective son-in-law?
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ziu-si hu-ghe lai zv-ia zv zv Ien Zv-liang siu-zai%
 就是 府衙 內 書爺 之 子 楊子良 秀才
+It is the licentiate %Ien Zv-liang%, son of the scholar-official of the prefecture yamen.
 
 %ta mua-bak bhung-cai, cui-ziem bik-lai, ieng-gvng gai-zai%
 他 滿腹 文才，嘴尖 筆利，遠近 皆知
+He has a breast full of learning, a mouth sharp with wit, and knowledge of things near and far.
 
 %zian-si zek-gai kuai-sai%
 正是 一個 快婿
+He will be a good son-in-law.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %sia-sia zek-gong liou%
 謝謝 叔公 了
+Thank you, Great Uncle.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %sia ua si buk-co di, riak-bho ua ui bhue cuek-hah, na leng-dik seng guan-cing?%
 謝我 是 不錯 的，若無 我 爲 媒 撮合，那 能得 成 官親？
+It’s not wrong to thank me. If not for me acting as a go-between, how would you have gotten an official family for in-laws?
 
 %dan ning lau hu-ci cian-zo, ua gau-si liou%
-旦 恁 老夫妻 請做，我 告辭 了
+旦 恁 老夫妻 請坐，我 告辭 了
+Now, please remain seated, I will take my leave.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong, ning v ueng-ghua ieng-dau hue-lai %
 叔公，恁 與 員外 遠道 回來
+Great Uncle, you and my husband have traveled a long way home.
 
-%gim-mung ziu cian-lai im-bue bo-ziu%
+%gim-mung ziu cian-lai im-bue boh-ziu%
 今晚 就 請來 飲 杯 薄酒
+Please come by tonight for a drink of wine.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ha ha ha ha, ho-me ning pah-ian guan-si, iu dik-liou kuai-sai%
 哈哈哈哈，XX 恁 打贏 官司，又 得了 快婿
+Haha, you have not only won the court case, but have gained a son-in-law.
 
 %sang-hi ling-mung, zian gai cian ua lai zo dang-ik-ui%
 雙喜 臨門，正 該 請我 來坐 東一位
+Twin successes have come to your door, so you invite me to sit at the place of honor as you should.
 
 %tiang-im gi-bue, ua zek-dian lai, zek-dian gau%
 暢飲 幾杯，我 一定 來，一定 到
+I will certainly come to drink with you.
 
 %ho ho, zv-ge-nang mieng sang-liou%
 呵呵，自家人 免 送了
+Ha ha, we are all family, there’s no need to get up to see me to the door.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ueng-ghua, Ien-ge nvng-sai lv ka-zeng gin-gue?%
 員外，楊家 女婿 汝 豈曾 見過？
+Husband, have you ever met this prospective son-in-law from the %Ien% family?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %cieh-ang zv-zien, cing-ming gin-gue, siang-mau dau ia gue-dik kv%
 席宴 之上，親面 見過，相貌 倒也 過得 去
+Before the banquet I met him face-to-face. He appears to be good enough.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ru-cv, ua ziu uan-sim liou%
 如此，我 就 安心 了
+If so, my heart is at rest.
 
 %ta si na-li nang?%
 他 是 哪裏 人？
+Where is he from?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
  %ta zia-gueng Riou-peng%
 他 籍貫 饒平
+His native place is %Riou-peng%.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %han?! Riou-peng?%
 X，饒平？
+What? %Riou-peng%?
 
 %ueng-ghua, lv zing tai-bho da-siou liou a%
 員外，你 真 太無 打數 了 啊
+Husband, you didn’t think this over at all!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %Ien-ge mung-doin, nvng-sai gong-mia%
 楊家 門第，女婿 功名
+The %Ien% family is of high status, our son-in-law has a good name.
 
 %zian-si zek-mung ti-ming guan-cing, ui-ho sueh ua bho da-svng?%
 正是 一門 體面 官親，爲何 說 我 無 打算？
+This is a proper official family that we are marrying our daughter to. What do you mean I haven’t thought this over?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %nang zi-u cv-nvng, za-rim ba ta hng-ge?%
 俺 只有 此女，怎忍 把 她 遠嫁？
+We only have this one daughter, how could you bear to marry her off to a family so far away?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %mung-gueng siang-dui, sui-hng ho huang%
 門冠 相對，雖遠 何 妨
+If the match is good, distance is not a consideration.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %v!%
 噁！
+Ugh!
 
-%sok-dau bho-lam gu-nvng, hng-ge Riou-peng, ru-ho sai-dik?%
-俗道 無男咕女，遠嫁 饒平，如何 使得？
+%sok-dau bho-lam gou-nvng, hng-ge Riou-peng, ru-ho sai-dik?%
+俗道 無男靠女，遠嫁 饒平，如何 使得？
+The proverb says: If there is no son, rely on the daughter. If she is far away in %Riou-peng%, what are we to do?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ru-gim bhak-in seng-ziu, sai-buk-dik ia-ain sai-dik liou%
 如今 木已成舟，使不得 也欲 使得了
+The lumber has already been made into a boat. We shall just have to make do.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ze ru-ho si ho?%
 這 如何 是 好？
+What good is this?
 
 ## 第四出 • Scene 4
 
