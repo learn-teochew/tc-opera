@@ -33,8 +33,8 @@ TK
 青山 綠水 伴 我 臉
 Green hills and blue water keep me company.
 
-%cian-hi [siu?]-bing ru svng-beh%
-且喜 X鬢 如 霜 白
+%cian-hi ciu-bing ru svng-beh%
+且喜 鬚鬢 如 霜 白
 Even if I were to be glad about my snowy-white whiskers,
 
 %iu dik v-nang gian huang-bieng%
@@ -119,8 +119,8 @@ Uncle, look it’s still right here.
 
 （渡公）• %Dou-gong% • Boatman
 
-%ha ha ha ha ha! ua zai ua lau-nang mak-hue, (?)-lai bhu-long ua?%
-哈哈哈哈哈！我 知 我 老人 目花，X-來 誣弄 我？
+%ha ha ha ha ha! ua zai ua lau-nang mak-hue, (coh?)-lai bhu-long ua?%
+哈哈哈哈哈！我 知 我 老人 目花，［撮］來 誣弄 我？
 Ha ha! I know that my eyes are old and long-sighted, and you still want to tease me like this?
 
 （桃花）• %To-hue%
@@ -200,8 +200,8 @@ A song duel? If you want to, bring it on!
 Don’t think that this old man can’t sing.
 
 %ua-gai gua-gian gau dua-lua%
-我個 歌囝 到 大X
-My songs are [...]
+我個 歌囝 到 大籮
+I have a whole basket full of songs
 
 %zek-coin boih-beh gang-lv dau, dau-gau lv u-kau m-gan kua%
 一千八百 共汝 鬥，鬥到 汝 有口 唔敢 誇
@@ -227,8 +227,8 @@ You even want me to go first? That’s just as well. Listen:
 正月 百花開，百 呀 百花 開
 In the first month, a hundred flowers bloom, a hundred o hundred flowers bloom.
 
-• %beh-hue kai lai (?)-diep kuang%
-百花 開來 X蝶 狂
+• %beh-hue kai lai pang-diep kuang%
+百花 開來 蜂蝶 狂
 A hundred flowers bloom and the butterflies go into a frenzy.
 
 • %za-me gai hng-mung bho zien-so%
