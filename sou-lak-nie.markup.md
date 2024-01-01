@@ -458,24 +458,33 @@ What reason keeps him from his appointment?
 
 %cung-huang u-ieh au-hng dang%
 春風 有約 後園 中
+With the Spring wind there is an appointment in the back garden
 
 %ze-zek-cv zai-mo co-gue liang-ueng%
 這一次 再莫 錯過 良緣
+This time I cannot again miss the opportunity to meet my future partner
 
 %mue-mue hueng bhue-lai%
 妹妹 還 未來
+Sister is not yet here
 
 %siu-giu-hue! siu-giu pau-gip Lv Mong-zeng%
 繡球花！繡球 拋給 呂蒙正
+A hydrangea blossom! Toss the hydrangea to %Lv Mong-zeng%!
+
+> 呂蒙正 : Reference to the love story of 呂蒙正 and 月娥
 
 %zing-si gia-diou, gia-diou!%
 真是 佳兆，佳兆！
+A good omen indeed!
 
 %o, ngueng-lai si bie-mue soin-ua rv-lai%
 哦，原來 是 表妹 先我 而來
+Oh, so my cousin has arrived before me.
 
 %mue-mue, cv-hue gak-dik ho, ko-sieh buk-do cai-lau zoin%
 妹妹，此花 捔得 好，可惜 不在 彩樓 前
+Sister, these flowers are beautiful, but it is a pity they are not growing before the flowery tower.
 
 （六娘）• %Lak-nie%
 
@@ -487,40 +496,51 @@ Cousin Gi-cung, don’t speak foolishly about these things
 
 %seng-ga liou%
 承教 了
+I accept your criticism.
 
 （六娘）• %Lak-nie%
 
 %bie-hian ieh-hiou, bhue-sek u ho-ga-ngang?%
 表兄 約邀，未識 有 何教言？
+Cousin, you asked to meet. Is there something you want to tell me?
 
 （繼春）• %Gi-cung%
 
 %mue-mue, ui-hian v lv dang-hak gui-ni%
 妹妹，爲兄 與 汝 同學 幾年
+Sister, you and I were educated together for many years.
 
 %ru-gim kue-ki ziang-zi, bik-su v lv ziem-biek%
 如今 科期 將至，必須 與 汝 暫別
+Now the examination season is approaching, and I must take my leave from you.
 
 （六娘）• %Lak-nie%
 
 %ziem-biek?%
 暫別？
+Take your leave?
 
 （繼春）• %Gi-cung%
 
 %zian-si, mue ia ni in gip-gi%
 正是，妹 也 年 已 及笄
+Yes, sister you are already of marrigeable age,
 
 %kiong-pa buk-leng gu-zu Sai-lou%
 恐怕 不能 久住 西蘆
+I fear you cannot stay much longer in Sai-lou.
+
+> 西蘆 : Lak-nie was sent to be brought up in the household of her maternal uncle and aunt at Sai-lou, but now that she is of marrigeable age will soon be returned to her parents who will decide on whom she shall marry.
 
 %zek-biek zv-au, ziu buk-zai zai-hue ho-ki liou%
 一別 之後，就 不知 再會 何期 了
+After we say goodbye, I don’t know when we will ever see each other again.
 
 （六娘）• %Lak-nie%
 
 %bie-hian, ngueng zok-lv zek-gv seng-mia%
 表兄，願 祝你 一舉 成名
+Cousin, I wish you success in the official examinations.
 
 （繼春）• %Gi-cung%
 
@@ -590,205 +610,263 @@ Ah, I remember, I remember! Cousin Gi-cung!
 
 • %zai siem-sian gi-dou mueh-hueng cen-i%
 知 蟬聲 幾度 物換星移
+I recognize the sound of cicadas. Things change and the stars move.
 
 • %rim cen-i mueh-hueng, nang-liang sim-siang-ain bho kiong-ki%
 任 星移物換，俺倆 心相愛 無 窮期
+Although the stars move and things change, our feelings for each other do not wane.
 
 %bie-hian, lv toin%
 表兄，汝 睇
+Cousin, look,
 
 • %zeng gi na%
 曾 記 那
+do you remember...
 
 • %zeng gi na si-gang liu-im e dang sui-[ieh]%
 曾 記 那 時間 柳蔭 下 同垂（約？）
+do you remember that time when we met in the shade of the willow tree?
 
 （繼春）• %Gi-cung%
 
 • %dang sien iu-hv sang bi-mak%
 同 賞 游魚 雙 比目
+And enjoyed watching the fish swim, like a pair of flatfish.
+
+> 比目 : Flatfish or flounder, symbol of marital love.
 
 （六娘）• %Lak-nie%
 
 • %oin-si zeng do ze tang-bieng, hi sia zv-ue di zak-zieng%
 閒時 曾 在 這 溏邊，戲 寫 書畫 地 作 箋
+We spent our leisure beside this pond, tracing out words and pictures in the dirt.
 
 • %gueng-lai gueng-sien di-dang ho%
 倦來 觀賞 池中 荷
+When we got tired we admired the lotus in the pond.
 
-• %deng-deng ghek lip ko-nang-lieng%
-亭亭 玉立 可儂憐
+• %deng-deng-ghek-lip ko-nang-lieng%
+亭亭玉立 可儂憐
+Slender and elegant, that we could love.
+
+> 亭亭玉立 : idiom
 
 （繼春）• %Gi-cung%
 
 • %na si-gang lv ain noi-hue ua diah-zang%
 那 時間 汝 愛 蓮花 我 摘贈
+At that time, when you wanted a lotus flower I ventured out
 
 • %zang lv zek-gi beng-di lieng%
 贈 汝 一枝 並蒂 蓮
+and plucked a double-headed lotus blossom for you.
+
+> 蓮開並蒂 : idiom referring to marital love; lotus flowers are usually single headed.
 
 %mue-mue, nang liang-nang ko-u zek-bi%
 妹妹，俺 兩人 可有 一比
+Sister, there is one thing that we could be compared to.
 
 （六娘）• %Lak-nie%
 
 %bi-zoh sim-moh?%
 比作 什麼？
+Compared to what?
 
 （繼春）• %Gi-cung%
 
 • %hue-kai beng-di ko-nang-lieng%
 花開 並蒂 可人憐
+A double-headed flower is a desirable thing,
 
 • %ho-bi nang hian-mue cie-ghv beng-giang%
 好比 俺 兄妹 笑語 並肩
+Like us cousins sitting side by side, happily chatting,
 
 （六娘）• %Lak-nie%
 
 • %iu ho-bi ceng-hue hu-diep sang-sang bhu%
 又 好比 穿花 蝴蝶 雙雙 舞
+And like butterflies fluttering in pairs amongst the flowers.
 
 （繼春）• %Gi-cung%
 
 • %nang ze-li buk-diep nang-ri bhu sang-sang%
 俺 這裏 抔蝶 人兒 舞 雙雙
+We chased butterflies here, dancing in pairs.
 
 （六娘）• %Lak-nie%
 
 • %hu-diep ni-ni hue-gang bhu%
 蝴蝶 年年 花間 舞
+The butterflies dance every year in the flowers.
 
 （繼春）• %Gi-cung%
 
 • %ngueng buk-diep nang-ri iong seng-sang%
 願 抔蝶 人兒 永 成雙
+I wish that those who catch butterflies shall forever be a couple.
 
 （桃花）• %To-hue%
 
 • %buk-co, dui-ia, hu-diep zv-eng sang-sang bhu%
 不錯，對呀，蝴蝶 自應 雙雙 舞
+That is right, butterflies naturally dance in pairs,
 
 • %buk-diep nang-ri iong seng-sang%
 抔蝶 人兒 永 成雙
+Those who catch butterflies shall forever be together.
 
 （六娘）• %Lak-nie%
 
 %zuan-bi lv, gui-tau gui-nau, heh-dik nang-sim gian-meh tiou%
 賤婢 汝，鬼頭 鬼腦，吓得 人心 經脈 跳
+Stupid wench! You clumsy head! You startled me out of my skin!
 
 %lv m-do-ge, hong-si ang-ring, kiak lai-cv ho-sv?%
 汝 唔在家，奉侍 安人，卻 來此 何事？
+Why are you not at home serving my mother? What business do you have here?
 
 （桃花）• %To-hue%
 
 %zi ing ueng-ghua lai-sing sueh-dau, buk-rik hue-ge%
 只因 員外 來信 說道，不日 回家
+It is only because Mr Sou sent word that you should return home,
 
 %ing-cv ang-ring meng bi zih lv hue-kv%
 因此 安人 命 婢 接 汝 回去
+So Mrs Sou sent me to bring you back.
 
 %ang-ring sueh-dau: meng-tin gik-rik ziu su ki-teng%
 安人 說道：明天 吉日 就 須 啓程
+Mrs Sou said that tomorrow is an auspicious day for it.
 
 （繼春）• %Gi-cung%
 
 %mue-mue, lv meng-rik hue-ge, ua iu ziang hu-ci%
 妹妹，汝 明日 回家，我 又 將 赴試
+Sister, you will return to your own household tomorrow, and I will go off to the examinations.
 
 %zek-biek zai-biek, au-hue ho-ki?%
 一別 再別，後會 何期？
+A farewell upon a farewell, when shall we see each other again?
 
 （六娘）• %Lak-nie%
 
 • %gang-lam gang-bak%
 江南 江北
+Jiangnan and Jiangbei
 
 • %gang-lam gang-bak zek-koi zui%
 江南 江北 一溪 水
+Between Jiangnan and Jiangbei is the River
 
 • %biek-si iong-i, gin-si lang%
 別時 容易，見時 難
+Parting is easy, meeting is difficult
 
 （繼春）• %Gi-cung%
 
 • %mue gui Lv-pou, hian hu-ci%
 妹 歸 呂浦，兄 赴試
+I return to Lv-pou, brother you go to the examinations
 
 • %zek-biek zai-biek cou geng-ziang%
 一別 再別 愁 更長
+A farewell upon a farewell, makes it even more sorrowful
 
 （桃花）• %To-hue%
 
 • %ain-sien bhueng-kuang sien-sv ze%
 愛償 萬頃 相思 債
+Love makes up for the longing of ten thousand moments
 
 • %huan-su gip-za gip-za deng liang-ueng%
 還須 及早 及早 訂 良緣
+TODO
 
 %bie-siou-ia,%
 表少爺，
+Young master,
 
 • %ua kvng-lv, hue-kai kam-zih hueng-su zih%
 我 勸你，花開 堪折 還須 折
+I urge you, when the flowers bloom they have to be plucked,
 
 • %mo-tai bho-hue kong zih gi%
 莫待 無花 空 折 枝
+Do not wait too long lest the branch becomes bare again.
 
 • %nang-sv cong-cong do bieng-hue%
 人事 匆匆 多 變化
+Human affairs are busy and full of change,
 
 • %za toh liang-bhue ba cing ti%
 早 託 良媒 把 親 提
+Do not delay in finding a matchmaker soon to come propose a match.
 
 （六娘）• %Lak-nie%
 
 %To-hue, gue-lai%
 桃花，過來
+%To-hue%, come here.
 
 （桃花）• %To-hue%
 
 %bie-siou-ia, ho-liou a, nie-gian u dian-ceng zv-mueh sang lv!%
 表少爺，好了 啊，娘囝 有 定情 之物 送 汝！
+Young master, look, Miss has a token of her love for you!
 
 （繼春）• %Gi-cung%
 
 %do na-li? kuai na-lai!%
 在 哪裏？快 拿來！
+Where is it? Hand it over!
 
 （桃花）• %To-hue%
 
 %ai! siu-zai ho bho-li, nie-gian ceng-cim ngi-dong%
 唉！秀才 好 無理，娘囝 情深 義重
+Ai! Sir you are impatient. Miss has deep feelings and sincere emotion.
 
 %To-hue cong-dvng bhue-ciep, ia bho zek-ngang dau-sia%
 桃花 充當 媒妾，也 無 一言 道謝
+Although I act as a go-between there is not a word of thanks for me.
 
 （繼春）• %Gi-cung%
 
 %o... sia-sia To-hue-ze seng-cueng%
 哦，謝謝 桃花姐 成全
+Oh, thank you Sister %To-hue% for your help,
 
 %sie-seng ze-li u li%
 小生 這裏 有 禮
+I owe you a debt of gratitude.
 
 （桃花）• %To-hue%
 
 • %u dau si, liang-kim doh gia-bhak%
 有 道 是，良禽 擇 佳木
+The principle is that virtuous beasts choose a fine woodland.
 
 • %gim-zieh ru ceng-gieng, cv-dang u cim-i%
 金石 喻 情堅，此中 有 深意
+Gold is like firm devotion, the feelings therein are deep.
 
 • %iong-ieng mo siang-bhuang%
 永遠 莫 相忘
+It will not ever be forgotten.
 
 （繼春）• %Gi-cung%
 
 %sia-sia mue-mue liou!%
 謝謝 妹妹 了！
+Thank you, sister!
 
 %o, To-hue, To-hue a!%
 哦，桃花，桃花 啊！
+O %To-hue%!
 
 ## 第三出 • Scene 3
 
