@@ -1,21 +1,21 @@
 # 蘇六娘（選） • %Sou-lak-nie% (Selection)
 
-The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 (uploaded to YouTube [Part 1](https://youtu.be/oI7fTLB5lB0), [Part 2](https://youtu.be/OepVJnOc_D0) [no longer available] and [Youku](https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html)); characters were converted to traditional and some usages were changed to fit the rest of this website. Lines that are sung are indicated with a • character at the beginning.
+The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 (uploaded to YouTube [Part 1](https://youtu.be/oI7fTLB5lB0), [Part 2](https://youtu.be/OepVJnOc_D0) [no longer available] and [Youku](https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html)) and a commemorative booklet published by 大地唱片藝術工業; characters were converted to traditional and some usages were changed to fit the rest of this website. Lines that are sung are indicated with a • character at the beginning.
 
 ## 劇中人物 • Dramatis personae
 
 In order of appearance.
 
-* **渡公 • %Dou-gong%** • Old boatman who ferries passengers across the river. 
-* **桃花 • %To-hue%** • Maidservant of %Sou-lak-nie%, who helps %Lak-nie% and %Gi-cung% elope.
-* **蘇六娘 • %Sou-lak-nie%** • Young lady of the %Sou% family, the only child of a rich landowner and his wife (but called %lak-nie% 六娘 “Sixth Lady” because she is the sixth-born female of her generation, i.e. among her cousins). She spent a large part of her childhood in the household of her mother’s maiden family, where she was raised and educated alongside her male cousin, %Gueh-gi-cung%.
-* **郭繼春 • %Gueh-gi-cung%** • Young man of the %Gueh% family, educated and refined, cousin of %Lak-nie%; the two were raised and educated together and eventually fell in love.
-* **員外 • %Ueng-ghua%** • Landlord Sou, father of %Lak-nie%; he is a rich landowner, but still has to respect the wishes of the %Sou% clan elder (族長 %Zok-dien%).
-* **安人 • %Ang-ring%** • Mrs Sou, mother of %Lak-nie%.
-* **族長 • %Zok-dien%** • Clan Elder Sou, senior member of the %Sou% clan; he was involved in arranging the match between %Sou-lak-nie% and %Ien-siu-zai%.
-* **楊秀才 • %Ien-siu-zai%** • Scholar Ien, a young man of the %Ien% family; although he holds the licentiate 秀才 %siu-zai% degree, he is depicted as an oafish, uncultured man.
+* **渡公 • %Dou-gong%** • Old boatman who ferries passengers across the river. (Played by 陳水和)
+* **桃花 • %To-hue%** • Maidservant of %Sou-lak-nie%, who helps %Lak-nie% and %Gi-cung% elope. (陳馥閨)
+* **蘇六娘 • %Sou-lak-nie%** • Young lady of the %Sou% family, the only child of a rich landowner and his wife (but called %lak-nie% 六娘 “Sixth Lady” because she is the sixth-born female of her generation, i.e. among her cousins). She spent a large part of her childhood in the household of her mother’s maiden family, where she was raised and educated alongside her male cousin, %Gueh-gi-cung%. (姚璇秋)
+* **郭繼春 • %Gueh-gi-cung%** • Young man of the %Gueh% family, educated and refined, cousin of %Lak-nie%; the two were raised and educated together and eventually fell in love. (陳麗華)
+* **員外 • %Ueng-ghua%** • Landlord Sou, father of %Lak-nie%; he is a rich landowner, but still has to respect the wishes of the %Sou% clan elder (族長 %Zok-dien%). (吳林榮)
+* **安人 • %Ang-ring%** • Mrs Sou, mother of %Lak-nie%. (吳麗君)
+* **族長 • %Zok-dien%** • Clan Elder Sou, senior member of the %Sou% clan; he was involved in arranging the match between %Sou-lak-nie% and %Ien-siu-zai%. (郭石梅)
+* **楊秀才 • %Ien-siu-zai%** • Scholar Ien, a young man of the %Ien% family; although he holds the licentiate 秀才 %siu-zai% degree, he is depicted as an oafish, uncultured man. (蔡錦坤)
 * **梅香 • %Bhue-hien%** • One of the maids in the %Sou% household.
-* **乳娘 • %Ru-nie%** • The nursemaid of %Ien-siu-zai%, who now comes to the %Sou% household to help prepare %Sou-lak-nie% for her marriage to him.
+* **乳娘 • %Ru-nie%** • The nursemaid of %Ien-siu-zai%, who now comes to the %Sou% household to help prepare %Sou-lak-nie% for her marriage to him. (洪妙)
 
 ## 第一出 • Scene 1
 
