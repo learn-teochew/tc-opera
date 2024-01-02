@@ -1526,29 +1526,37 @@ I am so angry that I will hit you.
 
 %da-dik nang, tang co lang ai%
 打得 人，痛 楚 難 挨
+TODO
 
 • %da-dik nang tong co lang ai%
 打得 人 痛 楚 難 挨
+TODO
 
 • %To-hue sen-ui zek si-bi, nie-gian u-meng za tui-kai%
 桃花 生爲 一 侍婢，娘囝 有命 怎 推開
+I am just a servant, how could I refuse Miss’s orders?
 
 • %meng-si ning sen-ui be-bho bho ieng-gieng%
 明是 恁 生爲 父母 無 遠見
+It is you as her parents who lacked foresight,
 
 • %zek-liem zv ca-co ang-bai%
 一念 之 差錯 安排
+Making arrangements without thinking them over.
 
 • %ka buk-bhung, nvng-zv bho-cai bieng-si dek%
 豈 不聞，女子 無才 便是 德
+Have you not heard the idiom: “a woman without talent is a virtuous woman.”
 
 • %Sai-lou gia-tak ui-ho lai?%
 西蘆 寄讀 爲何 來？
+Who sent these letters from Sai-lou?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ciang lv%
 娼 你
+You immoral woman
 
 • %sui-sv ua zou-be gong-zv, nai-si ge-hak, u-ho buk-ko?%
 隨師 我 祖父 功書，乃是 家學，有何 不可？
@@ -1730,214 +1738,270 @@ Video 1: [47:48](https://youtu.be/oI7fTLB5lB0?t=2868)
 
 %a-ni gian-ki!%
 阿妮 行起！
+Let’s go, Nanny!
 
 （乳娘）
 
 %ho, lai gian%
 好，來行
+Alright, let’s go.
 
 （楊秀才）
 
 • %Dang-hua-lau zien deng hung-ing%
 東華樓 上 訂 婚姻
+A marital match made at the Eastern Flowery Tower
 
 • %san-tui si-to gv seng-cing%
 三推四托 拒 成親
+Many times have excuses been given for not following through
 
 • %a-ni oi!%
 阿妮 ⿰口會！
+O Nanny!
 
 （乳娘）
 
 • %siu-zai oi!%
 秀才 ⿰口會！
+O Young Master!
 
 （丑、阿妮）
 
 • %nang gim sok-gau Lv-pou kv, toin ta lai-dang ho-ngueng-ing%
 俺 今 速到 呂浦 去，睇 他 內中 何原因
+We speed along to %Lv-pou%, to find out what the reason could be
 
 • %toin ta lai-dang ho-ngueng-ing%
 睇 他 內中 何原因
+What the reason could be
 
 （楊秀才）
 
 %zv-cong Dang-hua-lau dian-cing, lu-cv kv-sing cui-cu,%
 自從 東華樓 定親，屢次 去信 催娶，
+Ever since the match was agreed on at the Eastern Flower Tower, we have sent many letters urging for the wedding to be organized
 
 %Sou-ge zong-si to-san-ieng-si%
 蘇家 總是 托三延四
+But the %Sou% family keep delaying
 
 %gim-rik cing-dua ru-nie, gau Gik-ien cui-cing%
 今日 親帶 乳孃，到 揭陽 催親
+Today I go personally with my Nanny to %Gik-ien% to press the matter
+
+> 揭陽 : Province in Teochew where Sai-lou is located.
 
 %a-ni, kuai-se lai gian-ki%
 阿妮，快些 來 行起
+Quick Nanny, let’s go!
 
 （乳娘）
 
 %ho, lai-gian, lai-gian%
 好，來行 來行
+Alright, let’s go
 
 （丑、阿妮）
 
 • %ain-gian ziu lai gian, nang gian-gian iu gian-gian%
 欲行 就來 行，俺 行行 又 行行
+We will go, we will go along our way,
 
 • %buk-gak lai-gau Die-ziu-sian%
 不覺 來到 潮州城
+Without realizing it we come to Teochew City
 
 （楊秀才）
 
 %a-ni, gau Die-ziu-sian%
 阿妮，到 潮州城
+Nanny, we are at Teochew City
 
 （乳娘）
 
 %ha, gau-liou Die-ziu-sian liou%
 哈，到了 潮州城 了
+Oh, we have arrived at Teochew City
 
 %v, siu-zai oi, lv toin ze-gai suan, gie-zo sim-moh suan?%
 噁，秀才 ⿰口會，你 睇 這個 山，叫做 什麼 山？
+O Young Scholar, look at that mountain, what is its name?
 
 （楊秀才）
 
 %Hang-suan!%
 韓山！
+Mount Han!
 
 （乳娘）
 
 %suan-ka[?] zek dua-cu, sim-moh cu?%
 山腳 一 大厝，什麼 厝？
+That large building at its foot, what is it called?
 
 （楊秀才）
 
 %Hang-sv!%
 韓祠！
+Han Temple!
 
 （乳娘）
 
 %suan-e hv-diou koi ne?%
 山下 許條 溪 呢？
+And the river flowing by the mountain?
 
 （楊秀才）
 
 %Hang-gang, Hang-gang%
 韓江，韓江
+The Han River!
 
 （乳娘）
 
 %a, siu-zai, zo-ni long-zong si Hang?%
 啊，秀才，做呢 攏總 是 韓？
+Young Scholar, why are they all called “Han”?
 
 （楊秀才）
 
 %a-ni...%
 阿妮……
+Nanny...
 
 （乳娘）
 
 %oi%
 ⿰口會
+Ay?
 
 （楊秀才）
 
-• %Hang-bhung-gong pue ping-gau Ziou-iang, cong-cv Die-ziu cuk hau-hieng%
-韓文公 被 貶到 朝陽，從此 潮州 出 豪賢
+• %Hang-bhung-gong pue ping-gau Die-ien, cong-cv Die-ziu cuk hau-hieng%
+韓文公 被 貶到 潮陽，從此 潮州 出 豪賢
+After Han Yu was despatched to this region, Teochew has produced many worthy talents.
+
+> 韓文公 : Han Yu 韩愈 (768–824 CE), Tang era scholar-official who was sent away to a post in faraway Teochew province after writing an essay critical of the Emperor. While in Teochew he promoted education and good governance and is hence commemorated by many place names today.
+
+TODO: Check pronunciation of 潮陽 in video
 
 • %au-si Die-ring gam seng-dek, sui ba gang-suan goi sen Hang%
 後世 潮人 感 盛德，遂 把 江山 改 姓 韓
+Succeeding generations of Teochew people were grateful for his contribution, and renamed the river and mountain as Han.
 
 %sek-bhue?%
 識未？
+Do you understand?
 
 （乳娘）
 
 %siu-zai, lv v lau-ia si-buk-si Hang-bhung-gong di mung-seng?%
 秀才，你 與 老爺 是不是 韓文公 的 門生？
+Young Scholar, are you and your father disciples of Han Yu?
 
 （楊秀才）
 
 %buk-si, ta si Tang-ziou nang, li mak-zoin gui-beh-ni liou%
 不是，他 是 唐朝 人，離 目前 幾百年 了
+No, he was a man of the Tang period, which was several hundred years ago.
 
 （乳娘）
 
 %o, buk-rieng a si tak-gue ta-di zv%
 哦，不然 啊 是 讀過 他的 書
+Oh, but you have read his books.
 
 （楊秀才）
 
 %ha ha ha! tak-gue, tak-gue. a-ni, lv ui-ho mung-ki ze-sv ni?%
 哈哈哈！讀過，讀過。阿妮，你 爲何 問起 這事 呢？
+Haha! Yes I have read them. Nanny, why do you ask about this matter?
 
 （乳娘）
 
 %ua si toin lv v lau-ia di bung-nia hua Hang-bhung-gong zek-ien e%
 我 是 睇 你 與 老爺 的 本領 和 韓文公 一樣 啞
+I see that you and your father are talented like Han Yu.
 
 （楊秀才）
 
 %ho, lv cong-ho gin-dik?%
 呵，你 從何 見得？
+Why do you say so?
 
 （乳娘）
 
 %Hang-bhung-gong lai Die-ziu zo-guan%
 韓文公 來 潮州 做官
+Han Yu came to serve as an official in Teochew.
 
 %ziang nang-ge di suan a, gang a, sv-tang a dou in gueng-zian liou%
 將 人家 的 山 啊，江 啊，祠堂 啊 都 已 管正 了
+And took over people’s mountains, rivers, and even shrines.
 
 %lv v lau-ia gueng-zian nang-ge di cang a, cu a, huang-zui a, mueh-ngiep a, ia dou buk-zie%
 你 與 老爺 管正 人家 的 田 啊，厝 啊，風水 啊，物業 啊，也 都 不少
+You and your father have taken over people’s fields, houses, land, things, and more.
 
 %ka buk-si bung-nia v ta zek-ien?%
 豈 不是 本領 與 他 一樣？
+Isn’t that because you are as talented as he?
 
 （楊秀才）
 
 %hiun-iou luang-gang! gian gian gian!%
 休要亂講！行行行！
+Enough with the idle talk, keep walking!
 
 （乳娘）
 
 %a, o-lo dieh suah sen-ki%
 啊，～～ 着 ～ 生氣
+What, why are you angry at being praised?
 
 > o-lo – “to praise”
 > suah – “then, however”
 
 （楊秀才）
 
-• %Hang-gang gung-gung dang-lam liu, Hang-siang-zv hieng-sian ba gie siu%
+• %Hang-gang gung-gung dang-lam liu, Hang Siang-zv hieng-sian ba gie siu%
 韓江 滾滾 東南 流，韓湘子 顯聖 把 橋 修
+The Han River churns as it flows to the South-East. %Hang Siang-zv% appears to fix the bridge.
+
+> 韓湘子 : According to legend, the nephew of Han Yu, who later became one of the Eight Immortals of Taoism.
 
 • %zap-boih (?) , no-ziah sen-ghu zek-ziah liu%
-十八［梭船廿四州］，兩隻 X牛 一隻 溜
+十八［梭船廿四州］，兩隻 鉎牛 一隻 溜
+Eighteen boats and twenty-four islets; two brown cows, one of which is stolen.
 
 （乳娘）
 
 %ai-oi, bho-gue nang dan, nang dan ze dua di-hng zing-si ho huang-geng%
 哎⿰口會，無過 人呾，人呾 這 大 地方 真是 好 風景
+Ah, it is as they say, this place really has great scenery.
 
 （楊秀才）
 
 %a-ni oi, ua li to-cing sim-gip, lv li gu-dieh toin huang-geng%
 阿妮 ⿰口會，我 哩 討親 心急，你 哩 顧着 睇 風景
+Nanny, here I am worried about my coming marriage, while you admire the scenery.
 
 %hueng-si zek-ming gian zek-ming toin, mai dam-ghou si-gang%
 還是 一面 行 一面 睇，勿 耽誤 時間
+Let’s look while walking, and not waste time.
 
 （乳娘）
 
 %ho, zek-ming lai gian, zek-ming lai toin%
 好，一面 來 行，一面 來 睇
+Alright, look while walking.
 
 （楊秀才）
 
 %gian gian gian%
 行行行
+Let’s go!
 
 ## 第六出 • Scene 6
 
