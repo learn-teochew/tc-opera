@@ -2011,72 +2011,89 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 
 %a! v! a! ze-se dong-si ain-sueh si mung, li bho cu!%
 啊！噁！啊！這些 東西 欲說 是 門，哩 無 厝！
+Ah! I’d like to say that this is a doorway, but there is no building!
 
 %ain-sueh si hou-deng, li bho zia-hou!%
 欲說 是 雨亭，哩 無 遮雨！
+I’d like to say it is a rain shelter, but it doesn’t block out the rain!
 
 （楊秀才）
 
 %iu-lai, iu-lai! ze-si deng, ze-si deng!%
 又來 又來！這是 亭，這是 亭！
+Oh not again. It is a pavilion! 
 
 （乳娘）
 
 %deng?%
 亭？
+Pavilion?
 
 （楊秀才）
 
 %si zak-hu-deng%
 是 節婦亭
+It is a pavilion for virtuous widows.
+
+> 節婦 : Widows who do not remarry after the death of their husbands were considered to be virtuous and loyal.
 
 （乳娘）
 
 %zak-hu-deng%
 節婦亭
+Pavilion for virtuous widows.
 
 （楊秀才）
 
 %hu si buk-ge ceng zak-hu, guan-hu ui-ta lip bai-huang%
 夫 死 不嫁 稱 節婦，官府 爲他 立 牌坊
+When a woman’s husband dies, but she does not remarry, she is called a virtuous widow. The state will build a memorial for her.
 
 （乳娘）
 
 %lip bai-huang%
 立 牌坊
+Build a memorial
 
 （楊秀才）
 
 %a-ni, na lv si ua-gai ru-nie, siu-zak buan-seng%
 阿妮，那 你 是 我個 乳孃，守節 半生
+Nanny, you were my wet nurse, and have devoted half your life looking after me.
 
 %tai-ua ziang-lai zo dua-guan ne, zv-rieng v-lv gieng gai zak-hu-deng%
 待我 將來 做 大官 呢，自然 與你 建 個 節婦亭
+When I become a great official, I will naturally build you a memorial to your virtue!
 
 （乳娘）
 
 %ai-ia ho-no ho-no%
 哎呀 好𰇇 好𰇇
+Oh that would be nice
 
 （楊秀才）
 
 %gian!%
 行
+Let’s go!
 
 （乳娘）
 
 %v...%
 噁……
+Oh...
 
 （楊秀才）
 
 %a-ni, lv ui-ho ti-kau?%
 阿妮，你 爲何 啼哭？
+Nanny, why are you weeping?
 
 （乳娘）
 
 %ua dou bhoi-kau, lv dan kv-mung a-dia ziu zai%
 我 都 𠁞哭，你 旦 去問 阿爹 就知
+You had better ask your father why.
 
 > The nurse is implying that she is not a virtuous widow because his father has had his way with her.
 
@@ -2084,24 +2101,29 @@ Video 1: [52:50](https://youtu.be/oI7fTLB5lB0?t=3170)
 
 %mung ung a-ba? gian gian gian gian gian%
 問 阮 阿爸？行行行行行
+Ask my father? Let’s keep walking...
 
 （乳娘）
 
 %siu-zai oi, tai-ua zek-e...%
 秀才 ⿰口會，待我 一下……
+Young Scholar, wait for me...
 
 （楊秀才）
 
-• %ain ziah ho-he bhe (?), ain cu giou-ci Sou-lak-nie%
-欲食 好蝦 ［馬鮫鱌］，欲娶 嬌妻 蘇六娘
+• %ain ziah ho-he beh-bak-cien, ain cu giou-ci Sou-lak-nie%
+欲食 好蝦 白腹䱽，欲娶 嬌妻 蘇六娘
+I will eat good prawns and white-bellied pomfret; I will marry the beautiful maiden %Sou Lak-nie%!
 
 • %sim-dang huan-hi buk-gak ieng, buan-suan gue-nia zien Gik-ien!%
 心中 歡喜 不覺 遠，盤山 過嶺 上 揭陽！
+If one is happy one does not mind the distance. Across the mountain and the pass we go to %Gik-ien%!
 
 （乳娘）
 
 %siu-zai oi, mai na (?) me a, tai-ua zek-e a!%
 秀才 ⿰口會，勿 那 X 猛 啊，待我 一下 啊！
+Young Scholar, don’t be so fast, wait for me!
 
 ## 第七出 • Scene 7
 
