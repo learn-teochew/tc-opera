@@ -1108,335 +1108,419 @@ Video 1: [31:48](https://youtu.be/oI7fTLB5lB0?t=1908)
 
 • %bhung-dau dia-dia gui-lai%
 聞道 爹爹 歸來
+I hear that Father has returned,
 
 • %pau-hia liou zam-suan mang hiang-zoin%
 拋下了針線忙向前
+So I cast down my embroidery and head outside.
 
 • %me-rieng-gang zi-gin dia-nie cung-suan so%
 猛然間 只見 爹娘 春山鎖
+Only to see Father and Mother furrowing their brows in worry.
 
 • %sim ceng-iu%
 甚 情由
+What is the matter?
 
 • %sim ceng-iu sai-nang hui ghi-cai%
 甚 情由 使人 費 疑猜
+What is the matter that causes you concern?
 
 %dia-nie bhueng-hok%
 爹娘 萬福
+Many blessings, Father and Mother.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ua gian buk-eng, zo-hia%
 我囝 不用，坐下
+There’s no need, my child. Sit down.
 
 （六娘）• %Lak-nie%
 
 %si%
 是
+Yes.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ua-gian, lv-be cv-cv zien-sian%
 我囝，你父 此次 上城
+My child, your father was up in the city,
 
 %ziang-lv zong-sing hv-pue Riou-peng Ien sv-ia zv zv,%
 將你 終身 許配 饒平 楊師爺 之子，
+And has found you a match, a life partner, the son of Master %Ien% of %Riou-peng%,
 
-%Ien zv-liang siu-zai liou.%
+%Ien Zv-liang siu-zai liou.%
 楊子良 秀才 了。
+The licentiate %Ien Zv-liang%.
 
 （六娘）• %Lak-nie%
 
 %za-sueh? dia-dia ziang nvng-ri hv-pue nang liou moh?%
 怎說？爹爹 將 女兒 許配 人 了 麽？
+What do you mean? Father you have betrothed your daughter to him?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zian si%
 正是
+Yes, that is so.
 
 （六娘）• %Lak-nie%
 
 %i...%
 哎……
+Ah...
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ri a, mih (...)%
 兒 啊，乜 XX
+Child, what is the matter?
 
 （六娘）• %Lak-nie%
 
 • %sik zi-mo biou-hian za-hia ghek gian-tai%
 實 指望 表兄 早下 玉鏡臺
+In truth, I had hoped to be betrothed to my cousin.
+
+> 玉鏡臺 : Metaphor for betrothal, allusion to the story of Wen Jiao of Jin 晉溫嶠
 
 • %za... za zai-dau dia-dia soin ba ueng-pou co ang-bai?%
 怎…… 怎知道 爹爹 先把 鴛譜 錯 安排？
+How... how was I to know that Father had already promised me to the wrong person?
 
 • %peng-di huang-bo zou-ki, cv-ceng lang ai%
 平地 風波 驟起，此情 難 挨
+Strong winds whip up across the plains. This is a difficult matter!
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %nvng-ri!%
 女兒！
+Daughter!
 
 （六娘）• %Lak-nie%
 
 %bho-cing!%
 母親！
+Mother!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %nvng-ri, ui-ho ru-cv?%
 女兒，爲何 如此？
+Daughter, what is this?
 
 （六娘）• %Lak-nie%
 
 %dia-dia, nvng-ri buk-ge, nvng-ri buk-ngueng ge ia%
 爹爹，女兒 不嫁，女兒 不願 嫁 呀
+Father, I do not want to marry, I don’t want to marry him.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %e! lam-dua dvng-hung, nvng-ziang dvng-ge, za-moh ho-sueh buk-ge han?%
 啞！男大 當婚，女長 當嫁，怎麼 好說 不嫁 X？
+What? When men and women come off age they are to be married. How can you say that you do not want to marry?
 
 （六娘）• %Lak-nie%
 
 • %ui-ri zv-iun hak si-li%
 爲兒 自幼 學 詩禮
+Your child has studied the classics of poetry and rites from a young age.
 
 • %ia-zai hung-ing su iu dia zu-cai, a%
 也知 婚姻 須 由 爹 主裁，啊
+I know that fathers should decide on matters of matrimony.
 
 %za-nai ua mua-bak...%
 怎奈 我 滿腹……
+But my chest is full...
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %lv mua-bak sim-moh?%
 你 滿腹 什麼？
+What is your chest full of?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %nvng-ri, za-moh iu buk-sueh liou?%
 女兒，怎麼 又 不說 了？
+Daughter, why have you stopped talking?
 
 （六娘）• %Lak-nie%
 
 %mua-huai sim-sv...%
 滿懷 心事……
+Chest full of matters of the heart...
 
 （桃花）• %To-hue%
 
 %nie-gian...%
 娘囝……
+Miss...
 
 （六娘）• %Lak-nie%
 
 • %sung-mung To-hue sv bieng-zai%
 詢問 桃花 事 便知
+Ask %To-hue%, she knows
 
 （桃花）• %To-hue%
 
 %ha? mung ua?%
 哈？問 我？
+What? Ask me?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zv uek-tak uek-m-sien-ien, zing-zing ka-u-cv-li?!%
 書 越讀 越唔像樣，真真 豈有此理？！
+The more books you read the more improper you become. What is the meaning of this?!
 
 %To-hue, kuai-kuai zien-lai!%
 桃花，快快 上來！
+%To-hue%, come here!
 
 （桃花）• %To-hue%
 
 %ziu-lai%
 就來
+Yes.
 
 %bi-zv kau-gin ueng-ghua ang-ring%
 婢子 叩見 員外 安人
+Greetings to Master and Mistress.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zek-pang!%
 一旁！
+TODO
 
 %To-hue!%
 桃花！
+%To-hue%!
 
 （桃花）• %To-hue%
 
 %bi-zv zai%
 婢子 在
+I am here.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %nie-gian gv-hung buk-ge, gau-doin so-ui ho-ing?%
 娘囝 拒婚 不嫁，到底 所爲 何因？
+What is the reason that Miss refuses to marry?
 
 （桃花）• %To-hue%
 
 %bing ueng-ghua ang-ring, ze-si nie-gian zong-sing dai-sv%
 稟 員外 安人，這是 娘囝 終身大事
+Master, Mistress, this is Miss’s big day
 
 %ge v buk-ge, bi-zv ho-cong dik-zai?%
 嫁 與 不嫁，婢子 何從 得知？
+As a servant, I would not know why she wants to marry or not.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %hu-sueh! nie-gian cing-kau sueh-dau, sim-sv rui-u lv zai%
 胡說！娘囝 親口 說道，心事 唯有 你知
+Nonsense! She said herself that only you know what is in her heart.
 
 %lv su ho-ho sik-sueh, huang-mieng siu-zeh, huang-mieng siu-zeh liou a%
 你 須 好好 實說，方免受責，方免受責 了 啊
+You’d better speak the truth if you don’t want to be punished!
 
 （桃花）• %To-hue%
 
 %i...%
 哎……
+Ai...
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %huan-buk kuai-kuai sueh-cuk ha?%
 還不 快快 說出 哈？
+Still not going to tell the truth quickly?
 
 （桃花）• %To-hue%
 
 %ueng-ghua a, ang-ring%
 員外 啊，安人
+Master, Mistress...
 
 %nie-gian sim-sv, bi-zv sik-si buk-zai, hueng-kiu kueng-su, hueng-kiu kueng-siu%
 娘囝 心事，婢子 實是 不知，還求 寬恕，還求 寬恕
+What Miss has in her heart, I truly do not know. I beg your forgiveness!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
-%zuan-bi! huan-gan (gam-nai?), ka-leng siang-iong a%
-賤婢！還敢 感奈，豈能 相容 啊
+%zuan-bi! huan-gan gau-nai, ka-leng siang-iong a%
+賤婢！還敢 狡賴，豈能 相容 啊
+Stupid wench! You dare to be evasive? Can this be tolerated?
 
 %Bhue-hien, cu ge-huap zien-lai, cu ge-huap zien-lai!%
 梅香，取 家法 上來，取 家法 上來！
+%Bhue-hien%, bring the rod!
+
+> 家法 : Lit. “family discipline”, figuratively punishments used on children or servants.
 
 %kuai sueh!%
 快說！
+Speak up!
 
 （桃花）• %To-hue%
 
 %bing ueng-ghua ang-ring, sv gau ru-gim bi-zv mua ia buk-dik%
 稟 員外 安人，事 到 如今 婢子 瞞 也 不得
+Master, Mistress, things have come to a head, I cannot hide anything.
 
 %zi-si tian-dvng zv-zien, seng-kiong ngang zv buk-bieng %
 只是 廳堂 之上，誠恐 言 之 不便
+I only fear that it would not be opportune for me to speak openly in the receiving hall.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %Bhue-hien to-hia%
 梅香 退下
+%Bhue-hien%, you may leave
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %kuai-sueh, kuai-sueh!%
 快說，快說！
+Speak up, speak up!
 
 （桃花）• %To-hue%
 
 %iong-bing%
 容稟
+Alright,
 
 • %hung-ing dai-sv sui leng mieng%
 婚姻 大事 誰 能 免
+Who can avoid the calling of matrimony?
 
 • %be-bho zu-hung, be-bho zu-hung zv-gou so gai-rieng%
 父母 主婚，父母主婚 自古 所 皆然
+The parents decide on the match, this has been the way since ancient times.
 
 • %nie-gian u-gim gan kang-meng, zv-u ueng-iu do ki-dang%
 娘囝 于今 敢 抗命，自有 緣由 在 其中
+Miss dares to resist this only because she has her reasons for doing so.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ta zv-iun gia-tak gu-ge, zai-zv dak-li%
 她 自幼 寄讀 舅家，知書 達理
+She has been raised and educated in her uncle’s household since she was an infant. She knows the classics and observes the law.
 
 %na u sim-moh ueng-iu?%
 那有 什麼 緣由？
+What reasons could these be?
 
 （桃花）• %To-hue%
 
 %ang-ring oi, ziu-si ze-gai gia-tak gu-ge, cai-u ze-dien huang-bo li%
 安人 ～，就是 這個 寄讀 舅家，纔有 這場 風波 哩
+Madam, it is precisely this time in her uncle’s household, that has stirred up this trouble.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ua-hian ge-gui ngiem-sok, sui-gan ria-si sen-hui?%
 我兄 家規 嚴肅，誰敢 惹是生非？
+My brother’s house rules are strict. Who dares flout them?
 
 （桃花）• %To-hue%
 
 %Gueh-hu mung-teng cim sv-hai%
 郭府 門庭 深 似海
+The Gueh household’s reputation is as deeply established as the ocean.
 
 %sui-zai huang-liu ung-sv geng-do sie-cien zv-dong%
 誰知 風流 韻事 竟在 小牆 之中？
+Who knew that the trigger for amorous intentions could stir up within those walls?
 
 %gu lau-ia di-ge ngiem lai-ghua%
 舅老爺 治家 嚴 內外
+Mr Gueh governs his household strictly, within and without.
 
 %lau hu-ring sieh-sung, lai-ghua zek-buan tong%
 老夫人 惜孫，內外 一般 同
+Mrs Gueh loves her niece, within and without.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ho-kuang nang-ge nie-gian v bie-siou-ia%
 何況 俺家 娘囝 與 表少爺
+To say nothing of our daughter and her cousin...
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %han?! ta liang-nang zo sim-moh?%
 ～？！他兩人 做 什麼？
+Huh?! What did they do?
 
 （桃花）• %To-hue%
 
 %ta liang-nang zv-iun tong-teng gang-in%
 他兩人 自幼 同窗共硯
+The two were raised together in the same household.
 
 %ze siou-ghueh ciou-sek siang i-bang%
 這 數月 朝夕 相 依傍
+These many months and seasons they have been each others’ companions.
 
 %iu sai To-hue tueng-zv di-gang%
 又使 桃花 傳書 遞柬
+And instructed me to pass letters back and forth between them.
 
 %di-gang tueng-zv coin-beh-pieng%
 遞柬傳書 千百遍
+These have been hundreds and thousands of letters.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ai-ia, ze, ze hueng liou-dik%
 哎呀，這 還 了得？
+Alas, is that all?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ai-ia, ko-nau, ko-nau!%
 哎呀，可惱，可惱！
+Alas, how vexing, how vexing!
 
 • %hng ngek-nvng ru-cv mong-long, buk-siu gui-hung bai ge-hong%
 遠 逆女 如此 朦朧，不守 閨訓 敗 家風
+This rebellious girl has been so foolish, she has offended against propriety and soiled the family name.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 • %toin ki-lai dou-si lv%
 睇 起來 都是 你
+It looks like it was all your fault.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 • %dou-si lv kang-zam ing-suan lueng gui-goh%
 都是 你 牽針 引線 亂 閨閣
+You were the one who led her astray.
 
 • %ui im-bhue tueng-zv di-gang ba sv-tong%
 爲 淫媒 傳書 遞柬 把 私通
+In the manner of a matchmaker, passing secret messages back and forth.
 
 %ua ki ziang ki-lai ziang lv pah%
 我 氣 將 起來 將你 拍
+I am so angry that I will hit you.
 
 （桃花）• %To-hue%
 
