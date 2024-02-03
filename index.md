@@ -24,8 +24,7 @@ project. Please visit our main website for more resources to help you learn the
 Teochew language.
 
 
-Links to external resources
-----------------------------
+## Links to external resources
 
  * [Scans of playscripts for Teochew opera film productions from the 1950s and
    1960s, National University of Singapore Library](https://lib.nus.edu.sg/sea_chinese/documents/chao%20ju%20jiao%20ben/chao%20ju%20jiao%20ben.htm)
@@ -37,6 +36,7 @@ channels with Teochew opera content:
  * [HYLAM](https://www.youtube.com/user/MrAlexHY)
  * [LingGoh](https://www.youtube.com/c/LingGoh)
  * [Nam Hwa Opera](https://www.youtube.com/c/NamHwaOpera)
+
 
 ## Further reading
 
@@ -58,3 +58,12 @@ Teochew opera in diaspora communities
  * Beiyu Zhang. 2021. *Chinese Theatre Troupes in Southeast Asia: Touring
    Diaspora, 1900s–1970s*. London: Routledge.
    [doi:10.4324/9781003031567](https://doi.org/10.4324/9781003031567)
+
+
+## Acknowledgements
+
+Many thanks to members of the [Gaginang](https://gaginang.carrd.co/) online
+community who have freely shared their knowledge and resources, and librarians
+and staff at the [Yeo Khee Lim TCRC](https://yeokheelimtcrc.com/) and
+[BULAC](https://www.bulac.fr/mot-cle/bulac-english) for their help in using
+their collections.
