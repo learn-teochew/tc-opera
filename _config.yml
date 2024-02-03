@@ -28,7 +28,7 @@ markdown: kramdown
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "aqua"
 
 plugins:
   - jekyll-include-cache
@@ -38,8 +38,8 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - dang-san-ngou-nie.*.md
-  - sou-lak-nie.*.md
+  - dang-san-ngou-nie.markup.md
+  - sou-lak-nie.markup.md
 
 defaults:
   - scope:
