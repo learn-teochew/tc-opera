@@ -11,10 +11,10 @@ because the language used in Teochew opera is different from everyday
 vernacular language, and it seemed too difficult to understand for a beginner.
 
 This website focuses on providing resources to help you learn Teochew from
-Teochew opera, including phonetic transcriptions with Teochew Pêng’im,
-translations, and explanatory notes.
+Teochew opera, including phonetic transcriptions, translations, and explanatory
+notes.
 
- * [Teochew operas transcribed with Pêng’im and translated into English.]({{ site.baseurl }}{% link _pages/transcriptions.md %})
+ * [Teochew operas transcribed with phonetic spelling, Chinese characters, and translated into English.]({{ site.baseurl }}{% link _pages/transcriptions.md %})
 
  * [Guide to historical Teochew opera playscripts from the Ming and Qing eras]({{ site.baseurl }}{% link _pages/historical-scripts.md %})
    -- how to read them, links to digitized versions and full-texts

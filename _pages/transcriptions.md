@@ -16,12 +16,17 @@ usually translations or paraphrases into Mandarin, and do not fit the Teochew
 words exactly. The transcriptions here use Teochew phonetics and characters to
 avoid this problem.
 
-Phonetic transcriptions are in the three most popular romanization systems:
+Phonetic transcriptions are in the four most popular romanization systems:
 [Guangdong Education Department
 Pêng’im](https://zh.wikipedia.org/wiki/潮州話拼音方案) (1960), Gaginang.org
 Peng’im, [Peh-ue-ji](https://en.wikipedia.org/wiki/Teochew_Romanization) and
 the [Tie-tsiann-hue Tie-lo system](http://teochew.pw). Online videos of these
 opera productions are linked in the files below.
+
+If you are interested in converting between different Teochew romanization
+systems, try our Python package [parsetc](https://pypi.org/project/parsetc/),
+available on PyPI, based on
+[lark](https://lark-parser.readthedocs.io/en/latest/) v0.11.
 
 
 ## 《陳三五娘》Dang-san Ngou-niê (1961 film production)
