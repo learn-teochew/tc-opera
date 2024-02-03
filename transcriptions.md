@@ -19,23 +19,25 @@ avoid this problem.
 Phonetic transcriptions are in the three most popular romanization systems:
 [Guangdong Education Department
 Pêng’im](https://zh.wikipedia.org/wiki/潮州話拼音方案) (1960), Gaginang.org
-Peng’im, and the [Tie-tsiann-hue Tie-lo system](http://teochew.pw). Files are
-in PDF format. YouTube videos of these opera productions are linked in the
-files below.
+Peng’im, [Peh-ue-ji](https://en.wikipedia.org/wiki/Teochew_Romanization) and
+the [Tie-tsiann-hue Tie-lo system](http://teochew.pw). Online videos of these
+opera productions are linked in the files below.
 
 
 ## 《陳三五娘》Dang-san Ngou-niê (1961 film production)
 
-  * [Guangdong Pêng’im, PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.pdf %})
-  * [Gaginang Peng’im, PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.pdf %})
-  * [Tie-lo, PDF]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.pdf %})
+  * [Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %})
+  * [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %})
+  * [Peh-ue-ji]({{ site.baseurl }}{% link dang-san-ngou-nie.duffus.md %})
+  * [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %})
 
 
-## 《蘇六娘》Sou lag-niê (1957 film production) - excerpts
+## 《蘇六娘》Sou lag-niê (1957 film production) - translation in progress
 
-  * [Guangdong Pêng’im, PDF]({{ site.baseurl }}{% link sou-lak-nie.gdpi.pdf %})
-  * [Gaginang Peng’im, PDF]({{ site.baseurl }}{% link sou-lak-nie.ggnn.pdf %})
-  * [Tie-lo, PDF]({{ site.baseurl }}{% link sou-lak-nie.tlo.pdf %})
+  * [Guangdong Pêng’im]({{ site.baseurl }}{% link sou-lak-nie.gdpi.md %})
+  * [Gaginang Peng’im]({{ site.baseurl }}{% link sou-lak-nie.ggnn.md %})
+  * [Peh-ue-ji]({{ site.baseurl }}{% link sou-lak-nie.duffus.md %})
+  * [Tie-lo]({{ site.baseurl }}{% link sou-lak-nie.tlo.md %})
 
 
 
