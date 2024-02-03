@@ -3,21 +3,20 @@ layout: home
 title: Learn Teochew with Teochew Opera
 ---
 
-![](cion-he-opera.png){:width="25%" style="float:left; padding:15px"} Teochew
-Opera has a rich tradition and is one of the most famous art forms associated
-with Teochew language and culture. As a heritage speaker of Teochew, I found it
-fascinating but also very intimidating, because the language used in Teochew
-opera is different from everyday vernacular language, and it seemed too
-difficult to understand for a beginner.
-
-
+![]({{ site.baseurl }}{% link /assets/images/cion-he-opera.png %}){:width="25%"
+style="float:left; padding:15px"} Teochew Opera has a rich tradition and is one
+of the most famous art forms associated with Teochew language and culture. As a
+heritage speaker of Teochew, I found it fascinating but also very intimidating,
+because the language used in Teochew opera is different from everyday
+vernacular language, and it seemed too difficult to understand for a beginner.
 
 This website focuses on providing resources to help you learn Teochew from
 Teochew opera, including phonetic transcriptions with Teochew Pêng’im,
 translations, and explanatory notes.
 
- * [Teochew operas transcribed with Pêng’im and translated into English.]({{ site.baseurl }}{% link transcriptions.md %})
- * [Guide to historical Teochew opera playscripts from the Ming and Qing eras]({{ site.baseurl }}{% link historical-scripts.md %})
+ * [Teochew operas transcribed with Pêng’im and translated into English.]({{ site.baseurl }}{% link _pages/transcriptions.md %})
+
+ * [Guide to historical Teochew opera playscripts from the Ming and Qing eras]({{ site.baseurl }}{% link _pages/historical-scripts.md %})
    -- how to read them, links to digitized versions and full-texts
 
 These pages are part of the [Learn Teochew](https://learn-teochew.github.io)

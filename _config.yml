@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learn Teochew with Teochew Opera - links to historical texts, digitized
   versions, as well as our own Pêng’im transcriptions and translations.
 baseurl: "/tc-opera" # the subpath of your site, e.g. /blog
-url: "https://learn-teochew.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://learn-teochew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LearnTeochew
 github_username:  learn-teochew
 
@@ -34,12 +34,15 @@ plugins:
   - jekyll-include-cache
 #   - jekyll-feed
 
+include:
+  - "_pages"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - dang-san-ngou-nie.markup.md
-  - sou-lak-nie.markup.md
+  - _pages/dang-san-ngou-nie.markup.md
+  - _pages/sou-lak-nie.markup.md
 
 defaults:
   - scope:

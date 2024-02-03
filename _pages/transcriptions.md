@@ -1,7 +1,7 @@
 ---
 type: page
-title: Pêng’im transcripts and translations
-permalink: /transcriptions/
+title: Phonetic transcripts and translations
+permalink: /transcriptions
 ---
 
 To help Teochew learners who are curious about the language used in Teochew
@@ -26,18 +26,18 @@ opera productions are linked in the files below.
 
 ## 《陳三五娘》Dang-san Ngou-niê (1961 film production)
 
-  * [Guangdong Pêng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.gdpi.md %})
-  * [Gaginang Peng’im]({{ site.baseurl }}{% link dang-san-ngou-nie.ggnn.md %})
-  * [Peh-ue-ji]({{ site.baseurl }}{% link dang-san-ngou-nie.duffus.md %})
-  * [Tie-lo]({{ site.baseurl }}{% link dang-san-ngou-nie.tlo.md %})
+  * [Guangdong Pêng’im]({{ site.baseurl }}{% link _pages/dang-san-ngou-nie.gdpi.md %})
+  * [Gaginang Peng’im]({{ site.baseurl }}{% link _pages/dang-san-ngou-nie.ggnn.md %})
+  * [Peh-ue-ji]({{ site.baseurl }}{% link _pages/dang-san-ngou-nie.duffus.md %})
+  * [Tie-lo]({{ site.baseurl }}{% link _pages/dang-san-ngou-nie.tlo.md %})
 
 
 ## 《蘇六娘》Sou lag-niê (1957 film production) - translation in progress
 
-  * [Guangdong Pêng’im]({{ site.baseurl }}{% link sou-lak-nie.gdpi.md %})
-  * [Gaginang Peng’im]({{ site.baseurl }}{% link sou-lak-nie.ggnn.md %})
-  * [Peh-ue-ji]({{ site.baseurl }}{% link sou-lak-nie.duffus.md %})
-  * [Tie-lo]({{ site.baseurl }}{% link sou-lak-nie.tlo.md %})
+  * [Guangdong Pêng’im]({{ site.baseurl }}{% link _pages/sou-lak-nie.gdpi.md %})
+  * [Gaginang Peng’im]({{ site.baseurl }}{% link _pages/sou-lak-nie.ggnn.md %})
+  * [Peh-ue-ji]({{ site.baseurl }}{% link _pages/sou-lak-nie.duffus.md %})
+  * [Tie-lo]({{ site.baseurl }}{% link _pages/sou-lak-nie.tlo.md %})
 
 
 

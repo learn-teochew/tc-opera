@@ -1,7 +1,7 @@
 ---
 type: page
 title: Historical Teochew Opera Scripts
-permalink: /historical-scripts/
+permalink: /historical-scripts
 ---
 
 The history of Teochew vernacular writing goes back at least five hundred
@@ -47,7 +47,7 @@ Museum.
 
 Photographic reproduction in 《明本潮州戲文五種》 (source for the image below).
 
-![First page from the Gim-toi-gi manuscript](gim-toi-gi-page.png){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
+![First page from the Gim-toi-gi manuscript]({{ site.baseurl }}{% link /assets/images/gim-toi-gi-page.png %}){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Scholarly edition with extensive introductory chapters:
 陈历明《潮州出土戏文珍本〈金钗记〉》（广州人民出版社，2012）
@@ -76,7 +76,7 @@ Several historical editions have been rediscovered, suggesting that this was a
 popular story, frequently adapted and re-printed. The oldest known editions are
 from 1566 (below, left) and 1581 (below, right).
 
-![First page of the Li-gian-gi 1566 edition](li-gian-gi-1566-page.png){:width="48%"} ![First page of the Li-gi-gi 1581 edition](li-gi-gi-1581-page.png){:width="48%"}
+![First page of the Li-gian-gi 1566 edition]({{ site.baseurl }}{% link /assets/images/li-gian-gi-1566-page.png %}){:width="48%"} ![First page of the Li-gi-gi 1581 edition]({{ site.baseurl }}{% link /assets/images/li-gi-gi-1581-page.png %}){:width="48%"}
 
 #### Ming Jiajing 嘉靖 version of 《荔镜记》 (1566)
 
@@ -134,7 +134,7 @@ rediscovered in the future. However these other versions are not available
 online. If you are aware of a publicly available digitization, please get in
 touch!
 
-![First page of reprint of the 1883 edition of Li-gi-gi](li-gi-gi-1884.jpg){:width="30%" style="display:block; margin-left:auto; margin-right:auto;"}
+![First page of reprint of the 1883 edition of Li-gi-gi]({{ site.baseurl }}{% link /assets/images/li-gi-gi-1884.jpg %}){:width="30%" style="display:block; margin-left:auto; margin-right:auto;"}
 
 * 《新𢳣潮調陳三泉南錦曲加調全集》
   * Cover, preface, and postscript missing but dated to ca. 1600 by comparison
@@ -168,7 +168,7 @@ each page, whereas *Gim-huê-neng* is in the lower register. The volume was
 formerly in the collection of Nagasawa Kikuya 長澤規矩也, and is now preserved
 in Tokyo University (source of the image below).
 
-![First page of the combined edition of Gim-hue-nvng (below) and Sou-lak nie (above)](gim-hue-nvng-sou-lak-nie-page.png){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
+![First page of the combined edition of Gim-hue-nvng (below) and Sou-lak nie (above)]({{ site.baseurl }}{% link /assets/images/gim-hue-nvng-sou-lak-nie-page.png %}){:width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
 This historical edition contains a selection of eleven scenes from the play, so
 there are some logical gaps in the story. The modern opera of the same name is
@@ -232,7 +232,7 @@ center for commercial publishing in the Ming and Qing.
 Like most traditional Chinese books, the text is in vertical lines, arranged
 from right to left.
 
-![](historical_opera_script_1.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+![]({{ site.baseurl }}{% link /assets/images/historical_opera_script_1.png %}){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
 The content on this page is in three horizontal blocks: a smaller “upper
 register” 上欄 of text (top), illustrations 插圖 (middle), and a larger “lower
@@ -249,7 +249,7 @@ Each scene or act usually has a numbered heading, followed by a title. Here the
 heading is surrounded by a thick bracket: 【第七出】燈下搭歌 “Scene 7 – joining
 in song under the lanterns”.
 
-![](historical_opera_script_2.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+![]({{ site.baseurl }}{% link /assets/images/historical_opera_script_2.png %}){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Operas are mixtures of sung and spoken parts. The melody is referred to by
 name〔大迓鼓〕and surrounded by brackets or otherwise highlighted. The same
@@ -276,7 +276,7 @@ In the Ming era there were seven main roles:
 In modern times this has been simplified to four main roles: 生、旦、淨、丑,
 but each can be subdivided further (e.g. 小生、老生……).
 
-![](historical_opera_script_3.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+![]({{ site.baseurl }}{% link /assets/images/historical_opera_script_3.png %}){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
 The sung parts are printed with full-width characters, whereas spoken parts are
 printed half-width.
@@ -290,7 +290,7 @@ still Teochew/Minnan words or phrases that are not found in Mandarin.
 In the excerpt below there are Teochew/Minnan words such as 冥昏 *mê-hng*
 “evening”, 值方 *di-huang* “where?”, and 今旦 *gim-dan* “today”.
 
-![](historical_opera_script_4.png){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
+![]({{ site.baseurl }}{% link /assets/images/historical_opera_script_4.png %}){:width="80%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Commercially printed books often used simplified characters because of the
 expense of block carving. For example, 呵𭑧 is a simplified form of 阿娘
