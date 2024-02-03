@@ -1,4 +1,4 @@
-# 蘇六娘（選） • %Sou-lak-nie% (Selection)
+# 蘇六娘（選） • %Sou-lak-nie%
 
 The story of %Sou-lak-nie% (Sixth Lady Sou) is one of the earliest known indigenous Teochew operas, set in the Teochew region and using the local language. This transcription is based on the 1957 film version produced by the 香港鴻圖影業公司 (Hong Kong Great Prospect Film Company), and adapted from Chinese subtitles by 王曉班 (uploaded to YouTube [Part 1](https://youtu.be/oI7fTLB5lB0), [Part 2](https://youtu.be/OepVJnOc_D0) [no longer available] and [Youku](https://v.youku.com/v_show/id_XNzE1MjMyMDY4.html)) and a commemorative booklet published by 大地唱片藝術工業; characters were converted to traditional and some usages were changed to fit the rest of this website. Lines that are sung are indicated with a • character at the beginning.
 
@@ -27,7 +27,7 @@ Video 1: [2:44](https://youtu.be/oI7fTLB5lB0?t=144)
 
 %ziou-sek bai-dou do gang-bieng%
 朝夕 擺渡 在 江邊
-TK
+TODO
 
 %cen-suan lek-zui puan ua lieng%
 青山 綠水 伴 我 臉
@@ -65,7 +65,7 @@ My master received a letter, saying that he has won the suit in court,
 
 %ziu ain hue-ge, ing-cv ang-ring meng ua zoin-uang Sai-lou, zih-hue Nie-gian%
 就 愛 回家，因此 安人 命 我 前往 西蘆，接回 娘囝
-and wants to go home. So my mistress instructed me to go to Sai-lou and fetch our young miss.
+and wants to go home. So my mistress instructed me to go to Sai-lou and fetch our young Miss.
 
 %Beh-a, dan kuai-se be gue-lai!%
 伯啊，旦 快些 過來！
@@ -2133,158 +2133,195 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 • %goi-ka di mua-si, san-gv da dieh-ci%
 雞腳 纏 麻絲，衫裾 搭 着刺
+When a chicken tries to sew with its claws, the clothes will be full of holes.
 
 • %bian li bian-m-kui, zau li zau-m-li%
 拚 哩 拚唔開，走 哩 走唔離
+Making no headway, unable to find a way out.
 
 • %ru-gim Ien-ge lai to-cua, goi kiem-zien sok-si%
 如今 楊家 來 討𡥘，計歉上 孰是
+Today, the %Ien% family has come to demand its bride, what excuse can we make?
 
 • %sai ua ka-mang ciu-lueng, bho-liou zu-i!%
 使我 腳忙手亂，無了 主意！
+I’m all worked up, and out of ideas!
 
 • %hng zi hng na lau-ciang bho-ho ga-si%
 恨 只恨 那 老娼 無好 教示
+I can only blame that old immoral woman for not having taught her proper values.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 • %lau-gau sueh-ue bho-dau-li, ueng-tin ueng-di hueng-su ueng zv-gi%
 老狗 說話 無道理，怨天 怨地 還須 怨 自己
+What an old dog yaps makes no sense. One may blame Heaven and Earth, but still has to blame oneself.
 
 • %lv zong-rik ziah-ba bho-sv zo, zueng-mung cue-pah guan-si%
 你 終日 食飽 無事 做，專門 揣打 官司
+All your days you have been looking for trouble, launching suits against others.
 
 • %ui-liou hong-ngieng guan-hu, buk-gu cing-sen nvng-ri%
 爲了 奉迎 官府，不顧 親生 女兒
+Because you want to curry favor with the officials, you have not paid attention to your own daughter.
 
 • %ru-gim hua-sv lim-tau, toin lv zo-ni si!%
 如今 禍事 臨頭，睇你 做呢 死！
+This dilemma we face today is all caused by you!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %lau-ciang, lv hueng-lai hue-zien ge-iu a!%
 老娼，你 還來 火上加油 啊！
+Immoral woman, you dare to add fuel to the fire?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %lau-gau, sui gie-lv lueng-bui?%
 老狗，誰 叫你 亂吠？
+Old dog, who asked you to yap nonsense?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ze-gai ho-nai a?%
 這個 何奈 啊？
+How can I put up with this?
 
 （僕人）
 
 %bing ueng-ghua ang-ring, zok-dien hua Ien-gou-ia lai-liou%
 稟 員外 安人，族長 和 楊姑爺 來了
+Master, Mistress, the Clan Elder and Mr %Ien% are here.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %han? lai-liou? ngieng-zih ngieng-zih ngieng-zih%
 ～？來了？迎接 迎接 迎接
+What? They are already here? Receive them, receive them.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %rui-hu mung-sian ua u-zeh, gueng-ga cai-nvng2 gui cai-nvng5%
 維護 門聲 我 有責，管教 才女 歸 才郎
+I am charged with protecting our clan’s good name, to see to the education of worthy ladies and gentlemen.
 
 （楊秀才）
 
 %Sai-tin-huk buk-ru Tou-di-beh, cueng-ziang zok-dien zo zu-ziang%
 西天佛 不如 土地伯，全仗 族長 做 主張
+The Buddha of the Western Paradise does not compare to the Earth God. We all depend on you, Clan Elder, for your guidance.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ho-ue, ho-ue%
 好話，好話
+Well said, well said.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zek-gong, siu-zai%
 叔公，秀才
+Great Uncle, Young Scholar.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %siu-zai, ngak-be lv gin-gue, ze-ui ziu-si lv ngak-bho%
 秀才，岳父 你 見過，這位 就是 你 岳母
+Young Scholar, you have met your father-in-law. This is your mother-in-law.
 
 （楊秀才）
 
 %ho, ho! ngak-be ngak-bho do-zien, sie-sai u-li%
 好好！岳父 岳母 在上，小婿 有禮
+Good, good! Parents-in-law have the place of honor, their humble son-in-law pays his respects.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %mieng-li, cian-zo cian-zo%
 免禮，請坐 請坐
+There’s no need to stand on ceremony, please sit.
 
 （楊秀才）
 
 %zo zo zo zo%
 坐坐坐坐
+Let’s all sit.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %zo zo zo zo%
 坐坐坐坐
+Let’s all sit.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %siu-zai, cing-lim hang-sia u-ho gui-gang?%
 秀才，親臨 寒舍 有何 貴幹？
+Scholar, what noble purpose brings your esteemed self to our humble abode?
 
 （楊秀才）
 
 %kai-kau siu-zai, bi-kau siu-zai, mung ua u-ho gui-gang%
 開口 秀才，閉口 秀才，問我 有何 貴幹
+You flatter me by calling me Scholar and speaking of my noble purpose.
 
 %kvk-lai ge-ci zak-ngai, hng!%
 卻來 假癡 作呆，哼！
+Let’s drop the pretence and stop playing dumb!
 
 %lai lai lai, ngak-be, dvng-rik Dang-hua-lau siah-zien dian-cing, si lv cing-kau dap-eng%
 來來來，岳父，當日 東華樓 席上 定親，是你 親口 答應
+Come on, father-in-law. That day at the Eastern Flowery Tower we agreed on a match, and it was you who promised personally.
 
 %zok-dien ui-bhue, ui-ho san-tui si-ieng, buk-ziang ngieng-cu?%
 族長 爲媒，爲何 三推 四延，不將 迎娶？
+Clan Elder was the go-between. Why do you constantly delay, and not arrange the wedding ceremony?
 
 %gim-rik sie-sai deng-mung, ziu-si gau-lai ngieng-cing%
 今日 小婿 登門，就是 到來 迎親
+Today, your son-in-law has come to your door to get his bride.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ze...%
 這……
+This...
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %a? si-hian, ua v-lv sueh-gue gi-cv liou%
 啊？四兄，我 與你 說過 幾次 了
+Ah? Fourth Brother, we have spoken about this many times.
 
 %lv zong-si sueh hau zeh gik-rik%
 你 總是 說 候擇 吉日
+You always tell me that you are looking for an auspicious date.
 
 %ru-gim siu-zai si deng-mung lai cu-cing di%
 如今 秀才 是 登門 來 娶親 的
+Today, the Scholar has come to get married.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zek-gong, lv u-so m-zai, zi-ing ng no-lau duan-sen cv-nvng%
 叔公，你 有所 唔知，只因 阮 二老 單生 此女
+Great Uncle, you may not know, this is because we are an old couple with only this one daughter.
 
 %ni-gi siang-iun, buk-sim bang-sim, gu-cv cian-kiu ieng-mang%
 年紀 尚幼，不甚 放心，故此 請求 延慢
+She is still young, and we are uneasy, and ask for more time.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %si-a, kuang-cia zuang-liem bhue-bi, siu-zai ui-ho ru-cv gip-ciek?%
 是啊，況且 妝簾 未備，秀才 爲何 如此 急切？
+Yes, after all the bridal goods are not yet ready. What is the rush, Scholar?
 
 （楊秀才）
 
 %ai, leng-ain ni in gip-gi, kueng dian-hung in gu%
 哎，令愛 年 已 及笄，況 定婚 已 久
+Your dear one has already come of age, and the match has been long made.
 
 > 笄 - lit. “hairpin”, fig. girl who has come of age
 >
@@ -2292,452 +2329,569 @@ Video 2: [0:02](https://youtu.be/OepVJnOc_D0?t=2)
 
 %ngak-be, ngak-bho, sueh-ue su-ain gvng-li se-se!%
 岳父、岳母，說話 須欲 近理 些些！
+Father-in-law, Mother-in-law, please be reasonable!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %si-a, si-a%
 是啊，是啊
+Yes, yes.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %hen, bu-gui nang-ge, hung-ing dai-sv, su gang bai-ciang%
 吓，富貴 人家，婚姻 大事 須講 排場
+A wealthy family should take time to arrange the wedding ceremony.
 
 %sui-si dian-hung, dang tiu-bi bhue-siu%
 雖是 定婚，但 籌備 未收
+Although a match has been agreed upon, the preparations are not yet complete.
 
 %ziu-lai san-tui-si-bek, dian sim-moh ien-zv?%
 就來 三推四逼，定 什麼 樣子？
+How does it appear when you are pushy and insistent?
 
 （楊秀才）
 
 %a! ngak-bho, to-cing ia-si nang-cing zv sien, za ho-sueh si tui-bek?%
 啊！岳母，討親 也是 人親 之常，怎 好說 是 推逼？
+Mother-in-law, to seek one’s bride is a natural thing in human affairs. How can this be called pushiness?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %hen, bek ia-ho, buk-bek ia-ho, ung no-lau zi-u cv-nvng%
 吓，逼 也好，不逼 也好，阮 兩老 只有 此女，
+Pushy or not, this old couple has only this one daughter.
 
 %ain ru-zien zien-du, mak-zoin bhue-gam riang ta cuk-goh%
 愛 如掌上珠，目前 未甘 讓 他 出閣
+We love her like a pearl in the hand, and at the moment we do not have the heart to have her leave the house.
 
 %lv gi bek buk-gip tai, ziu cian-kv leng-cim sok-nvng%
 你 既 迫不及待，就 請去 另尋 淑女。
+If you are unwilling to wait, then you are welcome to go find another bride.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %cv-ngang za-gang?%
 此言 怎講？
+What did you say?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %leng-cim sok-nvng%
 另尋 淑女
+Find another bride
 
 （楊秀才）
 
 %ai-za! ko-nau, ko-nau!%
 哎咋！可惱，可惱！
+How vexing!
 
 • %bhung ngang-ghv ki cong-tin, bhung ngang-ghv ki cong-tin%
 聞 言語 氣 沖天，聞 言語 氣 沖天
+On hearing this my anger rises to the sky, to the sky!
 
 • %to-hung hueng-hung ho dau-li?%
 退婚 緩婚 何 道理？
+Withdrawing a match, where is the principle in this?
 
 • %ngueng-lai ning lu-cv siang tui-to%
 原來 恁 屢次 相 推托
+So your repeated delays
 
 • %si tiok-i hue-hung ba nang ki, ba nang ki!%
 是 蓄意 悔婚 把 人 欺，把 人 欺！
+Were intentionally meant to break the promise of marriage and to cheat me!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ho ho, siu-zai, hu-ring-ge buk-hiou si-bhu, siu-zai mo guai%
 好好，秀才，婦人家 不曉 世務，秀才 孬怪
+Alright, Scholar, women are not schooled in wordly affairs, please don’t blame her
 
 %Sou-si kiang-zong seng-zok, na-u hv-hung to-hung zv-li v?%
 蘇氏 強宗盛族，那有 許婚退婚 之理 噁？
+The %Sou% clan is renowned and strong: what breaking of marriage promises is there?
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %zek-gong, siu-zai%
 叔公，秀才
+Uncle, Scholar
 
 （楊秀才）
 
 %zing-zing ka-u-cv-li%
 真真 豈有此理
+What is the meaning of this?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %mai ki, mai ki, dan dan dan dan%
 勿氣 勿氣，呾呾呾呾……
+Don’t be angry, come now...
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 • %uang no-lau gian-ni gue buan-beh, cek-e rui-u cv nvng-ri%
 阮 兩老 行年 過 半百，膝下 唯有 此 女兒
+These two elders are each over fifty, and have only this one daughter
 
 • %zi-gak li-nek sim-tau tian, guk-nek siang-lieng lang guah-li%
 指甲 離肉 心頭 痛，骨肉 相連 難 割離
+The pain of parting is like pulling out fingernails, or separating flesh from bone.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 • %dang-gue sui-dua huan-si cai, sie-nvng ni-iun siang bho-di%
 冬瓜 雖大 還是 菜，小女 年幼 尚 無知
+A winter melon, even if it is large, is still just a vegetable. A young girl is most ignorant
 
 • %kiu zek-gong, hueng cian zek-gong lai zo-zu%
 求 叔公，煩 請 叔公 來 做主
+Please, Great Uncle, be the judge in this matter
 
 • %ba hung-ki ieng-mang tai lai-ni%
 把 婚期 延慢 待 來年
+Delay the marriage until next year.
 
 （楊秀才）
 
 %ha, sien ning ze-ien siek-zing gui-goi, ia-si uang-hui sim-gi%
 哈，像 恁 這樣 設盡 詭計，也是 枉費 心機
+This scheming and plotting of yours is just a waste of time.
 
 %lau-sik sueh, ghu-gak m-ziem m-gan gue-nia%
 老實 說，牛角 唔尖 唔敢 過嶺
+To be frank, if the bull’s horns are not sharp, it wouldn’t dare to cross the mountain pass.
 
 %ua gim-rik deng-mung, bieng ain ngieng-cing%
 我 今日 登門，便愛 迎親
+I came here today to fetch my bride.
 
 %riak zai gv-hung, ziu cian gong-dvng siang-gin, gong-dvng siang-gin!%
 若 再 拒婚，就請 公堂 相見，公堂 相見！
+If you once again reject me, we shall see each other in court!
 
 （桃花）• %To-hue%
 
 %gim-tin dvng-zien gin gou-ia, ho-sv zeng-gong zien guan-tian%
 今天 堂上 見 姑爺，好似 諍公 上 官廳
+Meeting you sir here today, has been just like meeting you in the courthouse.
+
+> 姑爺 : husband of an aunt, here used as an honorific by %To-hue% to refer to her mistress’s husband-to-be.
 
 （楊秀才）
 
 %han? lv ze ia-tau, zv-ngang-zv-ghv sueh-se sim-moh ne?%
 哈？你 這 丫頭，自言自語 說些 什麼 呢？
+What? You servant girl, what are you muttering to yourself about?
 
 （桃花）• %To-hue%
 
 %ua sueh gou-ia lv%
 我 說 姑爺 你
+I was speaking of you, sir.
 
 （楊秀才）
 
 %gou-ia zo-ni?%
 姑爺 做呢？
+What about me?
 
 （桃花）• %To-hue%
 
 • %gou-ia gim-rik zek zing-mung, sian-sian sueh ain bo gong-dvng%
 姑爺 今日 一 進門，聲聲 說 愛 報 公堂
+From the moment you came in here today, sir, everything you have said has been as if you were arguing a legal case.
 
 • %cing-ge bhue-seng ueng-ge soin-zo, diem-ziu bhue-im soin bieng svng%
 親家 未成 冤家 先做，甜酒 未飲 先 變 酸
+Before becoming a relation by marriage, you have already become a plaintiff. Before the drinking sweet wine, it has already turned sour.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %a ze ze ze... %
 啊 這這這……
+This... 
 
 （楊秀才）
 
 %zu-ring tai keh, bi-nvng gan lai do-ngang? zing-zing cueng-bho loi-ngi%
 主人 待客，婢女 敢來 多言？真真 全無 禮儀
+Your master is receiving a guest. How dare you as a servant girl interject? This is most improper!
 
 （桃花）• %To-hue%
 
 • %gou-ia gi-si tak-zv hiou loi-ngi%
 姑爺 既是 讀書 曉 禮儀
+Sir you have learned propriety from reading books.
 
 • %dvng zai ring-lung zv dau, dien-iun zung-bui%
 當知 人倫 之 道，長幼 尊卑
+You know the principles of human relations, the positions of senior and junior,
 
 • %tin do zien, tin do zien, su-ain ngiang tau mo, di do e, ain toin ba tau di%
 天 在 上，天 在 上，須愛 仰頭 望，地 在 下，愛 看 把 頭 低
+That Heaven is above all; to see Heaven above, one has to raise one’s head, to see the Earth below, one has to lower one’s head.
 
 • %nap cing dvng-zoin su-zip pian-li, za-ko sian-sian gu-gu da guan-si?%
 納親 當前 須 執 聘禮，怎可 聲聲句句 打 官司？
+To take a wife, you have to first send betrothal gifts. How can you threaten a lawsuit with every word?
 
 （楊秀才）
 
 %toin ning ze-ien so-ui, lai-dang dian u ceng-mik%
 睇 恁 這樣 所爲，內中 定 有 情密
+From what you are dong, there must be some secret love affair going on.
 
 （桃花）• %To-hue%
 
 %cian-mung u ho ceng-mik?%
 請問 有 何 情密？
+What secret love afffair?
 
 （楊秀才）
 
 • %mok-hui si zek-nvng v no-sai, mok-hui si ua-ci v-nang u sai-ceng?%
 莫非 是 一女 與 二婿，莫非 是 我妻 與人 有 私情？
+Could it be that one bride has been promised to two sons-in-law? Could it be that my wife has a secret lover?
 
 （桃花）• %To-hue%
 
 %siu-zai ia, siu-zai, uang lv tak-zv meng-li, gim-rik geng sueh-cuk cv-ue%
 秀才 也 秀才，枉 你 讀書 明理，今日 竟 說出 此話
+Scholar, you have studied books and morality in vain, that you could say something like this today.
 
 %tang-riak nie-gian bhung-zai, za-keng v-lv gang-hiun? v-lv gang-hiun?%
 倘若 娘囝 聞知，怎肯 與你 干休？與你 干休？
+If our Miss would have heard you, how could she tolerate it?
 
 （楊秀才）
 
 %zu-kau zu-kau! lv ze hia-zuan ia-tau!%
 住口 住口！你 這 下賤 丫頭！
+Shut up! You low-class servant-girl!
 
 %gan-lai v-ua dau-kau, ua sien m-sien a%
 敢來 與我 鬥口，我 想唔想 啊
+How dare you talk back to me, I cannot imagine.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %ai-ia mo-i-sv mo-i-sv, zo-la zo-la%
 哎呀 孬意思 孬意思，坐啦 坐啦
+This is most embarrassing, please sit.
 
 （桃花）• %To-hue%
 
 %v! gou-ia oi! mai-ki mai-ki, To-hue nang zuan li buk-zuan%
 噁！姑爺 ～！勿氣 勿氣，桃花 人 賤 理 不賤
+Sir! Don’t be angry. I may be low-class but morality is not.
 
 %sien ua sen-ui nou-bi, dou-si rim-nang cuk-ki%
 想 我 生爲 奴婢，都是 任人 出氣
+As an indentured servant I am here for people to take out their temper on me.
 
 %zi-si gou-ia gue-mung si keh, buk-ko sik-loi%
 只是 姑爺 過門 是 客，不可 失禮
+It is only that Sir you are here as a guest, I should not flout propriety.
 
 %in-au liang-ge cai-ho zo-cing, huan-mo gou-ia san-sv su-zue a, su-zue!%
 以後 兩家 才好 做親，還望 姑爺 三思 恕罪 啊，恕罪！
+For the two families to be joined in marital relation, please forgive me, sir!
 
 （楊秀才）
 
 %ko-nau a!%
 可惱 啊！
+How vexing!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %To-hue a, lv si nou-bok, zu-ring tai-keh, ho-eng lv lai do-ngang a?%
 桃花 啊，你 是 奴僕，主人 待客，何用 你 來 多言 啊？
+%To-hue%, you are a servant. Your master is receiving a guest, why do you speak so much?
+
+> TODO check who is speaking 
 
 （桃花）• %To-hue%
 
 %zok-dien gong, sie-bi m-gan%
 族長 公，小婢 唔敢
+Clan Elder, I do not dare.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %huan-buk kuai-kuai to-hia kv a%
 還不 快快 退下 去 啊
+Why are you not yet leaving?
+
+> TODO check who is speaking
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zok-dien gong gie lv hia-kv, lv zu hia-kv%
 族長 公 叫你 下去，你 住 下去
+If the Clan Elder asks you to go, you go.
 
 （楊秀才）
 
 %ko-nau, ko-nau a!%
 可惱，可惱 啊！
+How vexing!
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ho ho, dien-nang gian-sai, riang-liou m-gian-ien%
 好好，丈人 囝婿，嚷了 唔 行樣 
+Well, it is most unseemly for parents-in-law and son-in-law to bicker.
 
 %siu-zai, lv ko ziem hue ua-ge, ze-sv hau ua v si-hian mang-mang siang-ngi%
 秀才，你可 暫 回 我家，這事 候 我 與 四兄 慢慢 商議
+Scholar, why don’t you first go to my house for now. I will slowly talk this over with Fourth Brother.
 
 （楊秀才）
 
 %ho, iu ta kv pah-svng%
 好，由他 去 拍算
+Fine, let him deal with it.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ho, cian-hue cian hue%
 好，請回 請回
+Yes, please return.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %Lau-si, cv-hung ka-si lv cing-kau dap-eng%
 老四，此婚 豈是 你 親口 答應
+Fourth Brother, this marriage is something that you promised yourself.
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %si, si ua cing-kau dap-eng%
 是，是 我 親口 答應
+Yes, I did promise it myself.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ho-nang ui-bhue?%
 何人 爲媒？
+Who was the matchmaker?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zv-rieng si zek-gong lv%
 自然 是 叔公 你
+Naturally it was you, Great Uncle.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ho zai-dau! ge-ziang zu-hung, zok-dien ui-bhue%
 好知道！家長 主婚，族長 爲媒
+Good that you know! The head of the household decided on the match, and the head of the clan was the go-between.
 
 %gim-rik geng-gan ti-cuk to-hung no-ri%
 今日 竟敢 提出 退婚 二字
+And today you dare speak of breaking the marriage promise?
 
 %Sou-si seng-zok, ti-ming ho-cung, ti-ming ho-cung a?%
 蘇氏 成族，體面 何存，體面 何存 啊？
+Where is the Sou clan going to show its face?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong, ngang-zv sui-si, zi-si ua-nvng ia-buk ngueng-i%
 叔公，言之 雖是，只是 我女 也不 願意
+Great Uncle, be it as it may, my daughter is unwilling.
 
 %tang-u ca-co, ru-ho si ho?%
 倘有 差錯，如何 是好？
+If this was a mistake, what can be done?
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %en? toin-lai lai-dang... dui a! ha ha ha%
 啞？睇來 內中…… 對啊！哈哈哈
+Huh? TODO
 
 %Si-so, hue ka-iong zua-bau%
 四嫂，火 豈容 紙包
+Fourth Sister-in-law, can you contain a fire in a paper bag?
 
 %lai-dang ceng-bi, hueng-su meng-ngang, cai-ho siek-huap goi-ui a%
 內中 情祕，還須 明言，纔可 設法 解圍 啊
+If there is a truly a secret lover, then you should come clean. How else can we figure out a plan?
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %Zek-gong, ge-mung buk-heng, na ngek-nvng, v ua diek-ri Gi-cung...%
 叔公，家門 不幸，那 逆女，與 我 侄兒 繼春……
+Great Uncle, our household is most unfortunate. That rebellious girl and my nephew %Gi-cung%...
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %han?! Lak-nie v Gi-cung? hng! lang-guai, lang-guai ia!%
 ～？六娘 與 繼春？哼！難怪，難怪 呀！
+What? %Lak-nie% and %Gi-cung%? No wonder!
 
 • %be-bho hung-iong nvng buk-siou, bai-huai zou-zong rok mung-hong%
 父母 昏庸 女 不肖，敗壞 祖宗 辱 門風
+Foolish parents and an unseemly daughter, have spoiled the good name of our ancestors.
 
 • %lang-guai ning san-tui si-ieng, kiak ngueng-lai a%
 難怪 恁 三推 四延，卻 原來 啊
+No wonder that you have repeatedly delayed, so this was the reason.
 
 • %zong-nvng im-lueng v-nang sv-tong, Sou-si si-do ceng-beh cong-cv sang!%
 縱女 淫亂 與人 私通，蘇氏 世代 清白 從此 喪！
+To permit your daughter to be promiscuous and have a secret affair, the clean reputation of the Sou clan has now been squandered!
 
 • %ge-gui zok-huap ia buk-siang-iong, ua dian ain cui ta-mung dian zok-huap%
 家規 族法 不相容，我 定 欲 催 他們 定 族法
+If family rules and clan law are not in alignment, then I have to enforce the clan law.
 
 • %ba-ziang lv-nvng dim gang-dong!%
 把將 你女 沉 江中！
+And have your daughter thrown into the river!
 
 %ai-ia! Lau-si a Lau-si a%
 哎呀！老四 啊 老四 啊
+Ah, Fourth Brother...
 
 %ua ziek-si tong-zai Ien siu-zai, i-huap kong-su%
 我 即時 通知 楊 秀才，依法 控訴
+I have to inform Scholar %Ien%, and following the law,
 
 %bian-gie zek-sung bang-nang dim-gang, gueng-ga ning ge-pua nang-bhuang%
 併叫 叔孫 綁人 沉江，管教 恁 家破人亡
+Denounce your daughter and have her bound and thrown into the river, to discipline and ruin your family.
 
 pei! <!--Not a standard Teochew syllable-->
 呸！
+Pah!
 
 （員外、安人）
 
 %ai, Zek-gong zo-ceng, zo-ceng!%
 哎，叔公 做情 做情！
+Great Uncle, be merciful!
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ia-ba, riak-ain bo-cueng lv-nvng sen-mia, su i ua-ngang%
 亦罷，若欲 保全 你女 性命，須 依 我言
+Just as well. If you want to save your daughter’s life, then do as I say.
 
 （員外、安人）
 
 %cian Zek-gong si-meng%
 請 叔公 示明
+Please instruct us, Great Uncle
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %beh-gu ngou-zap sang%
 百句 五十雙
+There’s no use wasting one’s breath
+
+> 一百句 五十雙 : Idiom
 
 %riak-si dap-eng Ien-ge ngieng-cu, bieng ko dvng-zoin buk-giu%
 若是 答應 楊家 迎娶，便可 除前不究
+If she accepts being married to the %Ien% family, then we can forget about the past
 
 %riak-gan buan-sian buk-si a...%
 若敢 半聲 不是 啊……
+If she dares raise half a voice in objection...
 
 %ha ha! na-si hiun-guai sie-lau liou, hiun-guai sie-lau liou!%
 哈哈！那時 休怪 小老 了，休怪 小老 了！
+When the time comes, don’t blame me!
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %Zek-gong zok-hu, ui-diek zv-dvng zung-meng%
 叔公 囑咐，爲侄 自當 尊命
+Great-Uncle, I will do you as you say.
 
 %zi-si na ngek-nvng zip-i buk-cong, tang-riak zek-ca no-co, ru-ho si ho?%
 只是 那 逆女 執意 不從，倘若 一差二錯，如何 是好？
+But this disobedient girl simply will not obey, compounding her errors. What is to be done?
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ze-gai...%
 這個……
+This...
 
 %dau-ia buk-lang, hau ua meng-nang gau lv-ge bo-hi%
 倒也 不難，候 我 命人 到 你家 報喜
+This is not difficult either. Let me despatch someone to bring an announcement to your house,
 
 %sueh si Sai-lou Gueh-ge gu-be in-ui Gi-cung peng-dian mia-mung%
 說是 西蘆 郭家 舅父 已爲 繼春 聘定 名門
+Saying that the uncle of the %Gueh% family of %Sai-lou% has arranged a match for %Gi-cung% to a good family
 
 %dvng-zoh Lak-nie dui Gi-cung ci-ceng%
 斷絕 六娘 對 繼春 癡情
+This will break any affection that %Lak-nie% has for %Gi-cung%
 
 %ta zv-rieng keng-ge Ien-ge liou a%
 他 自然 肯嫁 楊家 了 啊
+So that she will naturally want to marry into the %Ien% family.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ze...%
 這……
+This...
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %ru-ho?%
 如何？
+What about it?
 
 （員外）• %Ueng-ghua% • Landlord Sou
 
 %zek-gong, sv gau ru-gim... tian-cong lv ziu si a%
 叔公，事 到 如今…… 聽從 你 就是 啊
+Great Uncle, given how things have become, we shall do what you say.
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %tian ua ziu ho, ua ziek tong-zai Ien-siu-zai%
 聽 我 就 好，我 即 通知 楊秀才
+It’s best to do as I say. I shall inform Scholar %Ien%
 
 %au-tin bieng-lai ngieng-cu%
 後天 便來 迎娶。
+to come and take his bride the day after tomorrow.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %ai-ia, zai-ho ze-ien kuai?%
 哎呀，怎好 這樣 快？
+Why such haste?
 
 （族長）• %Zok-dien% • Clan Elder Sou
 
 %oi? me-ciang-mang-do, cong-sok-ui-miou, ua gau-si liou a!
 ～？夜長夢多，從速爲妙，我 告辭 了 啊！
+A long night allows more dreaming, being quick is good. I take my leave!
 
-> me-ciang-mang-do, cong-sok-ui-miou – idiom
+> me-ciang-mang-do, cong-sok-ui-miou – idiom, meaning that the more time is allowed, the more opportunities there are for things to go wrong.
 
 （安人）• %Ang-ring% • Mrs Sou
 
 %zek-gong!%
 叔公！
+Great Uncle!
 
 ## 第八出 • Scene 8
 
@@ -2747,45 +2901,56 @@ pei! <!--Not a standard Teochew syllable-->
 
 • %Ien-ge hiou-ak ru lang-houn, zok-dien ui houn ba ek tiem%
 楊家 梟惡 如 狼虎，族長 爲 虎 把 翼添
+The %Ien% family is as ruthless and evil as wolves or tigers. Clan Elder has given the tiger wings.
 
 • %no-lau sui-rieng ain riek-nvng, im-ui zv-e lang siang-liang%
 二老 雖然 愛 弱女，淫威 之下 難 商量
+Although the old couple love their poor daughter, it is hard to bargain with such tyranny.
 
 • %im-ui zv-e lang siang-liang!%
 淫威 之下 難 商量！
+It is hard to bargain with such tyranny!
 
 %beh a! kuai-se ten ua gue-gang a!%
 伯 啊！快些 撐 我 過江 啊！
+Uncle, quick, row me across the river!
 
 （渡公）• %Dou-gong% • Boatman
 
 %To-hue, ui-ho zie-sen huang-mang?%
 桃花，爲何 照生 慌忙？
+%To-hue%, why are you so flustered?
 
 （桃花）• %To-hue%
 
 • %zi ing-ui Ien-ge hue-giou in ling-mung%
 只 因爲 楊家 花驕 已 臨門
+It is because the bridal sedan from the %Ien% family has reached our door
 
 • %iu-tueng Gueh-hu dian ing-cing%
 又傳 郭府 定 姻親
+And passed on news that the %Gueh% household has made a marital match
 
 • %sok-gau Sai-lou tam siou-sek%
 速到 西蘆 探 消息
+I am speeding to %Sai-lou% to find out more
 
 • %gang-siang miou-goi giu ghek-ring%
 共商 妙計 救 玉人
 
 • %hok-mo A-beh siang-zo lak%
 伏望 阿伯 相助 力
+I hope for your help, Uncle
 
 • %dou ua gue-gang gam-ng cim%
 渡 我 過江 感恩 深
+I will be deeply grateful if you bring me across the river.
 
 （渡公）• %Dou-gong% • Boatman
 
 %a! ngueng-lai ze-deng. ho, kuai-se sui-ua loh-zung%
 啊！原來 這等。好，快些 隨我 落船
+So that is what the matter is. Quick, come with me on the boat.
 
 ## 第九出 • Scene 9
 
@@ -2795,70 +2960,91 @@ pei! <!--Not a standard Teochew syllable-->
 
 • %cou-hng mua-huai, cou-hng mua-huai!%
 愁恨滿懷，愁恨滿懷！
+Worry fills my breast, worry fills my breast!
 
 • %cou-hng mua-huai, mung cang-tieng bho-ngang%
 愁恨滿懷，問 蒼天 無言
+Worry fills my breast, but no response comes when I beseech heaven.
 
 • %Sai-lou gu-mang in lang-sang, buk-kam hue-siu gim-ghek ueng%
 西蘆 舊夢 已 闌珊，不堪 回首 金玉緣
+Memories of %Sai-lou% are fading like an old dream, there is no chance of returning to the precious hopes of before.
 
 • %cong-lai ho-sv do bhua-zih, zv-gou boh-mia si ang-ngueng%
 從來 好事 多 磨折，自古 薄命 是 紅顏
+TODO
 
 • %Ien-ge cui-bek sim cen-hue, zok-dien hiou-ak sv houn-lang%
 楊家 催逼 甚 星火，族長 梟惡 似 虎狼
+The %Ien% family press us as urgently as a meteor trail, and the Clan Elder is as devious as a wolf or tiger.
+
+> 急如星火 : idiom
 
 • %ai, dia-nie oi, ning ho rim-sim sia-nvng sing ham lo-lang?%
 唉，爹娘 ～，恁 何 忍心 舍女 身 陷 牢籠？
+Ah, Father and Mother, how can you bear to send your daughter off to be a prisoner?
 
 • %To-hue Sai-lou bhue hue-hueng, zing ga-ua cou-ciang giem beh-gak%
 桃花 西蘆 未 回返，真 教我 愁腸 兼 百結
+%To-hue% has not yet returned from Sai-lou, piling anxieties on my worries.
 
 • %cou-ciang beh-gak sim ziou pang%
 愁腸 百結 心 焦 盼
+Anxiety and worry are all that I see.
 
 （梅香）
 
 %bing nie-gian, ueng-ghua meng-ua deng gip nie-gian cu-lai i-sek%
 稟 娘囝，員外 命我 等 給 娘囝 取來 衣飾
+Miss, Master has instructed me to bring you these clothes
 
 %zung-bi meng-za cuk-goh siu-zuang%
 準備 明早 出閣 梳粧
+And to do your hair and makeup for your wedding tomorrow morning.
 
 （乳娘）
 
 %siu-zai nie%
 秀才娘
+Mrs Scholar
 
 （六娘）• %Lak-nie%
 
-%bhue-hien, cv si ho-nang?%
+%Bhue-hien, cv si ho-nang?%
 梅香，此 是 何人？
+%Bhue-hien%, who is that?
 
 （梅香）
 
 %ze-si Ien-ge ru-nie, gou-ia meng-ta lai puan-bang di%
 這是 楊家 乳娘，姑爺 命他 來 伴房 的
+This is the %Ien% family nanny, Sir has sent her to accompany you.
 
 （乳娘）
 
 %si si si, ua si lai puan-bang le%
 是是是，我 是 來 伴房 ～
+Yes, I am here to accompany you.
 
 %na zo no%
 ～ 坐 𰇇
+I’ll sit myself down
 
 %siu-zai-nie oi, lv ia-oi tak-zv a?%
 秀才娘 ～，你 也會 讀書 啊？
+Mrs Scholar, can you also read books?
 
 %hai-oi, ning zia tak-zv nang, zing-si tin-deng u cen, u hok-ki a!%
 ～～，恁 者 讀書人，真是 天頂 有 星，有 福氣 啊！
+Oh, you book readers are really like stars in the sky, truly blessed!
 
 %a siu-zai ia-si tak-zv-nang%
 阿 秀才 也是 讀書人
+Our young Sir also reads books.
 
 %nang nang-ge lai cian-ta sia zvng pa guan-si%
 俺 人家 來 請他 寫 狀 拍 官司
+Those of our family ask him to write legal briefs for their lawsuits.
 
 %i-gi bik kieh ki-lai gau ziu ueh leng a, ueh houn a, liou ghia nang kv ing-ing zvng-tau ho%
 伊枝 筆 挈 起來 到 就 畫 龍 啊，畫 虎 啊，了 ～ 人 去 印印 指頭 號
