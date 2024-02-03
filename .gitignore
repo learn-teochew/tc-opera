@@ -1,0 +1,7 @@
+bak*
+test*
+.sass*
+Gemfile.lock
+_site/
+/tcparse
+/pdf
