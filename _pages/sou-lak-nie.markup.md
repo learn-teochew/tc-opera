@@ -27,7 +27,7 @@ Video 1: [2:44](https://youtu.be/oI7fTLB5lB0?t=144)
 
 %ziou-sek bai-dou do gang-bieng%<br/>
 朝夕 擺渡 在 江邊<br/>
-TODO
+Day and night, I ferry across the river,
 
 %cen-suan lek-zui puan ua lieng%<br/>
 青山 綠水 伴 我 臉<br/>
@@ -1567,15 +1567,17 @@ TODO
 
 • %gou u Nie-Zok hue-diep%<br/>
 古 有 梁祝 化蝶<br/>
-TODO
+Long ago, %Nie Sang-beh% and %Zok Eng-tai% were transformed into butterflies.
+
+> 梁祝 – Referring to the story of 梁山伯 and 祝英台
 
 • %Nie-Zok hue-diep ing dang-in, gou-bie dang-teng, ia buk-gai%<br/>
 梁祝 化蝶 因 同硯，姑表 同窗 也 不該<br/>
-TODO
+%Nie% and %Zok% transformed into butterflies because they were classmates. Miss should not have been schooled with her cousin.
 
 • %ze-sv si ning co zu-i, guai-zeh To-hue li-ho-lai?%<br/>
 這事 是 恁 錯 主意，怪責 桃花 理何來？<br/>
-TODO
+You have made a wrong decision in this matter. Why place the blame on me?
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
@@ -2674,13 +2676,13 @@ Yes, please return.
 
 %Lau-si, cv-hung ka-si lv cing-kau dap-eng%<br/>
 老四，此婚 豈是 你 親口 答應<br/>
-Fourth Brother, this marriage is something that you promised yourself.
+Fourth Brother, you personally agreed to this marriage.
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 %si, si ua cing-kau dap-eng%<br/>
 是，是 我 親口 答應<br/>
-Yes, I did promise it myself.
+Yes, I did make a promise with my own lips.
 
 **（族長）• %Zok-dien% • Clan Elder Sou**
 
@@ -2722,7 +2724,7 @@ If this was a mistake, what can be done?
 
 %en? toin-lai lai-dang... dui a! ha ha ha%<br/>
 啞？睇來 內中…… 對啊！哈哈哈<br/>
-Huh? TODO
+Huh? It looks like there was behind closed doors... right! Ha ha!
 
 %Si-so, hue ka-iong zua-bau%<br/>
 四嫂，火 豈容 紙包<br/>
@@ -2977,7 +2979,7 @@ Memories of %Sai-lou% are fading like an old dream, there is no chance of return
 
 • %cong-lai ho-sv do bhua-zih, zv-gou boh-mia si ang-ngueng%<br/>
 從來 好事 多 磨折，自古 薄命 是 紅顏<br/>
-TODO
+Good things always come with misfortune, since ancient times, beautiful women have been ill-fated.
 
 • %Ien-ge cui-bek sim cen-hue, zok-dien hiou-ak sv houn-lang%<br/>
 楊家 催逼 甚 星火，族長 梟惡 似 虎狼<br/>
@@ -3053,102 +3055,126 @@ Those of our family ask him to write legal briefs for their lawsuits.
 
 %i-gi bik kieh ki-lai gau ziu ueh leng a, ueh houn a, liou ghia nang kv ing-ing zvng-tau ho%<br/>
 伊枝 筆 挈 起來 到 就 畫 龍 啊，畫 虎 啊，了 ～ 人 去 印印 指頭 號<br/>
-TODO
+When he picks up his writing brush, he draws dragons, he draws tigers, and then brings it to them to have them ink on their fingerprints.
 
 %ai-oi, zie-sen, hia-ngvng ge-ge ziu tam rip-lai%<br/>
-哎～，照生，～銀 加加 就 貪 入來！
+哎～，照生，～銀 加加 就 貪 入來！<br/>
+And just like that, the silver comes rolling in!
 
 > The nursemaid describes how her master uses his literacy in a vulgar way to make profit, which disgusts the high-minded Lak-nie
 
 %siu-zai-nie oi, lv sen-lai iu-ngia iu-ghau%<br/>
-秀才娘 ～，你 生來 又雅 又𠢕
+秀才娘 ～，你 生來 又雅 又𠢕<br/>
+O Mrs Scholar, you are so beautiful and so comely,
 
 %lai pue-bung ua siu-zai, zing-si zek-dui ho ueng-ien a!%<br/>
-來 配分 我 秀才，真是 一對 好鴛鴦 啊！
+來 配分 我 秀才，真是 一對 好鴛鴦 啊！<br/>
+And to be matched with our Young Scholar, it is a match as fine as a pair of mandarin ducks!
 
 **（六娘）• %Lak-nie%**
 
 %Bhue-hien, lv dua ru-nie hue-bang kv uan-sui ba%<br/>
-梅香，你 帶 乳娘 回房 去 安睡 吧
+梅香，你 帶 乳娘 回房 去 安睡 吧<br/>
+%Bhue-hien%, bring Nursemaid back to her room to rest.
 
-**（梅香）**
+**（梅香）** • %Bhue-hien%
 
 %si! ru-nie, zau ba%<br/>
-是！乳娘，走吧
+是！乳娘，走吧<br/>
+Yes Miss! Nursemaid, let's go.
 
-**（乳娘）**
+**（乳娘）** • %Ru-nie% • Nursemaid
 
 %ho, dan gian%<br/>
-好，旦 行
+好，旦 行<br/>
+Fine, now walk
 
 %e... bhue bhue bhue bhue bhue%<br/>
-～…… 未未未未未
+～…… 未未未未未<br/>
+Um, wait wait wait...
 
 %siu-zai-nie oi, siu-lieng li-do iu-si, cah-hue li-do bhau-si%<br/>
-秀才娘～，修臉 哩在 酉時，插花 哩在   卯時
+秀才娘～，修臉 哩在 酉時，插花 哩在   卯時<br/>
+O Mrs Scholar, make up for the face should be done in the evening, while the flowers should be done in the morning.
 
 > 酉時 – evening hours around dusk
 >
 > 卯時 – morning hours around dawn
 
 %ua si-gang zai-lai gah-lv siu-zuang, gah-lv siu-zuang%<br/>
-我 時間 再來 甲你 梳粧，甲你 梳粧
+我 時間 再來 甲你 梳粧，甲你 梳粧<br/>
+When the hour comes, I'll come back to do your makeup.
 
 %ai-oi, sen-lai ngia-zai-zai, ngia-zai-zai ia!%<br/>
-哎～，生來 雅哉哉，雅哉哉 呀！
+哎～，生來 雅哉哉，雅哉哉 呀！<br/>
+Ah, oh! She is so beautiful, so beautiful!
+
+**（六娘）• %Lak-nie%**
 
 • %li-mue-bhuang-liang bek suah nang%<br/>
-魑魅魍魎 逼 煞 儂
+魑魅魍魎 逼 煞 儂<br/>
+All manner of demons bedevil my person.
 
 • %ua leng-si ia buk ge-gau lang-o dong%<br/>
-我 寧死 也 不 嫁到 狼窩 中
+我 寧死 也 不 嫁到 狼窩 中<br/>
+I would rather die than marry into this den of wolves.
 
 • %gau ru-gim gui-mung gueng-tau in do-mo%<br/>
-到 如今 鬼門 關頭 已 在望
+到 如今 鬼門 關頭 已 在望<br/>
+Today, I have arrived and the gates to the underworld are in sight.
 
 • %giu-cen iu miou-u-hung bhueng-kong%<br/>
-救星 猶 杳鳥雲 漫空
+救星 猶 杳烏雲 漫空<br/>
+My saviour is being blocked out by the gathering dark clouds.
 
 %si cv siu-sek bui iu hung!%<br/>
-視 此 首飾 悲 又 憤！
+視 此 首飾 悲 又 憤！<br/>
+Seeing this jewelry fills me with grief and agony!
 
 • %pieng ga Lak-nie im-hng zong%<br/>
-偏 教 六娘 飲恨 終
+偏 教 六娘 飲恨 終<br/>
+I am being told to drink bitterness to the end of my days.
 
 %To-hue? o! bho-cing!%<br/>
-桃花？哦！母親！
+桃花？哦！母親！<br/>
+%To-hue%? O! Mother!
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %nvng-ri, u-ue cian-sueh, hiun ain sien-sim%<br/>
-女兒，有話 請說，休欲 傷心
+女兒，有話 請說，休欲 傷心<br/>
+Daughter, what is on your mind? Why are you in such grief?
 
 **（六娘）• %Lak-nie%**
 
 %bho-cing, lv zing-di rim-sim ziang ri ge-gau Ien-ge mo?%<br/>
-母親，汝 真的 忍心 將 兒 嫁到 楊家 孬？
+母親，汝 真的 忍心 將 兒 嫁到 楊家 孬？<br/>
+Mother, can you really bear to see your child marry into the %Ien% family?
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %nvng-ri, hui-si ui bho...%<br/>
-女兒，非是 爲 母……
+女兒，非是 爲 母……<br/>
+Daughter, as a mother...
 
 **（六娘）• %Lak-nie%**
 
 • %ri si bho-cing sim-tau-nek, ziou-sek buk-li sui nie-sing%<br/>
-兒 是 母親 心頭肉，朝夕 不離 隨 娘身
+兒 是 母親 心頭肉，朝夕 不離 隨 娘身<br/>
+Your child is the flesh from Mother's heart, from dawn to dusk I never leave your side
 
 • %in-zv ham ni ui ain-zv, bho lv sim-bak ho-rim hia zoh-ceng?%<br/>
-燕子 銜泥 爲 愛子，母 汝 心腹 何忍 下 絕情？
+燕子 銜泥 爲 愛子，母 汝 心腹 何忍 下 絕情？<br/>
+TODO
 
 • %ai cing-nie o, cong-gim au%<br/>
-唉 親娘 哦，從今 後
+唉 親娘 哦，從今 後<br/>
 
 • %cong-gim au ho-bi hong-zeng dueng-liou suan%<br/>
-從今 後 好比 風箏 斷了 綫
+從今 後 好比 風箏 斷了 綫<br/>
 
 • %iu ho-bi sik-dua pieng-ziu cang-hai rim piou-leng%<br/>
-又 好比 失舵 扁舟 滄海 任 飄零
+又 好比 失舵 扁舟 滄海 任 飄零<br/>
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
