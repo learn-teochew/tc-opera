@@ -1582,77 +1582,96 @@ You have made a wrong decision in this matter. Why place the blame on me?
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 %dou-si lv, cv-bho bai-ri, zong-iong kv Sai-lou iu-hak%<br/>
-都是 你，慈母 敗兒，縱容 去 西蘆 遊學
+都是 你，慈母 敗兒，縱容 去 西蘆 遊學<br/>
+It was you, an indulgent mother who has failed her child, by sending her off to study at %Sai-lou%
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %v!%<br/>
-□！
+□！<br/>
+Oh!
 
 %dvng-si lv ia ngueng-i, ru-gim geng tui-do lau-sing sing-zien%<br/>
-當時 你 也 願意，如今 竟 推在 老身身上
+當時 你 也 願意，如今 竟 推在 老身身上<br/>
+At the time you also wanted to do so, and yet today you place all the blame on me!
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 • %uek-sv uek-sien uek-nau-ki%<br/>
-越思 越想 越惱氣
+越思 越想 越惱氣<br/>
+The more I think about it, the more I am vexed and angry.
 
 • %dian ain ce-giu cv sv-dueng%<br/>
-定愛 查究 此 事端
+定愛 查究 此 事端<br/>
+I must get to the bottom of it!
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %mang, lv si lau-hu-tu liou%<br/>
-慢，你是 老糊塗 了
+慢，你是 老糊塗 了<br/>
+Slow down, you are old and confused.
 
 %sv in zi-cv, hueng-sien ziang-iang?%<br/>
-事 已 至此，還想 張揚？
+事 已 至此，還想 張揚？<br/>
+Given how far things have developed, do you want it to be publicly known?
 
 %lv lang-dau ziu buk-pa rok-liou mung-hong, rok-liou mung-hong moh!%<br/>
-你 難道 就 不怕 辱了 門風，辱了 門風 麼！
+你 難道 就 不怕 辱了 門風，辱了 門風 麼！<br/>
+Aren't you afraid of ruining our reputation?
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 %riak-buk dui-giu, Ien-ge zek-dang lai cu, na-si ziang ru-ho si ho?%<br/>
-若不 追究，楊家 一旦 來 娶，那是 將 如何 是 好？
+若不 追究，楊家 一旦 來 娶，那是 將 如何 是 好？<br/>
+If I don't pursue the matter, when the %Ien% family come to fetch their bride, what is to be done then?
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %o, ze-ziu zing-to liang-lang liou a%<br/>
-哦，這就 進退 兩難 了 啊
+哦，這就 進退 兩難 了 啊<br/>
+Ah, we can neither move forwards nor backwards.
 
 **（桃花）• %To-hue%**
 
 %ueng-ghua ang-ring, cian-tian sie-bi zek-ngang%<br/>
-員外 安人，請聽 小婢 一言
+員外 安人，請聽 小婢 一言<br/>
+Master, Mistress, please listen to a word from your humble servant
 
 • %Sou-ge bho-zv kong u-cai, cing-zien gia-cing li zian gai%<br/>
-蘇家 無子 空 有財，親上 加親 理 正 該
+蘇家 無子 空 有財，親上 加親 理 正 該<br/>
+The %Sou% family has no sons but it has a fortune, it should be kept in the family
 
 • %gou-bie lieng-hung zv-gou u, za-ba ing-ueng kiang tiah-kai?%<br/>
-姑表 聯婚 自古 有，怎把 姻緣 強 拆開？
+姑表 聯婚 自古 有，怎把 姻緣 強 拆開？<br/>
+From ancient times, cousins have married each other, why force them apart?
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %ua hui bho-cv liem-tau, zi-si nvng-ri buk-ko zau bho-lou%<br/>
-我 非 無此 念頭，只是 女兒 不可 走 母路
+我 非 無此 念頭，只是 女兒 不可 走 母路<br/>
+I have considered this, but my daughter cannot TODO
 
 %kuang-cian ru-gim hung-ing in dian-liou%<br/>
-況且 如今 婚姻 已 定了
+況且 如今 婚姻 已 定了<br/>
+and after all, she is already betrothed.
 
 **（桃花）• %To-hue%**
 
 %ang-ring a%<br/>
-安人 啊
+安人 啊<br/>
+Madam,
 
 • %cang-lo siang-cian ui-gian si, guk-nek ng-ain ho-ring guah-kai?%<br/>
-田螺 尚且 爲囝 死，骨肉 恩愛 何認 割開？
+田螺 尚且 爲囝 死，骨肉 恩愛 何認 割開？<br/>
+Even a snail is willing to die for its child; how can one bear to be parted from one's flesh and blood?
 
 • %nvng-ri ge-gau coin-li-ghua, dai-gang dang-kv lang zai-lai%<br/>
-女兒 嫁到 千里外，大江 東去 難 再來
+女兒 嫁到 千里外，大江 東去 難 再來<br/>
+If your daughter should be married off and move across the great river a thousand miles off to the east, she will rarely return.
 
 • %bhueng-ik ghek-iong ziou-cui sung%<br/>
 萬一 玉容 憔翠 損
+TODO
 
 • %ning no-nang siou-diou mo-geng ceng ko-ai%<br/>
 恁 二人 蕭條 暮景 情 可哀
@@ -1660,82 +1679,102 @@ You have made a wrong decision in this matter. Why place the blame on me?
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %si-a, dou-si lv zia lau buk-si haun pah guan-si%<br/>
-是啊，都是 你 者 老 不是 好 拍 官司
+是啊，都是 你 者 老 不是 好 拍 官司<br/>
+Indeed, it's because of you old man, not content with just winning your legal case,
 
 %ziang zek-gai cing-sen nvng-ri ge-gau coin-li ghua%<br/>
-將 一個 親生 女兒 嫁 到 千里 外
+將 一個 親生 女兒 嫁 到 千里 外<br/>
+you also had to go marry off our daughter to a family a thousand miles away.
 
 %lv lang-dau ring-sim dik-kv%<br/>
-你 難道 忍心 得去
+你 難道 忍心 得去<br/>
+How can you bear to let her go?
 
 %rv-cian rik-au ze bhueng-gueng ge-cai, gie-sui seng-siu, gie-sui seng-siu?%<br/>
-而且 日後 這 萬貫 家財，叫誰 承受，叫誰承受？
+而且 日後 這 萬貫 家財，叫誰 承受，叫誰承受？<br/>
+At the end of the day, who will inherit this fortune of ours?
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 %ai-oi, coin-ueng bhueng-ueng, dou-si zok-zien ze-gai lau-huai-dang%<br/>
-哎□，千怨萬怨，都是 族掌 這個 老壞蛋
+哎□，千怨萬怨，都是 族掌 這個 老壞蛋<br/>
+Ah, oh, a thousand woes, it is all because of that scoundrel, our clan elder
 
 %pieng-pieng cok-seng cv-cing a%<br/>
-偏偏 觸成 此親 啊
+偏偏 觸成 此親 啊<br/>
+who pressed the matter of a betrothal.
 
 **（桃花）• %To-hue%**
 
 %ueng-ghua ang-ring, nie-gian v bie-siou-ia in dang-teng gang-in%<br/>
-員外 安人，娘囝 與 表少爺 已 同窗 共硯
+員外 安人，娘囝 與 表少爺 已 同窗 共硯<br/>
+Master, Mistress: Young Miss and her cousin have already studied by the same window and shared an inkstone.
 
 %rik-gu sen-ain, ze-si nang-ceng zv sien%<br/>
-日久 生愛，這是 人情 之常
+日久 生愛，這是 人情 之常<br/>
+Affection grows from familiarity, this is a natural condition of the human heart.
 
 %ning gim kiang-doh ta si, hv pue Ien-ge, gie ta ru-ho tian-cong, ru-ho tian-cong?%<br/>
-恁 今 強奪 他勢，許 配 楊家，叫他 如何 聽從，如何 聽從？
+恁 今 強奪 他勢，許 配 楊家，叫他 如何 聽從，如何 聽從？<br/>
+If you should force her to go to the %Ien% household, how could she obey?
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %To-hue sueh-dik u-li, ho-buk ba Ien-ge cing-sv to-liou?%<br/>
-桃花 說得 有禮，何不 把 楊家 親事 退了？
+桃花 說得 有禮，何不 把 楊家 親事 退了？<br/>
+What %To-hue% says makes sense. Can't we back out of this betrothal?
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 %to-hung?%<br/>
-退婚？
+退婚？<br/>
+Withdraw?
 
 • %houn si lau-pue nang lau-mia, hv-hung to-hung bai ge-sian%<br/>
-虎死 留皮 人 留名，許婚 退婚 敗 家聲
+虎死 留皮 人 留名，許婚 退婚 敗 家聲<br/>
+A tiger leaves its pelt after death, a person leaves their reputation. Withdrawing from a betrothal would ruin our reputation.
 
 • %kuang-iu zok-dien ui bhue-ieh, houn-su lang-buek goi lang-gian, goi lang-gian!%<br/>
-況又 族長 爲 媒妁，虎須 難拔 計 難行，計 難行！
+況又 族長 爲 媒妁，虎須 難拔 計 難行，計 難行！<br/>
+Not least as Clan Elder was the matchmaker. It is as difficult as plucking the whiskers from a tiger!
 
 **（桃花）• %To-hue%**
 
 %ueng-ghua gi-bho zu-i, nie-gian iu-si dik-ben%<br/>
-員外 既無 主意，娘囝 又是 得病
+員外 既無 主意，娘囝 又是 得病<br/>
+Master, you have not noticed that Young Miss has again taken ill.
 
 %ze-ziu lang-mieng long-cuk hua lai%<br/>
-這就 難免 弄出 禍 來
+這就 難免 弄出 禍 來<br/>
+It is difficult to avoid catastrophe.
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %ai-ia! no-lau zi-u cv-nvng, riak-guan ru To-hue so-ngang,%<br/>
-哎呀！二老 只有 此女，若果 如 桃花 所言，
+哎呀！二老 只有 此女，若果 如 桃花 所言，<br/>
+Ah! We two old people have only this one daughter, if it is as %To-hue% says,
 
 %ziang-lai lv-ua so-gou ho-nang, so-gou ho-nang?%<br/>
-將來 你我 所靠 何人，所靠 何人？
+將來 你我 所靠 何人，所靠 何人？<br/>
+Who are we to rely on in the future? Who can we rely on?
 
 **（員外）• %Ueng-ghua% • Landlord Sou**
 
 %kia-houn lang-hia, zi-u sie-sim gueng-huang, zai-sien liang-ceh ba%<br/>
-奇虎 難下，只有 小心 觀防，再想 良策 吧
+奇虎 難下，只有 小心 觀防，再想 良策 吧<br/>
+It is hard to dismount a tiger. We can only be cautious and think up a new plan.
 
 **（安人）• %Ang-ring% • Mrs Sou**
 
 %To-hue, lv su sie-sim hok-si nie-gian%<br/>
-桃花，你 須 小心 服侍 娘囝
+桃花，你 須 小心 服侍 娘囝<br/>
+%To-hue%, serve your Young Mistress attentively.
 
 **（桃花）• %To-hue%**
 
 %bi-zv cong-meng!%<br/>
-婢子 從命！
+婢子 從命！<br/>
+Your servant shall obey!
 
 ## 第五出 • Scene 5
 
